@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems
-date: 2024-09-18 10:30:51
-updated: 2024-09-20 11:23:26
+date: 2024-09-16T22:16:51.007Z
+updated: 2024-09-20T04:37:46.716Z
 tags:
   - product
 categories:
@@ -27,6 +27,13 @@ Download the latest version of the Bluprint Video Downloader here - Allavsoft ([
 
 ![Bluprint Video Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2 Copy and paste the bluprint video url to Allavsoft.
 
 Copy and paste <https://shop.mybluprint.com/account/class-library> to the Paste URL text box of Allavsoft. ![How to Copy and Paste the Bluprint Videos to Allavsoft?](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/copy-paste-bluprint-video-url-to-allavsoft.jpg)
@@ -39,7 +46,21 @@ Click Option -> Preference to open the Preference window and switch to UI Settin
 
 ![Find the Peference in Windows version](https://www.allavsoft.com/how-to/../images/how-to/windows-option-preference.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Check before Download All Items in Playlist?](https://www.allavsoft.com/how-to/../images/how-to/download-all-items-in-playlist.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * For Mac Users:
 
@@ -71,6 +92,13 @@ Click Download button to start the downloading bluprint videos process. After a 
 
 Please send your bluprint account log in email and password to support@allavsoft.com After we manually input it to bluprint, you can download all your purchased videos in the background by copy and paste the following url <https://shop.mybluprint.com/account/class-library> to Allavsoft and click Download button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can I download directly to an external hard drive?
 
 Please do not set external hard drive as output location. But you can move the downloaded files to your external hard drive. There is no need to pause the download process when you move your downloaded files.
@@ -88,6 +116,19 @@ Method 3: The location of downloaded Bluprint video can be easily found in explo
 ### What are .srt and .vtt files in the Download folder?
 
 The srt and vtt are subtitles, when you play the video, the subtitle will automatically appear. If you need the subtitles, you may retain them, if not, you may delete them.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### I have managed to download all of my Bluprint classes except 1\. I have a few classes that don't seem to download.
 
@@ -110,8 +151,6 @@ In the main screen of the Allavsoft, copy and paste <https://course.mybluprint.c
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

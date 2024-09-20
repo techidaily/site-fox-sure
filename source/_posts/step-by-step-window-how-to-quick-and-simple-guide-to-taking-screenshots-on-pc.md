@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Window How To: Quick & Simple Guide to Taking Screenshots on PC"
-date: 2024-09-18 14:48:39
-updated: 2024-09-20 12:31:44
+date: 2024-09-18T05:30:55.263Z
+updated: 2024-09-19T23:01:34.634Z
 tags:
   - product
 categories:
@@ -61,6 +61,13 @@ Action Tutorials
 
 ![Mirillis Action! - capture screenshots tab](https://mirillis.com/res/old/gfx/tutorials/howto/cs1tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Making Screenshots on Windows using Active Desktop Region / Area method
 
  The active desktop region/area method is more suitable for taking screenshot on windows if you want to capture a specific area of your Windows desktop / screen. To make a screenshot of selectred Windows screen area open Action! Application, open Video capture/recording tab and select the Active Desktop Region/Area recording mode.
@@ -75,13 +82,18 @@ Action Tutorials
 
 ![Mirillis Action! - capture screenshot](https://mirillis.com/res/old/gfx/tutorials/howto/cs4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

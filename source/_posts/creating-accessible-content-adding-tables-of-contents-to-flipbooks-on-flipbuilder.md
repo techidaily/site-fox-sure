@@ -1,7 +1,7 @@
 ---
 title: "Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder"
-date: 2024-09-19 12:27:45
-updated: 2024-09-20 12:35:41
+date: 2024-09-17T23:15:18.717Z
+updated: 2024-09-19T20:29:32.917Z
 tags:
   - product
 categories:
@@ -37,11 +37,17 @@ Follow below steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
