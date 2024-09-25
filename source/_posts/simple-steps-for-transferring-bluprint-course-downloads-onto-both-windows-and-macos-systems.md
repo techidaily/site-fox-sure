@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems
-date: 2024-09-16T22:16:51.007Z
-updated: 2024-09-20T04:37:46.716Z
+date: 2024-09-21T19:52:26.656Z
+updated: 2024-09-25T17:51:25.389Z
 tags:
   - product
 categories:
@@ -15,6 +15,13 @@ thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a83115
 
 We have found a solution to download the video classes from blueprint (original as Craftsy). This method can download all your bluprint videos including own forever library videos, subscription classes, and free gift videos offline to Windows or Mac computer as long as you have access to the video when you use browser. You only need to copy and paste one class-library or subscription classes url to Allavsoft and Click Download button, it will download all of them all at once in the background. After the videos are downloaded, you may move them to external hard drive, iPad, iPhone, Android devices, flash USB or anywhere you like and watch them anytime you like forever.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step by Step Guide on How to Download Bluprint/Craftsy Classes Offline
 
 Please do follow the step by step guide below to download all your bluprint video classes that you have access when you use browser or bluprint app to your computer or tablet.
@@ -27,16 +34,16 @@ Download the latest version of the Bluprint Video Downloader here - Allavsoft ([
 
 ![Bluprint Video Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2 Copy and paste the bluprint video url to Allavsoft.
 
 Copy and paste <https://shop.mybluprint.com/account/class-library> to the Paste URL text box of Allavsoft. ![How to Copy and Paste the Bluprint Videos to Allavsoft?](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/copy-paste-bluprint-video-url-to-allavsoft.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3 Check before Download All Items in Playlist
 
@@ -47,19 +54,19 @@ Click Option -> Preference to open the Preference window and switch to UI Settin
 ![Find the Peference in Windows version](https://www.allavsoft.com/how-to/../images/how-to/windows-option-preference.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Check before Download All Items in Playlist?](https://www.allavsoft.com/how-to/../images/how-to/download-all-items-in-playlist.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * For Mac Users:
@@ -86,18 +93,18 @@ Click Download button to start the downloading bluprint videos process. After a 
 * By default, it downloads the original videos in MP4 format from bluprint. If MP4 is okay for you, please do not check before "Automatically Convert to" in the main screen of our Allavsoft. Not checking "Automatically Convert to" will save computer space and make the downloading process much faster.
 * Please do set the hard drive instead of the external hard drive as the output location. Please do not set external hard drive as output location. Specifing external hard drive as output location may cause downloading no process or downloading failed. But you can move the downloaded files to your exteranl hard drive. There is no need to pause the download process when you move the already downloaded files to your external hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Frequently Asked Questions When Downloading Bluprint**
 
 ### I am trying to download my Own Forever classes from Bluprint. I keep getting the Invalid Token error message. Please advise.
 
 Please send your bluprint account log in email and password to support@allavsoft.com After we manually input it to bluprint, you can download all your purchased videos in the background by copy and paste the following url <https://shop.mybluprint.com/account/class-library> to Allavsoft and click Download button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can I download directly to an external hard drive?
 
@@ -111,24 +118,38 @@ Method 1: In the main screen of Allavsoft, click the link on the right side of S
 
 Method 2: In the Activity tap, right click to select Locate Download Files. ![Get the Downloaded Bluprint Videos](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/right-click.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Method 3: The location of downloaded Bluprint video can be easily found in explore by select any finished activity in "Activity" panel, and then click "Download" menu - "Locate Downloaded File..."<https://www.allavsoft.com/images/how-to/locate-downloaded-files.jpg> ![Locate the Downloaded Bluprint Videos](https://www.allavsoft.com/how-to/../images/how-to/download-bluprint-classes/locate-downloaded-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are .srt and .vtt files in the Download folder?
 
 The srt and vtt are subtitles, when you play the video, the subtitle will automatically appear. If you need the subtitles, you may retain them, if not, you may delete them.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### I have managed to download all of my Bluprint classes except 1\. I have a few classes that don't seem to download.
 
@@ -158,3 +179,25 @@ In the main screen of the Allavsoft, copy and paste <https://course.mybluprint.c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-scripted-sign-offs-for-the-savvy-viewer/"><u>[New] In 2024, Scripted Sign-Offs for the Savvy Viewer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-camera-powerhouses-the-2024-ultimate-list/"><u>[New] Pro Camera Powerhouses – The 2024 Ultimate List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-youtube-downloads-for-ios-devices/"><u>[New] Step-by-Step Guide YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-biggest-buzz-stars-youtube-creators-with-highest-views/"><u>[Updated] The Biggest Buzz Stars YouTube Creators with Highest Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-newcomers-primer-to-av1-codecs/"><u>2024 Approved A Newcomer’s Primer to AV1 Codecs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-framing-frontiers-cutting-edge-app-innovations-24/"><u>2024 Approved Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-artisans-guide-to-flawless-skype-calls-capture-and-storage/"><u>2024 Approved The Artisan's Guide to Flawless Skype Calls Capture and Storage</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/can-you-position-your-brands-emblem-above-the-main-content-area-learn-how-at-flipbuildercom/"><u>Can You Position Your Brand's Emblem Above the Main Content Area? Learn How at FlipBuilder.com</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-protect-your-vision-from-screen-glare-using-lensdirects-prescription-blue-light-blockers/"><u>Comprehensive Review: Protect Your Vision From Screen Glare Using LensDirect's Prescription Blue Light Blockers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-step-by-step-editing-and-enhancing-your-youtube-content/"><u>In 2024, Step-by-Step Editing and Enhancing Your YouTube Content</u></a></li>
+</ul></div>
+
