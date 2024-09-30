@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Nuxt Dashboard PRO v2 by Creative Tim: Supercharge Admin Sites with Nuxt 3, Bootstrap N5"
-date: 2024-09-18T22:38:20.401Z
-updated: 2024-09-25T17:36:52.251Z
+date: 2024-09-29T07:33:18.774Z
+updated: 2024-09-30T10:45:12.121Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,20 +54,18 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-audio-archiving-pc-noises-and-dialogue-storage-for-2024/"><u>[New] Audio Archiving PC Noises & Dialogue Storage for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-stay-grounded-in-virtual-reality-spaces-for-2024/"><u>[New] How to Stay Grounded in Virtual Reality Spaces for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-personalized-and-accessible-video-conclusions-downloads/"><u>[New] Personalized & Accessible Video Conclusions Downloads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simple-steps-to-modify-screen-capture-on-macos-for-2024/"><u>[Updated] Simple Steps to Modify Screen Capture on macOS for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-high-quality-video-downloads-get-the-guardian-episodes-in-multiple-formats-mp4-mov-avi-etc/"><u>1. High-Quality Video Downloads: Get The Guardian Episodes in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-motorola-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Motorola</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-the-ultimate-download-manager-replacement-allavsofts-cross-platform-protection-suite/"><u>Discover the Ultimate Download Manager Replacement: Allavsoft’s Cross-Platform Protection Suite!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/download-essential-training-from-fintree-india-with-the-easy-to-use-video-downloader/"><u>Download Essential Training From FinTree India with the Easy-to-Use Video Downloader</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-airpods-switching-between-iphones-and-macs-heres-how/"><u>Solving the Issue of AirPods Switching Between iPhones and Macs - Here's How!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-to-modifying-page-elements-for-optimal-flipbook-conversion-experience/"><u>Step-by-Step Guide to Modifying Page Elements for Optimal Flipbook Conversion Experience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-pitfalls-for-novice-youtube-creators/"><u>Top 8 Pitfalls for Novice YouTube Creators</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transforming-your-digital-books-look-with-flipbuilder-simple-steps-to-change-backgrounds/"><u>Transforming Your Digital Book's Look With FlipBuilder: Simple Steps to Change Backgrounds</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/turn-your-web-pages-into-engaging-e-booklets-using-flipmaster-download-now-from-flipbuildercom/"><u>Turn Your Web Pages Into Engaging E-Booklets Using FlipMaster - Download Now From flipbuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-flipbuilders-comprehensive-refund-guidelines-a-detailed-overview/"><u>Understanding FlipBuilder's Comprehensive Refund Guidelines: A Detailed Overview</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-a-comprehensive-guide-to-online-podcast-recording/"><u>[New] 2024 Approved A Comprehensive Guide to Online Podcast Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-channel-dynamo-craft-your-content-empire/"><u>[New] 2024 Approved Channel Dynamo Craft Your Content Empire</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[New] 2024 Approved Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-60-quick-witty-tiktok-one-liners/"><u>[Updated] In 2024, 60 Quick Witty TikTok One-Liners</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creativetims-expert-guide-on-combining-nuxt-with-laravel-for-a-seamless-argon-dashboard-experience/"><u>@Creativetim's Expert Guide on Combining Nuxt with Laravel for a Seamless Argon Dashboard Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>2024 Approved Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-expertly-crafted-flask-administration-panel-elegant-bootstrap-ve-responsive-black-theme-for-web-developers/"><u>Creative Tim's Expertly Crafted Flask Administration Panel - Elegant Bootstrap Ve Responsive Black Theme for Web Developers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-extensive-collection-of-35plus-react-design-templates-and-ui-components/"><u>Creative Tim's Extensive Collection of 35+ React Design Templates and UI Components</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-no-cost-bootstrap-4-and-vue-framework-based-admin-dashboard/"><u>Creative Tim's No-Cost Bootstrap 4 and Vue Framework Based Admin Dashboard</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creative-tims-top-tier-paper-kit-pro-enhanced-bootstrap-4-user-interface-kit/"><u>Creative Tim's Top-Tier Paper Kit PRO: Enhanced Bootstrap 4 User Interface Kit</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-chapters-to-vimeo-video-for-2024/"><u>How to Add Chapters to Vimeo Video for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a34-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A34 5G Phone without PIN</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>In 2024, The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
 </ul></div>
 
