@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)
-date: 2024-09-26T21:09:14.449Z
-updated: 2024-09-29T17:40:49.561Z
+date: 2024-09-29T18:45:28.389Z
+updated: 2024-10-05T19:17:44.285Z
 tags:
   - product
   - antivirus
@@ -51,10 +51,10 @@ Malware is the short form for referring a Malicious Software that can be used to
 There are numerous [types of these malicious](https://tools.techidaily.com/malwarefox/products/) programs that are very much enough to put you at absolute security risks. The list includes viruses, Spyware, worm, Phishing, Trojan horse, [Ransomware](https://tools.techidaily.com/malwarefox/products/), Backdoors, Rootkits, [Keyloggers](https://tools.techidaily.com/malwarefox/products/), Grayware, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Warning Signs of Malware Infection
@@ -83,6 +83,13 @@ After entering into the Safe Mode, you may find that your system runs faster, an
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 2: Delete Temporary Files**
 
 The temporary files folder can also be a carrier of malicious files. You should delete all the temporary files and folders regularly for the smooth running of the system. Removing the temporary files would also clear the unnecessary clutter from your system and free up valuable space.
@@ -97,13 +104,6 @@ Here are the steps to eliminate the temporary files on Windows 10:
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
@@ -115,6 +115,13 @@ On Windows 11, it is easy to remove Temporary files. Here are the steps:
 2. From the left pane, choose **System** settings and click on **Storage** from the right.![storage settings windows 11](https://www.windowschimp.com/wp-content/uploads/2021/10/storage-settings-windows-11.png)
 3. Click on the **Temporary files** option.![temporary-files-Windows-11](https://www.windowschimp.com/wp-content/uploads/2021/10/temporary-files-Windows-11.png)
 4. Tick all the boxes that you want to delete and click on **Remove files**.![delete-temporary-files](https://www.windowschimp.com/wp-content/uploads/2021/10/delete-temporary-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -130,49 +137,37 @@ Windows 10Windows 11
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Uninstall Suspicious Apps on Windows 11**
 
 1. Right-click on the Start button and select **Task Manager** from the list.![Windows-11-task-manager](https://www.malwarefox.com/wp-content/uploads/2021/09/Windows-11-task-manager.png)
 2. Look out for the applications which are unnecessarily consuming the system resources without actively running.
-3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
-4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
+4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 4: Remove System Restore Points**
 
@@ -183,13 +178,6 @@ The system restore points can also have the potential to contain malware, so del
 3. Tap the _“Delete”_ button to delete the restore points for your system. Now, the small confirmation dialog window will persist, click _“continue”_ to remove all the restore points on the selected drive.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 5: Reset Web Browser Settings**
 
@@ -207,21 +195,20 @@ Here are the steps to reset the Google Chrome browser:
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
 4. Next, click on the **Reset Settings** button to finish resetting the Chrome Browser.![reset-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Control a Chrome Extension’s Permissions](https://tools.techidaily.com/malwarefox/products/)
 
@@ -232,6 +219,14 @@ Follow these steps to reset the Mozilla Firefox:
 1. Open Mozilla Firefox, click on the menu button at the top right corner, and select **Help**.![firefox-help](https://www.malwarefox.com/wp-content/uploads/2021/09/firefox-help.png)
 2. Under Firefox Help, choose **More troubleshooting information**.![more-troubleshooting-options](https://www.malwarefox.com/wp-content/uploads/2021/09/more-troubleshooting-options.png)
 3. On the Troubleshooting Information page, click on the **Refresh Firefox** button under **Give Firefox a tune up**. This is on the right side of the page.![refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/refresh-firefox.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On the warning pop-up, click on **Refresh Firefox**.![click-on-refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/click-on-refresh-firefox.png)
 
 #### **Reset Microsoft Edge Browser**
@@ -244,6 +239,13 @@ On Microsoft Edge, follow these instructions to reset it:
 4. Next, on the Restore settings pop-up, click on the **Reset** button.![reset-edge-browser](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-edge-browser.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 6: Install and Scan with an Anti-Malware**
 
@@ -296,20 +298,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-enhanced-game-recorders-beyond-fbx-frameworks/"><u>[New] Enhanced Game Recorders Beyond FBX Frameworks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone/"><u>[Updated] Downloading with Diligence How to Securely Save Images/Videos on iPhone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-free-cam-screen-recorder-review-and-best-alternative/"><u>[Updated] In 2024, Free Cam Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-of-free2x-recording-tech/"><u>[Updated] In 2024, Unveiling the Secrets of Free2X Recording Tech</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[Updated] Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebots-influence-on-smart-marketing-strategies/"><u>Cookiebot's Influence on Smart Marketing Strategies</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-to-enable-pdf-download-on-your-site-with-flipbuilder/"><u>Easy Guide to Enable PDF Download on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/efficient-steps-for-instantly-exporting-live-settings-into-a-theme-in-flipbuilder/"><u>Efficient Steps for Instantly Exporting Live Settings Into a Theme in FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transform-several-pdf-documents-into-individual-flipbooks-using-custom-naming-schemes-flipbuildercom/"><u>Effortlessly Transform Several PDF Documents Into Individual Flipbooks Using Custom Naming Schemes [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/enhance-your-ebooks-by-adding-photos-a-guide-on-crafting-pixel-perfect-page-turners-with-flipbuilder-technology/"><u>Enhance Your eBooks by Adding Photos: A Guide on Crafting Pixel-Perfect Page Turners with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/future-proofing-development-the-art-of-saving-and-recycling-flipprojects-on-flipbuildercom/"><u>Future-Proofing Development: The Art of Saving and Recycling FlipProjects on FlipBuilder.com</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-105-classic-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia 105 Classic Phone Pattern Lock</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-sound-on-your-apple-device-top-picks/"><u>Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-editors-guide-best-for-youtube-content/"><u>The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-flash-frame-filmmakers-plan/"><u>[New] 2024 Approved Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quick-convert-facebook-videos-to-mp4-opting-for-hd-variants/"><u>[New] In 2024, Quick-Convert Facebook Videos to MP4, Opting for HD Variants</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-the-15-best-free-online-image-enhancement-tools/"><u>[New] Unveiling the 15 Best Free Online Image Enhancement Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accompanying-audio-whatsapp-statement-boost/"><u>[Updated] Accompanying Audio WhatsApp Statement Boost</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-enhancing-code-efficiency-mastering-the-assembly-attribute-configuration-panel/"><u>1. Enhancing Code Efficiency: Mastering the Assembly Attribute Configuration Panel</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/clear-your-pictures-fast-ultimate-tutorial-on-de-blurring-images-using-iphone-apps/"><u>Clear Your Pictures Fast: Ultimate Tutorial on De-Blurring Images Using iPhone Apps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-tutorial-on-how-to-reset-and-restore-an-iphone-x-from-its-backup-files/"><u>Complete Tutorial on How to Reset and Restore an iPhone X From Its Backup Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-bridging-the-visibility-gap-for-online-media/"><u>In 2024, Bridging the Visibility Gap for Online Media</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/linux-vendor-kernel-security-compromised-recent-research-confirms-and-suggests-remedies-zdnet/"><u>Linux Vendor Kernel Security Compromised? Recent Research Confirms & Suggests Remedies | ZDNet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/next-level-setup-the-ultimate-guide-to-advanced-installer-customization/"><u>Next-Level Setup: The Ultimate Guide to Advanced Installer Customization</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-stream-microsoft-teams-conferencing-directly-onto-your-tv/"><u>Step-by-Step Tutorial: Stream Microsoft Teams Conferencing Directly Onto Your TV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Substituting Characters With Line Breaks Using Notepad++</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
 </ul></div>
 

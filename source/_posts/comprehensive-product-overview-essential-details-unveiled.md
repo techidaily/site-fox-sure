@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Product Overview: Essential Details Unveiled"
-date: 2024-09-27T11:08:37.458Z
-updated: 2024-09-30T11:32:36.978Z
+date: 2024-10-01T17:25:20.762Z
+updated: 2024-10-05T20:03:00.973Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 The interface is designed to allow the user to set project name, version, and publisher just like in the user interface of Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -142,17 +142,17 @@ IProductDetails : IDispatch
 ![Product details](https://cdn.advancedinstaller.com/img/powershell-automation/product-details.png "Product details")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -160,10 +160,10 @@ IProductDetails : IDispatch
 **SetIcon(String IConSourceFile, UINT IconIndex)**Sets the product icon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -209,20 +209,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-into-3d-designing-layered-textured-texts-psx/"><u>[Updated] Step Into 3D Designing Layered, Textured Texts PSX</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-discover-the-leading-apps-for-instagrams-vertical-igtv-edits/"><u>2024 Approved Discover the Leading Apps for Instagram's Vertical IGTV Edits</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-11r-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus 11R</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-the-distinctions-understanding-tiff-vs-jpeg-file-formats/"><u>Exploring the Distinctions: Understanding TIFF Vs. JPEG File Formats</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-buy-mirillis-products-understanding-the-purchasing-process-and-payment-methods/"><u>How to Buy Mirillis Products: Understanding the Purchasing Process and Payment Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/pixels-perfection-elevate-your-picture-crafting-for-2024/"><u>Pixels Perfection Elevate Your Picture Crafting for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-role-and-utility-of-a-smartwatch-in-todays-tech-landscape/"><u>The Role & Utility of a Smartwatch in Today's Tech Landscape</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pova-6-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Pova 6 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unleash-zodiac-potential-in-personal-bios-on-messaging-apps-for-2024/"><u>[New] Unleash Zodiac Potential in Personal Bios on Messaging Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhance-zoom-soundscape-with-strategic-settings-tweaks-for-2024/"><u>[Updated] Enhance Zoom Soundscape with Strategic Settings Tweaks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-enhancing-workplace-productivity/"><u>ChatGPT's Role in Enhancing Workplace Productivity</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-settings-in-the-module-package-tab/"><u>Exploring Settings in the Module Package Tab</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cultivating-community-in-stardews-ginger-territory/"><u>In 2024, Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-nord-n30-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus Nord N30 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-adjustments-the-editors-guide-to-gopro-video-magic-for-2024/"><u>Masterful Adjustments The Editor's Guide to GoPro Video Magic for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-install-errors-win11/"><u>Understanding and Correcting Windows Install Errors (Win11)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/king-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
 </ul></div>
 

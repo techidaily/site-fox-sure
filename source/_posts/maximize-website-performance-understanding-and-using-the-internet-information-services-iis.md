@@ -1,7 +1,7 @@
 ---
 title: "Maximize Website Performance: Understanding and Using the Internet Information Services (IIS)"
-date: 2024-09-22T17:34:50.682Z
-updated: 2024-09-29T21:17:07.228Z
+date: 2024-09-29T21:19:17.692Z
+updated: 2024-10-05T20:26:16.298Z
 tags:
   - user-guide
 categories:
@@ -103,59 +103,52 @@ Install and configure Web Sites and Virtual Directories on an IIS Server or add 
 
 This Advanced Installer utility ensures a fast and uniform installation of your web applications on multiple servers, without having to worry about manually configuring the IIS on every machine through Microsoft Management Console.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Configuring The Global IIS Settings
 
 In order to configure global IIS settings like: post install actions (backup metabase, open Microsoft Management Console for IIS), adding ISAPI filters or configure a global MIME map, select the “Global Settings” tree item from the left pane.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These options become available once you have added at least one[Web Site](https://tools.techidaily.com/advancedinstaller/products/) or [virtual directory](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new Application Pool
 
 ![New Application Pool](https://cdn.advancedinstaller.com/img/toolbar/iis-app-pool.png "New Application Pool")Use the\[New Application Pool \] toolbar button, the “New Application Pool” tree context menu item or press the\* key while the “Web Sites, Virtual Directories” panel is focused.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a new Web Site
 
 ![New Web Site](https://cdn.advancedinstaller.com/img/toolbar/iis-web-site.png "New Web Site")Use the \[New Web Site \] toolbar button, the “New Web Site”tree context menu item or press theInsert key while the “Web Sites, Virtual Directories” panel is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new Virtual Directory to a Web Site
 
 ![New Web Application](https://cdn.advancedinstaller.com/img/toolbar/iis-web-app.png "New Web Application")Use the\[New Web Application \] toolbar button, the “New Web Application” tree context menu item or press the+ key while the “Web Sites, Virtual Directories” panel is focused.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![New Virtual Directory](https://cdn.advancedinstaller.com/img/toolbar/iis-virtual-directory.png "New Virtual Directory")Use the \[New Virtual Directory \] toolbar button or the “New Virtual Directory” tree context menu item.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can create **nested** virtual directories by choosing “New Virtual Directory” when another virtual directory is selected in the tree. You can create as many child virtual directories as you like. A nested virtual directory "VDir\_C" of the web site "MySite" can be addressed by the following URL:http://MySite/VDir\_A/VDir\_B/VDir\_C
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new Web Deploy Package
 
 ![Add Web Deploy Package](https://cdn.advancedinstaller.com/img/toolbar/iis-webdeploy-pkg.png "Add Web Deploy Package")Use the \[Add Web Deploy Package \] toolbar button or the “Add Web Deploy Package” tree context menu item.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Renaming Web Sites or Virtual Directories
 
@@ -164,16 +157,17 @@ Use the “Rename” tree context menu item or press the F2 key while an element
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Web Site names and Virtual Directory names are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can contain Windows Installer property references, which will be resolved at install time.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Deleting Web Sites or Virtual Directories
@@ -181,10 +175,10 @@ Use the “Rename” tree context menu item or press the F2 key while an element
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")Use the \[Delete \] toolbar button, the “Delete” tree context menu item, or press the Delete key while an element from the “Web Sites, Virtual Directories” panel is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can use the [Browse IIS](https://tools.techidaily.com/advancedinstaller/products/) Advanced Installer functionality to enumerate existing Web Sites, Virtual Directories and Web Applications, as well as Application Pools on the IIS server.
@@ -192,10 +186,10 @@ Use the “Rename” tree context menu item or press the F2 key while an element
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You can configure any IIS entity by selecting the corresponding view from the **Basic Settings** top dropdown.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -280,22 +274,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-the-science-and-art-of-attention-grabbing-titles/"><u>[New] Master the Science and Art of Attention-Grabbing Titles</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-process-for-iphone-voice-memo-creation/"><u>[New] Step-by-Step Process for iPhone Voice Memo Creation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-5-pro-audio-techniques-for-windows-10-users/"><u>2024 Approved 5 Pro Audio Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-picks-the-top-5-professional-drone-brands/"><u>2024 Approved Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/download-movies-and-shows-from-ishare-rediff-using-rediff-downloader-a-step-by-step-guide/"><u>Download Movies and Shows From iShare Rediff Using Rediff Downloader: A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-guide-to-quick-screen-captures-on-mac-using-shortcuts/"><u>Expert Guide to Quick Screen Captures on Mac Using Shortcuts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-to-converting-bild-video-files-into-mp4-format-on-pc-or-mac/"><u>Guide to Converting Bild Video Files Into MP4 Format on PC or MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-access-and-enjoy-spotify-tracks-through-mediamonkey-a-complete-tutorial/"><u>How to Access and Enjoy Spotify Tracks Through MediaMonkey - A Complete Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-save-twitch-streams-from-pc-or-mac-a-comprehensive-guide/"><u>How to Save Twitch Streams From PC or Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s24-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy S24 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-video-conversion-on-xminus-platform-transform-tracks-to-mp4mov-for-better-learning/"><u>Master Video Conversion on XMinus Platform - Transform Tracks to MP4/MOV for Better Learning</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seamless-media-capture-software-save-your-favorite-shows-from-tv-now-in-various-video-codes-such-as-mp4-avi-and-mov/"><u>Seamless Media Capture Software: Save Your Favorite Shows From TV NOW in Various Video Codes Such as MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-your-site-how-to-resolve-safe-form-issues-with-our-effective-tutorial/"><u>Secure Your Site: How to Resolve 'Safe' Form Issues with Our Effective Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweettub-ios-app-for-fetching-twitter-vids/"><u>TweetTub IOS App for Fetching Twitter Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-easy-to-remember-chrome-os-snapshot-tips/"><u>[New] 2024 Approved Easy-to-Remember Chrome OS Snapshot Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-of-film-narrative/"><u>[New] The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-cash-flow-management-for-youtubers/"><u>[Updated] In 2024, Channel Cash Flow Management for YouTubers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-drag-and-drop-file-upload-feature/"><u>Easy Drag & Drop File Upload Feature</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-converting-myvideo-downloads-into-mp3s-for-offline-listening/"><u>Guide: Converting MyVideo Downloads Into MP3s for Offline Listening</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-easily-take-a-screenshot-during-a-facetime-call-a-step-by-step-guide/"><u>How to Easily Take a Screenshot During a FaceTime Call - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-register-a-font-file-on-your-website-with-ease/"><u>How to Register a Font File on Your Website with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-8-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 8 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-daily-dose-of-joy-top-15-online-anime-shows/"><u>In 2024, Your Daily Dose of Joy Top 15 Online Anime Shows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-system-problem-zerosevennine/"><u>Overcoming System Problem ZeroSevenNine</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-guide-how-to-unite-your-pdf-files-across-windows-and-macos-platforms/"><u>Quick Guide: How to Unite Your PDF Files Across Windows & macOS Platforms</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-syncing-your-iphone-with-hisense-television/"><u>Step-by-Step Guide: Syncing Your iPhone with Hisense Television</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-against-dxgi-error-device-detachment/"><u>Strategies Against DXGI Error: Device Detachment</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-selection-7-premier-screen-reflector-applications-for-smartphones-and-tablets-iosandroid/"><u>The Ultimate Selection: 7 Premier Screen Reflector Applications for Smartphones and Tablets (iOS/Android)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-and-implementing-access-permissions-a-detailed-guide/"><u>Understanding and Implementing Access Permissions: A Detailed Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unique-functions-of-excel-unmatched-by-chatgpt-top-3-features/"><u>Unique Functions of Excel Unmatched by ChatGPT: Top 3 Features</u></a></li>
 </ul></div>
 

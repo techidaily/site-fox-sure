@@ -1,7 +1,7 @@
 ---
 title: Custom Interactive Actions for Enhanced User Experience
-date: 2024-09-27T19:06:03.781Z
-updated: 2024-09-29T23:55:27.385Z
+date: 2024-10-04T21:28:13.341Z
+updated: 2024-10-05T20:38:05.826Z
 tags:
   - user-guide
 categories:
@@ -125,20 +125,46 @@ Table of Contents
 
 ## ICustomAction
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 ICustomAction : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This is meant to edit base custom action object.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -157,10 +183,10 @@ This is meant to edit base custom action object.
 **ICustomActionSequence ExecuteSequenceCondition** \- Gets the object that ease editing condition for execution on the execution on the “Install Execution Stage”.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -173,13 +199,6 @@ This is meant to edit base custom action object.
 
 **RemoveExecuteSequence()** \- Removes execution sequence.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Example
 
       $advinst = new-object -com AdvancedInstaller
@@ -191,13 +210,6 @@ $custAct.RunUnderLocalSystemAccount = $true
 $custAct.CommandLine = "/RegServer"
 
     Copy
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -238,22 +250,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sure.techidaily.com/1726792599602-x1-5/"><u> [X_1 = 5 </u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-stardew-upgrades-ranked-7-14/"><u>[New] 2024 Approved Ultimate Stardew Upgrades Ranked #7-14</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-practices-for-shooting-nighttime-selfies-and-portraits/"><u>[New] In 2024, Best Practices for Shooting Nighttime Selfies & Portraits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>[New] Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-budget-friendly-cam-stream-viewer/"><u>[Updated] 2024 Approved Top Budget-Friendly Cam Stream Viewer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-accelerating-your-tiktok-video-repository/"><u>[Updated] Accelerating Your TikTok Video Repository</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-asmr-creators-to-follow/"><u>[Updated] Essential ASMR Creators to Follow</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/advanced-purity-admin-panel-with-chakra-framework-professional-edition-by-creative-tim/"><u>Advanced Purity Admin Panel with Chakra Framework - Professional Edition by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/create-attention-grabbing-campaign-landing-pages-with-creativetims-nextjs-plus-tailwind-design-suite-free-download/"><u>Create Attention-Grabbing Campaign Landing Pages with CreativeTim's NextJS + Tailwind Design Suite – Free Download!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creative-tims-expertly-crafted-flask-administration-panel-elegant-bootstrap-ve-responsive-black-theme-for-web-developers/"><u>Creative Tim's Expertly Crafted Flask Administration Panel - Elegant Bootstrap Ve Responsive Black Theme for Web Developers</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/get-instant-access-best-free-screen-recorders-and-gaming-playback-apps/"><u>Get Instant Access: Best Free Screen Recorders & Gaming Playback Apps!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT Neo 5</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-to-blur-faces-in-photography-for-2024/"><u>Innovative Techniques to Blur Faces in Photography for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/retro-beats-visual-archive-download-iconic-80s-music-videos-as-high-quality-mp4-avi-or-mp3-files/"><u>Retro Beats Visual Archive: Download Iconic '80S Music Videos as High-Quality MP4, AVI or MP3 Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/splash-20-comprehensive-guide-step-by-step-user-manual/"><u>Splash 2.0 Comprehensive Guide: Step-by-Step User Manual</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-window-how-to-quick-and-simple-guide-to-taking-screenshots-on-pc/"><u>Step-by-Step Window How To: Quick & Simple Guide to Taking Screenshots on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unstuck-with-your-ipad-password-woes-quick-fix-solutions/"><u>Unstuck with Your iPad Password Woes - Quick Fix Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-skyrocket-your-twitter-presence-through-livestreaming/"><u>[New] 2024 Approved Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-guide-to-premium-podcasting-top-mic-picks-for-2024/"><u>[Updated] Guide to Premium Podcasting Top Mic Picks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-precision-screen-recorders-for-xbox-gamers-explained/"><u>[Updated] In 2024, Precision Screen Recorders for Xbox Gamers Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-nighttime-iphone-photography-secrets-revealed/"><u>2024 Approved Nighttime iPhone Photography Secrets Revealed</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-tutorial-on-transforming-m4v-files-into-compatible-mp4-video-formats/"><u>Easy Tutorial on Transforming M4V Files Into Compatible MP4 Video Formats</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g-5g-2023-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G 5G (2023) to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-high-revenue-streaming-star-across-the-globe/"><u>In 2024, High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-icustomactionscomponent-guide-building-custom-features-into-any-application/"><u>The ICustomActionsComponent Guide: Building Custom Features Into Any Application</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-list-of-background-modification-apps-for-images/"><u>The Ultimate List of Background Modification Apps for Images</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-more-than-a-dozen-malware-forms-a-full-breakdown-with-illustrative-cases/"><u>Unveiling More Than a Dozen Malware Forms - A Full Breakdown With Illustrative Cases</u></a></li>
 </ul></div>
 

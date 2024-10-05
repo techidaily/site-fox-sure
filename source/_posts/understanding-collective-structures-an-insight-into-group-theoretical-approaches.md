@@ -1,7 +1,7 @@
 ---
 title: "Understanding Collective Structures: An Insight Into Group Theoretical Approaches"
-date: 2024-09-23T10:21:20.970Z
-updated: 2024-09-30T01:59:49.010Z
+date: 2024-10-04T18:09:34.299Z
+updated: 2024-10-05T18:29:08.529Z
 tags:
   - user-guide
 categories:
@@ -79,46 +79,46 @@ General information about the group.
 
 ![Group properties](https://cdn.advancedinstaller.com/img/ui/group-properties.png "Group properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Description
 
  Remarks associated with the group.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fail if the group already exists
 
 The installation process is terminated if the defined group already exists on the target machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skip group creation if the group already exists
 
 If the defined group is already present on the target machine, selecting this options ensures the group creation operation is skipped and the installation process will continue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Condition
@@ -158,17 +158,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-ios-video-streaming-tools-for-iphones-ipads/"><u>[New] Best iOS Video Streaming Tools for iPhones, iPads</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-choreographed-battle-top-5-martial-arts-video-game-list/"><u>[New] Choreographed Battle Top 5 Martial Arts Video Game List</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pinnacle-performance-radeons-new-era/"><u>[Updated] 2024 Approved Pinnacle Performance Radeon's New Era</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-facetune-an-authoritative-review-for-improved-images/"><u>[Updated] Inside Facetune An Authoritative Review for Improved Images</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/all-in-one-restore-solution-safeguard-any-form-of-lost-data/"><u>All-in-One Restore Solution: Safeguard Any Form of Lost Data</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-mixcloud-tracks-to-high-quality-mp3-files-with-our-simple-guide/"><u>Convert Mixcloud Tracks to High-Quality MP3 Files with Our Simple Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/download-australian-broadcasting-corporation-content-with-ease-tips-and-tricks-for-iview-downloads-from-abcnnetau/"><u>Download Australian Broadcasting Corporation Content with Ease: Tips & Tricks for iView Downloads From abcn.net.au</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/download-movies-from-moviebox-in-high-quality-formats-mp4-mov-avi-best-guide/"><u>Download Movies From MovieBox in High Quality Formats (MP4, MOV, AVI) - Best Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-downloading-tbs-content-from-your-pc-or-mac/"><u>Easy Guide: Downloading TBS Content From Your PC or MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-pbs-video-collection-convert-and-save-your-favorites-as-mp4-avi-or-movies-using-our-top-video-downloader-tool/"><u>Effortless PBS Video Collection: Convert and Save Your Favorites as MP4, AVI or Movies Using Our Top Video Downloader Tool!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-google-meet-live-broadcast-steps/"><u>Mastering YouTube Google Meet Live Broadcast Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-perfection-on-iphones-and-androids-blurring-basics-for-2024/"><u>Photo Perfection on iPhones & Androids Blurring Basics for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-combat-vr-motion-sickness-a-guide/"><u>[New] Combat VR Motion Sickness A Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>[New] Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-make-discord-video-calls-on-desktop-and-mobile-for-2024/"><u>[Updated] How to Make Discord Video Calls on Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-your-potential-for-higher-instagram-video-visibility/"><u>[Updated] Unlocking Your Potential for Higher Instagram Video Visibility</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-techniques-for-crafting-engaging-dialogue-pages/"><u>Effective Techniques for Crafting Engaging Dialogue Pages</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-identify-and-manage-installed-programs-on-your-computer/"><u>How to Identify and Manage Installed Programs on Your Computer</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-implement-subtitles-in-mp4-files-successfully-best-practices-and-tips/"><u>How to Implement Subtitles in MP4 Files Successfully: Best Practices and Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfecting-visual-virality-crafting-engaging-square-videos-for-2024/"><u>Perfecting Visual Virality Crafting Engaging Square Videos for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-steps-quick-and-effective-techniques-for-mov-to-mp4-video-conversion/"><u>Simple Steps: Quick & Effective Techniques for MOV to MP4 Video Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solve-your-realtek-wi-fi-driver-problems-in-windows-operating-systems-updated-solution/"><u>Solve Your Realtek Wi-Fi Driver Problems in Windows Operating Systems [Updated Solution]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-zoom-version-on-windows-and-macos-systems/"><u>Step-by-Step Guide: Updating Zoom Version on Windows and macOS Systems</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tame-your-browser-overload-top-tips-to-optimize-chromes-cpu-and-memory-usage/"><u>Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-comprehensive-guide-to-the-3gp-video-file-format/"><u>Understanding the Basics: Comprehensive Guide to the 3GP Video File Format</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlock-your-video-potential-nine-superior-stream-filters-for-2024/"><u>Unlock Your Video Potential Nine Superior Stream Filters for 2024</u></a></li>
 </ul></div>
 

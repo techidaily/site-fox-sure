@@ -1,7 +1,7 @@
 ---
 title: Next-Level UI Innovations in Sophisticated System Setup Tools
-date: 2024-09-22T22:14:40.213Z
-updated: 2024-09-30T05:27:52.766Z
+date: 2024-10-04T18:33:32.138Z
+updated: 2024-10-05T21:02:44.763Z
 tags:
   - user-guide
 categories:
@@ -72,10 +72,10 @@ Starting with Advanced Installer 9 on _Windows Vista SP2 with Platform Update_ o
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Toolbar
@@ -85,10 +85,10 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Left Pane
@@ -97,27 +97,27 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Page Display
 
 The center stage for creating your installer is this large area on the right. It is the main work area - all project data is displayed here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Info Panes
 
@@ -171,20 +171,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-weave-of-wisdom-mastering-looms-tech-for-2024/"><u>[New] The Weave of Wisdom Mastering Loom's Tech for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-connectivity-issues-in-your-live-feed/"><u>2024 Approved Overcoming Connectivity Issues in Your Live Feed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customizing-conversational-agents-creating-an-adapted-chatgpt-for-specific-needs/"><u>Customizing Conversational Agents: Creating an Adapted ChatGPT for Specific Needs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972670721-download-hp-stream-printer-drivers-instantly-with-our-simple-tips/"><u>Download HP Stream Printer Drivers Instantly with Our Simple Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-pbs-video-collection-convert-and-save-your-favorites-as-mp4-avi-or-movies-using-our-top-video-downloader-tool/"><u>Effortless PBS Video Collection: Convert and Save Your Favorites as MP4, AVI or Movies Using Our Top Video Downloader Tool!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/free-access-latest-movie-trailers-and-reviews-on-moviemagazine/"><u>Free Access - Latest Movie Trailers & Reviews on Moviemagazine</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-on-saving-adult-videos-in-multiple-formats-for-private-viewing/"><u>Guide on Saving Adult Videos in Multiple Formats for Private Viewing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-to-converting-videahu-video-files-to-mp4-format-for-both-mac-and-windows-users/"><u>Guide to Converting Videa.hu Video Files to MP4 Format for Both Mac & Windows Users</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-convert-and-retrieve-any-video-from-gumroad-as-mp4-avi-flv-mov-files/"><u>Guide: Convert and Retrieve Any Video From Gumroad as MP4, AVI, FLV, Mov Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-download-videos-from-youwatch-in-various-formats-mp4-wmv-and-avi/"><u>How to Download Videos From YouWatch in Various Formats: MP4, WMV & AVI</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-direct-obs-video-feed-for-instagram/"><u>In 2024, Direct OBS Video Feed for Instagram</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12-pro-4g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12 Pro 4G Data? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-my-lost-followers-insta-unfollow-check/"><u>In 2024, Unveiling My Lost Followers Insta Unfollow Check</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-crossroads-of-full-time-work-and-youtube-for-2024/"><u>Navigating the Crossroads of Full-Time Work & YouTube for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/solving-your-youtube-video-buffering-and-stuttering-problems-a-comprehensive-guide/"><u>Solving Your YouTube Video Buffering & Stuttering Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] 2024 Approved Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-females-in-youtube-a-list-of-leading-creators/"><u>[Updated] Top Females in YouTube A List of Leading Creators</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-enhancing-code-efficiency-mastering-the-assembly-attribute-configuration-panel/"><u>1. Enhancing Code Efficiency: Mastering the Assembly Attribute Configuration Panel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-one-step-trick-stellar-instagram-collage-design/"><u>2024 Approved One-Step Trick Stellar Instagram Collage Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-optimizing-your-youtube-video-preservation/"><u>2024 Approved Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/clear-your-pictures-fast-ultimate-tutorial-on-de-blurring-images-using-iphone-apps/"><u>Clear Your Pictures Fast: Ultimate Tutorial on De-Blurring Images Using iPhone Apps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-tutorial-on-how-to-reset-and-restore-an-iphone-x-from-its-backup-files/"><u>Complete Tutorial on How to Reset and Restore an iPhone X From Its Backup Files</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discovering-prime-frame-rates-for-top-tier-slow-motion-vids-for-2024/"><u>Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-rtl81-cu-network-adapter-driver-for-windows-xpvista710-free-update-now/"><u>Latest RTL81 Cu Network Adapter Driver for Windows [XP/Vista/7/10] - Free Update Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration-for-2024/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/next-level-setup-the-ultimate-guide-to-advanced-installer-customization/"><u>Next-Level Setup: The Ultimate Guide to Advanced Installer Customization</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-stream-microsoft-teams-conferencing-directly-onto-your-tv/"><u>Step-by-Step Tutorial: Stream Microsoft Teams Conferencing Directly Onto Your TV</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-m6-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco M6 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
 </ul></div>
 

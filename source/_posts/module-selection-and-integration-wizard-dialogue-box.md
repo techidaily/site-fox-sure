@@ -1,7 +1,7 @@
 ---
 title: Module Selection & Integration Wizard Dialogue Box
-date: 2024-09-26T05:29:00.566Z
-updated: 2024-09-30T09:43:16.753Z
+date: 2024-09-29T21:58:36.933Z
+updated: 2024-10-05T17:26:24.400Z
 tags:
   - user-guide
 categories:
@@ -74,10 +74,10 @@ Table of Contents
 This dialog allows you to add predefined merge modules to your project. Simply select the merge modules you want and click\[OK \].
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio merge modules
@@ -89,17 +89,17 @@ All Visual Studio merge modules are placed in theProgram Files\\Common Files\\Me
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To register a merge module with Visual Studio you can use the "Register with Visual Studio" option in [Registration Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advanced Installer merge modules
@@ -109,10 +109,10 @@ Through this dialog you can also add merge modules registered with Advanced Inst
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To register a merge module with Advanced Installer you can use the "Register with Advanced Installer" option in [Registration Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,17 +148,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transforming-vision-into-action-building-a-successful-fb-reel-channel/"><u>[New] 2024 Approved Transforming Vision Into Action Building a Successful FB Reel Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-stand-out-in-snapchat-spotlight/"><u>[New] How to Stand Out in Snapchat Spotlight</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-pinnacle-music-organizer-for-android-users/"><u>2024 Approved Pinnacle Music Organizer for Android Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transfer-movies-from-dvd-to-pc-in-windows-10-a-beginners-tutorial/"><u>How to Transfer Movies From DVD to PC in Windows 10: A Beginner's Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-xbox-one-screen-capture-techniques/"><u>Mastering the Art of Xbox One Screen Capture Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seek-these-six-no-cost-ai-options-similar-to-sora/"><u>Seek These Six No-Cost AI Options Similar to Sora</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/streamline-your-research-with-al-jazeera-video-replayer-for-pc-and-mac/"><u>Streamline Your Research with Al Jazeera Video Replayer for PC & MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-solutions-when-you-cant-access-clipconverter-workarounds-and-alternatives/"><u>Top Solutions When You Can't Access ClipConverter: Workarounds and Alternatives</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-downloaded-yandex-movies-in-popular-video-formats-mp4-mov-avi-for-windows-and-macos-systems/"><u>Tutorial: How to Save Downloaded Yandex Movies in Popular Video Formats (MP4, MOV, AVI) for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-okru-video-content-as-mp4-or-mov-files-for-pc-and-mac-users/"><u>Tutorial: How to Save Ok.ru Video Content as MP4 or Mov Files for PC and Mac Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>[New] Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-turn-template-ideas-into-real-logo-artwork/"><u>[New] In 2024, Turn Template Ideas Into Real Logo Artwork</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-success-with-these-15-youtube-introduction-plans/"><u>[Updated] In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pivot-your-playlists-with-these-straightforward-tricks/"><u>[Updated] Pivot Your Playlists with These Straightforward Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-14-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 14 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-efficiently-redistributing-your-creative-works/"><u>In 2024, Efficiently Redistributing Your Creative Works</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing/"><u>In 2024, Unleash Creativity with Ease Mastering the Art of Photo Text Editing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sartorial-whispers-fashionable-italian-phrases/"><u>Sartorial Whispers: Fashionable Italian Phrases</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tailoring-your-frames-hues-custom-colour-arrangement-options/"><u>Tailoring Your Frame's Hues: Custom Colour Arrangement Options</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
 </ul></div>
 

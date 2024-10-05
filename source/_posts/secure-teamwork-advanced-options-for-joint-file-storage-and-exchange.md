@@ -1,7 +1,7 @@
 ---
 title: "Secure Teamwork: Advanced Options for Joint File Storage and Exchange"
-date: 2024-09-25T17:39:28.628Z
-updated: 2024-09-30T08:34:16.667Z
+date: 2024-10-03T18:49:06.342Z
+updated: 2024-10-05T18:36:51.869Z
 tags:
   - user-guide
 categories:
@@ -103,26 +103,26 @@ Table of Contents
 
 Enable folder sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
 Specify the share name for the folder. This name will identify the share in the network. This field is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Description
 
 Specify a description for the shared folder. This field is of [PseudoFormatted](https://tools.techidaily.com/advancedinstaller/products/) type. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -133,6 +133,13 @@ Specify that the folder will be shared/unshared whenever the component gets inst
 
 Specify a condition which will determine if the folder share is created.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### If duplicate
 
 Specify the policy to be followed by the setup package if the folder is already shared on the target machine. You can choose to:
@@ -140,13 +147,6 @@ Specify the policy to be followed by the setup package if the folder is already 
 * **Ask user for action** \- the end user decides if the new share configuration is applied or skipped.
 * **Overwrite** \- performed automatically, no user interaction
 * **Don't Overwrite** \- performed automatically, no user interaction
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### User Limit
 
@@ -159,10 +159,10 @@ Specify permissions that will restrict network access to the folder.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Sharing folders is available only for Windows NT or higher. Also, the share settings in your installation package will not overwrite the share settings on the target machine if the folder is already present at installation time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -203,16 +203,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-apowersoft-unveils-new-pc-screen-capture-tech/"><u>[New] 2024 Approved Apowersoft Unveils New PC Screen Capture Tech</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[Updated] In 2024, From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-inside-the-core-a-thorough-insight-into-xstudio-video-studio-for-2024/"><u>[Updated] Inside the Core A Thorough Insight Into XStudio Video Studio for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/enhance-your-ebooks-by-adding-photos-a-guide-on-crafting-pixel-perfect-page-turners-with-flipbuilder-technology/"><u>Enhance Your eBooks by Adding Photos: A Guide on Crafting Pixel-Perfect Page Turners with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/future-proofing-development-the-art-of-saving-and-recycling-flipprojects-on-flipbuildercom/"><u>Future-Proofing Development: The Art of Saving and Recycling FlipProjects on FlipBuilder.com</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/hazy-endings-how-to-black-out-with-pro/"><u>Hazy Endings How to Black Out with Pro</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-does-flipbuilder-facilitate-easy-file-uploads-for-your-web-projects/"><u>How Does FlipBuilder Facilitate Easy File Uploads for Your Web Projects?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-localize-your-flipbook-content-with-flipbuilder-for-target-audience-engagement/"><u>How to Localize Your FlipBook Content with FlipBuilder for Target Audience Engagement</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-notes-at-the-forefront-on-win-oses/"><u>Keep Your Notes at the Forefront on Win OSes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lifelike-linkage-logistics-softwares-substance-over-hardwares-hustle-for-2024/"><u>Lifelike Linkage Logistics Software's Substance over Hardware's Hustle for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonys-virtual-reality-revolution-upcoming-launch-info-pricing-insights-tech-details-and-latest-gossip/"><u>Sony's Virtual Reality Revolution: Upcoming Launch Info, Pricing Insights, Tech Details & Latest Gossip</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cutting-through-limitations-with-top-video-editor-alternatives/"><u>[New] In 2024, Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-classic-film-aesthetics-masterclass-in-video-production/"><u>[Updated] In 2024, Classic Film Aesthetics Masterclass in Video Production</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-step-by-step-record-hulu-everywhere-windowsmaciosandroid/"><u>[Updated] In 2024, Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-rhythm-and-reels-instagram-music-secrets-for-2024/"><u>[Updated] Rhythm & Reels Instagram Music Secrets for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 6s Plus Activation Lock</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/auto-start-application-pinning-quick-guide-for-windows-taskbar/"><u>Auto-Start Application Pinning: Quick Guide for Windows Taskbar</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-apowersoft-guidance-and-support-services/"><u>Expert Apowersoft Guidance & Support Services</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-enjoy-pubg-mobile-gaming-on-a-big-screen-with-ease-tips-and-tricks/"><u>How to Enjoy PUBG Mobile Gaming on a Big Screen with Ease: Tips & Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-tv-episodes-from-ipad-to-pc-or-mac/"><u>How to Move TV Episodes From iPad to PC or Mac</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-essential-animation-software-for-modern-education/"><u>In 2024, 10 Essential Animation Software for Modern Education</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-instantaneous-duo-recording-cam-plus-screen/"><u>In 2024, Instantaneous Duo Recording Cam + Screen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/intuitive-product-selection-conversations-elevate-your-shopping-experience/"><u>Intuitive Product Selection Conversations: Elevate Your Shopping Experience!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-note-13-pro-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi Note 13 Pro 5G, is it possible?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 mini Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/seamless-android-syncing-with-your-chromebook-a-step-by-step-guide/"><u>Seamless Android Syncing with Your Chromebook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-guide-to-reflecting-your-ipad-on-your-iphone-with-easy-steps/"><u>The Ultimate Guide to Reflecting Your iPad on Your iPhone with Easy Steps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-3-seamless-methods-for-wireless-pc-to-mi-tv-connection/"><u>Top 3 Seamless Methods for Wireless PC-to-Mi TV Connection</u></a></li>
 </ul></div>
 

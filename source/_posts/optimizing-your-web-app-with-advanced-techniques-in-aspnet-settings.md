@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your Web App with Advanced Techniques in ASP.NET Settings
-date: 2024-09-23T02:45:02.807Z
-updated: 2024-09-29T22:53:55.817Z
+date: 2024-09-28T21:09:35.291Z
+updated: 2024-10-05T17:21:57.900Z
 tags:
   - user-guide
 categories:
@@ -97,9 +97,23 @@ Table of Contents
 
 ![Asp net settings](https://cdn.advancedinstaller.com/img/ui/asp-net-settings.png "Asp net settings")  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## .NET Registration
 
 When multiple .NET Framework versions are executing side-by-side on a single computer, the ASP.NET ISAPI version mapped to an ASP.NET application determines which common language run-time (CLR) version is used for the application. The ASP.NET IIS Registration Tool (Aspnet\_regiis.exe) is used by Advanced Installer to easily update the script maps for an ASP.NET application to point to the ASP.NET ISAPI version that you configure.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ASP.NET Version
 
@@ -108,13 +122,6 @@ Configure the version of ASP.NET that your web application is using.
 * <not specified> \- no ASP.NET registration is made;
 * 2.0.50727 \- register your application with .NET 2.0, 3.0 or 3.5;
 * 4.0.30319 \- register your application with .NET 4.0;
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prefer 64-bit version (if available)
 
@@ -131,10 +138,10 @@ Triggers a **restart** of the _World Wide Web Publishing Service_ after installi
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For **IIS 7 or newer**, the ASP.NET version to be used by your web application must be set in the configuration of the [application pool](https://tools.techidaily.com/advancedinstaller/products/) to which it [belongs](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Identity
@@ -142,16 +149,10 @@ Triggers a **restart** of the _World Wide Web Publishing Service_ after installi
 Use ASP.NET impersonation when you want to run your ASP.NET application under a security context different from the default security context for ASP.NET application.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Not specified
@@ -167,10 +168,10 @@ Disables ASP.NET impersonation.
 With this impersonation option, your ASP.NET application will run under the security context of the [user authenticated by IIS](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Impersonate user
@@ -184,19 +185,6 @@ _Use a property to set password_ \- Reference a property for the password. Use t
 ## ASP Behavior
 
 Use this section to manage ASP (Classic) configuration settings.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable Parent Paths
 
@@ -235,24 +223,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sure.techidaily.com/x1-5/"><u> [ X_1 = 5 </u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-formula-for-youtube-money-decoding-revenue-and-cpm-rates-for-2024/"><u>[New] The Formula for YouTube Money Decoding Revenue and CPM Rates for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-breaking-down-vimeo-streaming-giants-secrets-revealed/"><u>[Updated] In 2024, Breaking Down Vimeo Streaming Giant's Secrets Revealed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bezplatny-prevod-avi-do-mp4-na-internetu-movavi-video-vylezareni-bez-ztrateni-kvality/"><u>Bezplatný Převod AVI Do MP4 Na Internetu – Movavi Video Vylezárení Bez Ztratění Kvality</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-your-words-into-dynamic-flipbooks-with-our-no-cost-user-friendly-flipbook-maker-tool/"><u>Convert Your Words Into Dynamic Flipbooks with Our No-Cost, User-Friendly FlipBook Maker Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-online-symphony-sessions/"><u>In 2024, Prime Online Symphony Sessions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-your-ui-with-the-nextjs-material-kit-pro-suite-from-creative-tim-elevate-your-nextjs-projects-today/"><u>Master Your UI with the NextJS Material Kit Pro Suite From Creative Tim – Elevate Your NextJS Projects Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-your-screens-brightness-blues-fixes-for-windows-10-problems/"><u>Overcome Your Screen’s Brightness Blues: Fixes for Windows 10 Problems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premiere-vuejs-bootstrap-4-admin-dashboard-unleash-creativity-with-vue-black-pro-by-creative-tim/"><u>Premiere Vuejs Bootstrap 4 Admin Dashboard: Unleash Creativity with Vue Black Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premium-bootstrap-5-components-pack-for-agile-ui-development-no-cost-by-creative-tim/"><u>Premium Bootstrap 5 Components Pack for Agile UI Development - No Cost, by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/professional-paper-dashboard-2-pro-elite-bootstrap-section-0/"><u>Professional Paper Dashboard 2 PRO: Elite Bootstrap # Section 0</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-art-of-hiding-while-livestreaming-on-instagram-for-2024/"><u>The Art of Hiding While Livestreaming on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformacion-facil-y-perfecta-de-avchd-a-mp4-con-mejoras-de-cualidad-seleccione-las-5-soluciones-mas-eficientes/"><u>Transformación Fácil Y Perfecta De AVCHD a MP4 Con Mejoras De Cualidad - Seleccione Las 5 Soluciones Más Eficientes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-10-install-error-80240020-a-step-by-step-solution/"><u>Troubleshooting Guide for Windows 10 Install Error 80240020: A Step-by-Step Solution</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-exclusive-selection-and-emphasizing-quality-with-terms-like-top-tier-and-premier/"><u>Ultimate Guide, Exclusive Selection, and Emphasizing Quality with Terms Like Top-Tier and Premier.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-selection-of-over-24-tailwind-css-themes-professional-admin-and-dashboard-designs-by-creative-tim/"><u>Ultimate Selection of Over 24 Tailwind CSS Themes: Professional Admin & Dashboard Designs by Creative Tim</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-150-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from 150 (2023)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-creativity-with-ios-camera-techniques/"><u>[New] 2024 Approved Enhance Creativity with iOS Camera Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>[Updated] Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-visual-impact-incorporate-apple-music/"><u>2024 Approved Boosting Visual Impact Incorporate Apple Music</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-keep-your-bluestacks-app-running-smoothly/"><u>5 Proven Methods to Keep Your BlueStacks App Running Smoothly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-mastering-the-game-of-fategrand-order-on-your-computer/"><u>Complete Guide: Mastering the Game of Fate/Grand Order on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-windows-media-player-for-pcs-running-on-windows-11-no-cost/"><u>Download Windows Media Player for PCs Running on Windows 11 – No Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-error-resolved-initialization-successful/"><u>Dragon Ball FighterZ Network Error Resolved – Initialization Successful</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-conversion-top-rated-free-and-premium-tools-to-crop-pdfs-without-using-adobe/"><u>Effortless Conversion: Top Rated Free and Premium Tools to Crop PDFs without Using Adobe</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-modify-a-conditional-formatting-rule-mastering-the-edit-trigger-dialog/"><u>How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/interactive-feature-selection-popup/"><u>Interactive Feature Selection Popup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-social-media-marketing-2024s-top-fb-strategies/"><u>Mastering Social Media Marketing 2024'S Top FB Strategies</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-time-management-navigating-the-schedule-options-pane/"><u>Optimizing Time Management: Navigating the Schedule Options Pane</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/whats-driving-facebook-views-8-hotly-debated-videos/"><u>What's Driving Facebook Views 8 Hotly Debated Videos</u></a></li>
 </ul></div>
 

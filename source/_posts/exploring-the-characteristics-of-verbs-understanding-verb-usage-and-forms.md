@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Characteristics of Verbs: Understanding Verb Usage and Forms"
-date: 2024-09-24T17:58:51.222Z
-updated: 2024-09-30T09:30:55.837Z
+date: 2024-10-01T17:47:51.152Z
+updated: 2024-10-05T19:09:12.605Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## Verb Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -92,10 +92,16 @@ Table of Contents
 ![MSIX File Associations](https://cdn.advancedinstaller.com/img/ui/msix-file-associations.png "MSIX File Associations")  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A name of an action. This action can be performed only on the files having an extension the verb is associated with. You can select a verb from the suggested list or you can also add your own verb names.
@@ -103,10 +109,10 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On the Mac OS X the default verb is "Edit". If you are creating a Mac OS X package, this verb will automatically be associated with the extension, regardless the verb you specify in the list.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Arguments
@@ -116,16 +122,10 @@ Table of Contents
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and thus they can include references to files, folders and properties.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11 Properties
@@ -167,19 +167,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories/"><u>[New] 2024 Approved Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-compendium-ios-gif-apps-reviewed-for-2024/"><u>[New] The Ultimate Compendium IOS GIF Apps Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>[Updated] 2024 Approved Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-vevo-to-mp3-conversion-for-mac-and-windows-users/"><u>Effortless Vevo-to-MP3 Conversion for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/get-instant-access-best-free-screen-recorders-and-gaming-playback-apps/"><u>Get Instant Access: Best Free Screen Recorders & Gaming Playback Apps!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-smooth-performance-with-our-nvidia-geforce-experience-troubleshoot-guide/"><u>Get Smooth Performance with Our Nvidia GeForce Experience Troubleshoot Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-invert-colors-in-digital-photos/"><u>How to Invert Colors in Digital Photos?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pre-production-meets-post-production-premiere-and-youtube-for-2024/"><u>Pre-Production Meets Post-Production Premiere and YouTube for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/retro-beats-visual-archive-download-iconic-80s-music-videos-as-high-quality-mp4-avi-or-mp3-files/"><u>Retro Beats Visual Archive: Download Iconic '80S Music Videos as High-Quality MP4, AVI or MP3 Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/splash-20-comprehensive-guide-step-by-step-user-manual/"><u>Splash 2.0 Comprehensive Guide: Step-by-Step User Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-kid-approved-movies-on-netflix/"><u>Ultimate Selection of Kid-Approved Movies on Netflix</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-tutorial-secure-your-videos-with-smotri-downloader-on-smotricom/"><u>Ultimate Tutorial: Secure Your Videos with Smotri Downloader on smotri.com</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-path-to-profitable-partnership-with-your-audience/"><u>[New] In 2024, The Path to Profitable Partnership with Your Audience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-the-nook-how-jake-paul-snagged-youtube-success-for-2024/"><u>[New] Navigating the Nook How Jake Paul Snagged YouTube Success for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] In 2024, Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>[Updated] Triumph Through Battle The Supreme Selection of Top 7 Total Wars</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620217168-discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-guide-on-disabling-windows-10s-lock-screen/"><u>Effortless Guide on Disabling Windows 10'S Lock Screen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-3-storytelling-techniques-to-grow-your-youtube-channel/"><u>In 2024, Top 3 Storytelling Techniques to Grow Your YouTube Channel</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Settings in the Module Package Tab
-date: 2024-09-26T05:55:29.502Z
-updated: 2024-09-30T07:53:27.136Z
+date: 2024-10-04T16:35:51.092Z
+updated: 2024-10-05T21:20:03.849Z
 tags:
   - user-guide
 categories:
@@ -71,40 +71,33 @@ Table of Contents
 
 ![Package Definition](https://cdn.advancedinstaller.com/img/dialog/sccm-package-definition.png "Package Definition")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Display
 
 ### Name
 
 This field contains the name of the package. This entry is**mandatory**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Publisher
 
 This field contains the information about the publisher of the package. This entry is **mandatory**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
 
 This field contains the language version of the package. This entry is **mandatory**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Version
 
@@ -117,10 +110,23 @@ In this field you can write **optional** comments about the package.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These fields support [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Contains no files
@@ -160,22 +166,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-backward-video-display-an-insight/"><u>2024 Approved Instagram's Backward Video Display An Insight</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-tale-of-two-streamers-twitchs-faceoff-with-youtube-for-2024/"><u>A Tale of Two Streamers Twitch's Faceoff with YouTube for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-ryzen-5-2600-download-latest-drivers-instantly/"><u>AMD Ryzen #5 2600 - Download Latest Drivers Instantly</u></a></li>
-<li><a href="https://win-able.techidaily.com/bust-assassins-creed-odyssey-pc-freeze-glitches-with-these-new-fixes-202n/"><u>Bust Assassin's Creed Odyssey PC Freeze Glitches with These New Fixes (202N)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971095436-easy-steps-to-install-or-update-your-dell-latitude-e6-groove-driver-for-windows-os-fixed-now/"><u>Easy Steps to Install or Update Your Dell Latitude E6 Groove Driver for Windows OS - FIXED NOW!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-to-converting-bild-video-files-into-mp4-format-on-pc-or-mac/"><u>Guide to Converting Bild Video Files Into MP4 Format on PC or MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-access-and-enjoy-spotify-tracks-through-mediamonkey-a-complete-tutorial/"><u>How to Access and Enjoy Spotify Tracks Through MediaMonkey - A Complete Tutorial</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-embed-a-youtube-video-in-powerpoint-4-methods/"><u>How to Embed a YouTube Video in PowerPoint [4 Methods]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-save-twitch-streams-from-pc-or-mac-a-comprehensive-guide/"><u>How to Save Twitch Streams From PC or Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-9-tips-to-become-an-instagram-star/"><u>In 2024, 9 Tips to Become an Instagram Star</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-note-12t-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi Note 12T Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-video-conversion-on-xminus-platform-transform-tracks-to-mp4mov-for-better-learning/"><u>Master Video Conversion on XMinus Platform - Transform Tracks to MP4/MOV for Better Learning</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seamless-media-capture-software-save-your-favorite-shows-from-tv-now-in-various-video-codes-such-as-mp4-avi-and-mov/"><u>Seamless Media Capture Software: Save Your Favorite Shows From TV NOW in Various Video Codes Such as MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-your-site-how-to-resolve-safe-form-issues-with-our-effective-tutorial/"><u>Secure Your Site: How to Resolve 'Safe' Form Issues with Our Effective Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/streamline-your-research-with-al-jazeera-video-replayer-for-pc-and-mac/"><u>Streamline Your Research with Al Jazeera Video Replayer for PC & MAC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-guide-best-mini-itx-computer-chassis-for-small-form-factor-systems-sff/"><u>Ultimate Selection Guide: Best Mini ITX Computer Chassis for Small Form Factor Systems (SFF)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[New] Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-11-audiophiles-choice-for-sound-capture/"><u>[Updated] 2024 Approved 11 Audiophile's Choice for Sound Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>[Updated] Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-infographic-lens-on-2017s-youtube-numerical-truths-for-2024/"><u>[Updated] The Infographic Lens on 2017'S Youtube Numerical Truths for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-battery-performance-with-these-8-essential-settings-tweaks/"><u>Boost Your Apple Watch's Battery Performance with These 8 Essential Settings Tweaks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/capture-childhood-with-vtech-cams/"><u>Capture Childhood with VTech Cams</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-and-versatile-discover-the-acer-aspire-c27-your-ideal-low-profile-all-in-one-pc/"><u>Compact & Versatile: Discover the Acer Aspire C27, Your Ideal Low-Profile All-in-One PC</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-t2-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo T2 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-icustomactionscomponent-guide-building-custom-features-into-any-application/"><u>The ICustomActionsComponent Guide: Building Custom Features Into Any Application</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessages-converted-into-texts-is-this-a-sign-youre-blocked/"><u>Understanding iMessages Converted Into Texts: Is This a Sign You're Blocked?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-more-than-a-dozen-malware-forms-a-full-breakdown-with-illustrative-cases/"><u>Unveiling More Than a Dozen Malware Forms - A Full Breakdown With Illustrative Cases</u></a></li>
 </ul></div>
 

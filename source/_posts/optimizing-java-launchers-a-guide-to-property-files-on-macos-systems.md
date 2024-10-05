@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Java Launchers: A Guide to Property Files on macOS Systems"
-date: 2024-09-27T09:37:20.914Z
-updated: 2024-09-29T16:33:36.805Z
+date: 2024-10-04T16:52:46.074Z
+updated: 2024-10-05T20:36:34.756Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,16 @@ Table of Contents
 ![Conditional Levels Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-macos-properties.png "Conditional Levels Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -95,10 +101,10 @@ Table of Contents
 In addition to the predefined options, this dialog allows you to specify any other property that should be added to the Mac OS application configuration file (Info.plist).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding new properties
@@ -108,10 +114,10 @@ Use the \[New Sibling \] button to create a new property/value pair.
 Use the \[New Child \] button to create a new property/value pair as a child of the selected “dict” or “array” property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit a property
@@ -125,10 +131,10 @@ During editing use:
 * Tab, Up andDown keys to continue editing other items.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
@@ -168,24 +174,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>[New] 2024 Approved Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-capturing-screens-a-laptops-webcam-journey-for-2024/"><u>[New] Capturing Screens A Laptop's Webcam Journey for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[Updated] 2024 Approved Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-play-7t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor Play 7T Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-y17s-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo Y17s to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-a78-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo A78? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-to-enable-pdf-download-on-your-site-with-flipbuilder/"><u>Easy Guide to Enable PDF Download on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/efficient-steps-for-instantly-exporting-live-settings-into-a-theme-in-flipbuilder/"><u>Efficient Steps for Instantly Exporting Live Settings Into a Theme in FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transform-several-pdf-documents-into-individual-flipbooks-using-custom-naming-schemes-flipbuildercom/"><u>Effortlessly Transform Several PDF Documents Into Individual Flipbooks Using Custom Naming Schemes [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/enhance-your-ebooks-by-adding-photos-a-guide-on-crafting-pixel-perfect-page-turners-with-flipbuilder-technology/"><u>Enhance Your eBooks by Adding Photos: A Guide on Crafting Pixel-Perfect Page Turners with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/future-proofing-development-the-art-of-saving-and-recycling-flipprojects-on-flipbuildercom/"><u>Future-Proofing Development: The Art of Saving and Recycling FlipProjects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-does-flipbuilder-facilitate-easy-file-uploads-for-your-web-projects/"><u>How Does FlipBuilder Facilitate Easy File Uploads for Your Web Projects?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-localize-your-flipbook-content-with-flipbuilder-for-target-audience-engagement/"><u>How to Localize Your FlipBook Content with FlipBuilder for Target Audience Engagement</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-request-a-purchase-invoice-on-flipbuildercom/"><u>How to Request a Purchase Invoice on FlipBuilder.com</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-eyedome-xtreme-ultimate-os-video-snapper/"><u>In 2024, EyeDome Xtreme Ultimate OS Video Snapper</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-momentum-masters-youtubes-freshly-watched-hits/"><u>In 2024, Momentum Masters Youtube’s Freshly Watched Hits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-issues-in-f1-2021-solutions-for-pc-gamers/"><u>Troubleshooting FPS Issues in F1 2021: Solutions for PC Gamers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-power-of-nvidias-wins11-compatible-drivers-geforce-210/"><u>Unveiling the Power of NVIDIA's Wins11-Compatible Drivers, GeForce 210</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pinnacle-panoramics-selecting-the-best-8k-cameras-for-2024/"><u>[Updated] Pinnacle Panoramics Selecting the Best 8K Cameras for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-optimal-window-size-on-windows-11/"><u>Configuring Optimal Window Size on Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/dynamic-system-initialization-query-interface/"><u>Dynamic System Initialization Query Interface</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-step-by-step-guide-how-to-add-voiceovers-in-your-video-projects/"><u>Easy Step-by-Step Guide: How to Add Voiceovers in Your Video Projects</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-approaches-to-iservice-failure-response-and-recovery-tactics/"><u>Effective Approaches to IService Failure Response and Recovery Tactics</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-integration-how-to-incorporate-pdf-files-into-your-ibook-collection/"><u>Effortless Integration: How to Incorporate PDF Files Into Your iBook Collection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/geen-kosten-konverteren-van-ram-naar-mp3-met-hilfe-von-movavi/"><u>Geen Kosten! Konverteren Van RAM Naar MP3 Met Hilfe Von Movavi</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-authentic-5kplayer-v65-free-and-legal-downloads-for-smooth-streaming/"><u>Get Authentic 5KPlayer v6.5: Free and Legal Downloads for Smooth Streaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/key-features-of-microsofts-server-roles-and-services/"><u>Key Features of Microsoft's Server Roles and Services</u></a></li>
+<li><a href="https://win11.techidaily.com/memory-cache-mastery-in-windows-systems/"><u>Memory Cache Mastery in Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-fake-friending-attempts-on-social-networks/"><u>Navigating Through Fake Friending Attempts on Social Networks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-your-web-app-with-advanced-techniques-in-aspnet-settings/"><u>Optimizing Your Web App with Advanced Techniques in ASP.NET Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/outsmarting-generative-ai-in-art-the-protective-powers-of-nightshade-methods/"><u>Outsmarting Generative AI in Art: The Protective Powers of Nightshade Methods</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-captured-videos/"><u>Step-by-Step Guide: Mastering the Art of Downloading Captured Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison-for-2024/"><u>Streamlining Your Viewing VLC Versus MX Comparison for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-calculating-text-length-in-ms-excel/"><u>The Ultimate Guide to Calculating Text Length in MS Excel</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferring-phonebook-info-flawlessly-upgrading-contacts-from-an-outdated-iphone-to-a-modern-one/"><u>Transferring Phonebook Info Flawlessly: Upgrading Contacts From an Outdated iPhone to a Modern One</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-to-creating-effective-website-binders-and-pages/"><u>Ultimate Guide to Creating Effective Website Binders & Pages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Implement an IExtension Framework in Your Application
-date: 2024-09-27T22:11:58.784Z
-updated: 2024-09-29T19:28:08.239Z
+date: 2024-10-04T16:33:32.093Z
+updated: 2024-10-05T17:06:22.114Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 IExtensionFA : IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +124,10 @@ IExtensionFA : IDispatch
 This interface is meant to edit a ProgId extension setup
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -139,10 +139,16 @@ Creates a new file association verb.
 Removes the verb.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +169,10 @@ Gets or sets the content type of the files with the selected extension. This con
 Gets the collection of verbs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +214,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] In 2024, 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-tips-for-mastering-instagram-reels/"><u>[Updated] In 2024, Essential Tips for Mastering Instagram Reels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-definitive-list-youtubes-premier-making-up-masters/"><u>2024 Approved The Definitive List YouTube's Premier Making-Up Masters</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/can-you-position-your-brands-emblem-above-the-main-content-area-learn-how-at-flipbuildercom/"><u>Can You Position Your Brand's Emblem Above the Main Content Area? Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-gt-neo-5-se-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-your-words-into-dynamic-flipbooks-with-our-no-cost-user-friendly-flipbook-maker-tool/"><u>Convert Your Words Into Dynamic Flipbooks with Our No-Cost, User-Friendly FlipBook Maker Tool</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/editing-the-inner-and-outer-pages-design-a-guide-to-adjusting-epub-layout-using-flipbuilder-tools/"><u>Editing the Inner & Outer Pages' Design: A Guide to Adjusting ePub Layout Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-different-types-of-flipbooks-you-can-design-with-flippdf-software-for-macos-users/"><u>Exploring Different Types of Flipbooks You Can Design With FlipPDF Software for macOS Users</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022) Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-impact-partnering-with-influencers-on-youtube/"><u>Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-for-students-unbeatable-prices-you-wont-want-to-miss-for-2024/"><u>New Final Cut Pro for Students Unbeatable Prices You Wont Want to Miss for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/protecting-content-integrity-how-to-craft-a-risk-free-flipping-book-using-flipbuilders-tools-and-features/"><u>Protecting Content Integrity: How To Craft a Risk-Free Flipping Book Using FlipBuilder's Tools and Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-iis-server-issues-with-flipbuilder-why-your-videos-may-not-play-online/"><u>Resolving IIS Server Issues with FlipBuilder - Why Your Videos May Not Play Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/run-faster-track-better-garmin-forerunner/"><u>Run Faster, Track Better: Garmin Forerunner</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005292320-steam-sign-in-woes-heres-how-you-can-solve-them/"><u>Steam Sign-In Woes? Here's How You Can Solve Them!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/steps-to-embed-tables-in-your-ebook-using-flipbuilder/"><u>Steps to Embed Tables in Your eBook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-command-line-conversion-feature-a-deep-dive-into-flipbuilders-tools/"><u>Understanding Command Line Conversion Feature - A Deep Dive Into FlipBuilder's Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-launch-strategies-for-fb-generosity-campaigns/"><u>[Updated] Launch Strategies for FB Generosity Campaigns</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a24-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A24 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/auto-start-application-pinning-quick-guide-for-windows-taskbar/"><u>Auto-Start Application Pinning: Quick Guide for Windows Taskbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-problems-and-fixes-for-non-responsive-windows-10-search-tool/"><u>Common Problems and Fixes for Non-Responsive Windows 10 Search Tool</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-apowersoft-guidance-and-support-services/"><u>Expert Apowersoft Guidance & Support Services</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-enjoy-pubg-mobile-gaming-on-a-big-screen-with-ease-tips-and-tricks/"><u>How to Enjoy PUBG Mobile Gaming on a Big Screen with Ease: Tips & Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-tv-episodes-from-ipad-to-pc-or-mac/"><u>How to Move TV Episodes From iPad to PC or Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>In 2024, Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-pova-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Tecno Pova 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-meta-quest-3-comprehensive-guide-to-news-costs-release-calendar-and-features/"><u>Inside the Meta Quest 3 - Comprehensive Guide to News, Costs, Release Calendar & Features</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-3-seamless-methods-for-wireless-pc-to-mi-tv-connection/"><u>Top 3 Seamless Methods for Wireless PC-to-Mi TV Connection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

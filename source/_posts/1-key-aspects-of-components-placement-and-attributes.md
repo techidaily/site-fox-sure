@@ -1,7 +1,7 @@
 ---
 title: 1. Key Aspects of Components Placement and Attributes
-date: 2024-09-26T01:55:45.807Z
-updated: 2024-09-30T01:17:49.033Z
+date: 2024-10-02T20:20:27.793Z
+updated: 2024-10-05T17:25:34.656Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 This type of search will try to find the component you want, retrieve its Key Path (or Key Member) and interpret it as a file or a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GUID
@@ -91,16 +91,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
  The searched component's Globally Unique Identifier.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -110,16 +104,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * ComponentId
@@ -128,10 +116,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -167,19 +155,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-10-parody-songs-that-totally-crack-you-up/"><u>[New] In 2024, 10 Parody Songs That Totally Crack You Up</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-drone-selections-to-enhance-gopro-videos/"><u>[Updated] Prime Drone Selections to Enhance GoPro Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-elite-club-of-youtubes-favorite-shorter-videos-for-2024/"><u>[Updated] The Elite Club of YouTube's Favorite Shorter Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/audiovisual-alchemy-transforming-powerpoint-into-engagement-for-2024/"><u>Audiovisual Alchemy Transforming PowerPoint Into Engagement for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-websites-to-erase-tiktok-watermarks-from-videos-for-2024/"><u>Best Websites to Erase TikTok Watermarks From Videos for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-pop-8-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Pop 8</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-to-enable-pdf-download-on-your-site-with-flipbuilder/"><u>Easy Guide to Enable PDF Download on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/efficient-steps-for-instantly-exporting-live-settings-into-a-theme-in-flipbuilder/"><u>Efficient Steps for Instantly Exporting Live Settings Into a Theme in FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transform-several-pdf-documents-into-individual-flipbooks-using-custom-naming-schemes-flipbuildercom/"><u>Effortlessly Transform Several PDF Documents Into Individual Flipbooks Using Custom Naming Schemes [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/enhance-your-ebooks-by-adding-photos-a-guide-on-crafting-pixel-perfect-page-turners-with-flipbuilder-technology/"><u>Enhance Your eBooks by Adding Photos: A Guide on Crafting Pixel-Perfect Page Turners with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/future-proofing-development-the-art-of-saving-and-recycling-flipprojects-on-flipbuildercom/"><u>Future-Proofing Development: The Art of Saving and Recycling FlipProjects on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-does-flipbuilder-facilitate-easy-file-uploads-for-your-web-projects/"><u>How Does FlipBuilder Facilitate Easy File Uploads for Your Web Projects?</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xs-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-masterminds-of-immersive-marvellous-marvel-spheres/"><u>[New] Masterminds of Immersive Marvellous Marvel Spheres</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[Updated] 2024 Approved Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-optimizing-channel-branding-to-skyrocket-subscriber-numbers/"><u>[Updated] Optimizing Channel Branding to Skyrocket Subscriber Numbers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-luminance-for-hd-raises-questions/"><u>2024 Approved Assessing Luminance for HD Raises Questions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-through-the-best-screen-recorders-for-teaching/"><u>2024 Approved Navigating Through the Best Screen Recorders for Teaching</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G24</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mealtime-magic-the-most-entertaining-food-moments/"><u>In 2024, Mealtime Magic The Most Entertaining Food Moments</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-aspect-ratios-the-key-to-facebook-video-success-for-2024/"><u>Unlocking Aspect Ratios The Key to Facebook Video Success for 2024</u></a></li>
 </ul></div>
 

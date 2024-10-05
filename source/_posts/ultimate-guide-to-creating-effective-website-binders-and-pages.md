@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Creating Effective Website Binders & Pages
-date: 2024-09-25T03:10:16.958Z
-updated: 2024-09-29T16:04:27.302Z
+date: 2024-10-01T17:14:54.419Z
+updated: 2024-10-05T21:12:44.781Z
 tags:
   - user-guide
 categories:
@@ -100,14 +100,14 @@ This dialog allows you to configure an HTTP/HTTPS binding for your Web Site.
 
 ![Edit Binding](https://cdn.advancedinstaller.com/img/dialog/iis-edit-binding.png "Edit Binding")  
 
-## Binding
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Binding
 
 ### Host Name
 
@@ -119,15 +119,22 @@ If your site is available on an **Intranet**, you do not have to specify a host 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For **HTTPS** bindings, the host name is already specified in the web authentication _digital certificate_ associated with the Web Site, and it is not necessary to specify it in the binding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Require Server Name Indication
 
 Enable this option to require Server Name Indication (SNI).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Port Number
@@ -138,27 +145,20 @@ Type the port on which the Web Site must listen for requests. For **HTTP** proto
 
 Set the IP Address of the network interface that the Web Site should listen on. If you select the All Unassigned option, this site will respond to the requests from all IP addresses on the port and optional to the host name that you specify for this site, unless another site on the server has a binding on the same port but with a specific IP address.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Condition
 
 Specify the install condition for the Website Binding
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/) by inserting Windows Installer property references, which will be resolved at install time.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -193,21 +193,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-mystery-of-off-facebook-activity-what-to-know-and-do-for-2024/"><u>[New] The Mystery of Off-Facebook Activity What to Know & Do for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>[Updated] 2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-efficient-transitions-streamlining-zoom-video-conversion/"><u>[Updated] Efficient Transitions Streamlining Zoom Video Conversion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-starry-nights-in-focus-advice-on-night-portraiture-for-2024/"><u>[Updated] Starry Nights in Focus Advice on Night Portraiture for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-wistia-user-introduction-size-format-duration-for-2024/"><u>[Updated] Wistia User Introduction Size, Format, Duration for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/editing-the-inner-and-outer-pages-design-a-guide-to-adjusting-epub-layout-using-flipbuilder-tools/"><u>Editing the Inner & Outer Pages' Design: A Guide to Adjusting ePub Layout Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-different-types-of-flipbooks-you-can-design-with-flippdf-software-for-macos-users/"><u>Exploring Different Types of Flipbooks You Can Design With FlipPDF Software for macOS Users</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/free-online-conversion-tool-change-ts-files-instantly-with-movavi/"><u>Free Online Conversion Tool: Change TS Files Instantly with Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-canon-mf8500c-printer-drivers-for-pcs-running-on-windows-7-81-or-10/"><u>Get Canon MF8500C Printer Drivers for PCs Running on Windows 7, 8.1 or 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-s23-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel S23 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>In 2024, IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/protecting-content-integrity-how-to-craft-a-risk-free-flipping-book-using-flipbuilders-tools-and-features/"><u>Protecting Content Integrity: How To Craft a Risk-Free Flipping Book Using FlipBuilder's Tools and Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-iis-server-issues-with-flipbuilder-why-your-videos-may-not-play-online/"><u>Resolving IIS Server Issues with FlipBuilder - Why Your Videos May Not Play Online</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/steps-to-embed-tables-in-your-ebook-using-flipbuilder/"><u>Steps to Embed Tables in Your eBook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-command-line-conversion-feature-a-deep-dive-into-flipbuilders-tools/"><u>Understanding Command Line Conversion Feature - A Deep Dive Into FlipBuilder's Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-to-streaming-and-archiving-minecraft-on-mac/"><u>[New] Comprehensive Guide to Streaming and Archiving Minecraft on Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-frolicsome-media-repository/"><u>[New] Frolicsome Media Repository</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-youtube-to-webm-converter-apps-reviewed-and-ranked/"><u>[Updated] Top 10 YouTube to WebM Converter Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/award-winning-cost-free-applications-for-seamless-video-conversion-on-windows-phones/"><u>Award-Winning, Cost-Free Applications for Seamless Video Conversion on Windows Phones</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-the-notorious-pc-bug-roblox-error-code-277-comprehensive-solutions-for-gamers/"><u>Defeating the Notorious PC Bug: Roblox Error Code 277 - Comprehensive Solutions for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287389009-dvdpc/"><u>DVDダウンロード用PC：初学者のための最適な取り込み＆保存ソリューションをご紹介！</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-the-art-of-clean-images-a-step-by-step-guide-on-using-apowersofts-background-eraser-on-ios-devices/"><u>Mastering the Art of Clean Images: A Step-by-Step Guide on Using Apowersoft's Background Eraser on iOS Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers/"><u>Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tab-settings-for-system-initialization-understanding-the-essentials/"><u>Tab Settings for System Initialization: Understanding the Essentials</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-software-release-criteria-navigating-the-launch-specifications-tab/"><u>Understanding Software Release Criteria: Navigating the Launch Specifications Tab</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/video-editing-on-imac-with-m1-processor-for-2024/"><u>Video Editing on iMac with M1 Processor for 2024</u></a></li>
 </ul></div>
 

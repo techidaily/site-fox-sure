@@ -1,7 +1,7 @@
 ---
 title: "Defining Key Prerequisites: A Comprehensive Overview"
-date: 2024-09-26T03:51:46.667Z
-updated: 2024-09-30T02:16:42.971Z
+date: 2024-09-29T19:18:48.675Z
+updated: 2024-10-05T16:18:39.799Z
 tags:
   - user-guide
 categories:
@@ -88,22 +88,15 @@ In the predefined prerequisites list you can simply check the prerequisites you 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These options affect only the [EXE setup file](https://tools.techidaily.com/advancedinstaller/products/) and prerequisites included in your package.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download/extraction folder
 
 Specify the default download or extract folder for prerequisite files. Right-click into this field to insert a reference to a default Windows folder or to Windows Installer properties. This field can also contain environment variables.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Always store prerequisites in MSI database (if applicable)
 
@@ -115,10 +108,10 @@ Specify the default download or extract folder for prerequisite files. Right-cli
  Chained prerequisites are always stored to MSI database.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Prerequisites that have LZMA compression option enabled are always stored in the EXE package.
@@ -127,15 +120,22 @@ Specify the default download or extract folder for prerequisite files. Right-cli
 
 This option prevents the removal of extracted and downloaded prerequisites. It's useful if you want to allow the end-user to repair or modify the prerequisites software installed by your package. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check launch conditions before searching for prerequisites
 
  If this option is enabled, the launch conditions that are specified in [Launch Conditions](https://tools.techidaily.com/advancedinstaller/products/) page will be checked by the EXE setup before the prerequisites are launched. If at least one launch condition is not met, the installation is stopped.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Hide already installed prerequisites
@@ -175,22 +175,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exclusive-guide-top-5-streamlined-recording-software/"><u>[New] In 2024, Exclusive Guide Top 5 Streamlined Recording Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimal-record-solution-chromebook-edition/"><u>[New] In 2024, Optimal Record Solution Chromebook Edition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-total-mobility-assessment-2023-for-2024/"><u>[New] Total Mobility Assessment 2023 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-newbies-blueprint-to-mastering-av1/"><u>A Newbie's Blueprint to Mastering AV1</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/explore-the-vue-dashboard-from-designer-creatives-at-creative-tim/"><u>Explore the Vue Dashboard From Designer Creatives at Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/free-flutter-starter-project-bootstrap-your-web-with-flutter-and-material-ui-by-creativetim/"><u>Free Flutter Starter Project - Bootstrap Your Web with Flutter & Material-UI by CreativeTim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/free-reactive-dashboard-with-material-ui-and-argon-themes-enhance-your-web-projects-using-creative-tim-tools/"><u>Free Reactive Dashboard with Material UI & Argon Themes - Enhance Your Web Projects Using Creative Tim Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>In 2024, Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/laravel-and-vuejs-combined-for-a-powerful-ui-dashboard-design-by-updivision-and-creative-tim/"><u>Laravel and Vue.js Combined for a Powerful UI Dashboard Design by Updivision & Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-your-ui-with-the-nextjs-material-kit-pro-suite-from-creative-tim-elevate-your-nextjs-projects-today/"><u>Master Your UI with the NextJS Material Kit Pro Suite From Creative Tim – Elevate Your NextJS Projects Today!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-your-content-on-vimeo-free-plus-or-pro-for-2024/"><u>Mastering Your Content on Vimeo Free, Plus or Pro for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premiere-vuejs-bootstrap-4-admin-dashboard-unleash-creativity-with-vue-black-pro-by-creative-tim/"><u>Premiere Vuejs Bootstrap 4 Admin Dashboard: Unleash Creativity with Vue Black Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premium-bootstrap-5-components-pack-for-agile-ui-development-no-cost-by-creative-tim/"><u>Premium Bootstrap 5 Components Pack for Agile UI Development - No Cost, by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/professional-paper-dashboard-2-pro-elite-bootstrap-section-0/"><u>Professional Paper Dashboard 2 PRO: Elite Bootstrap # Section 0</u></a></li>
-<li><a href="https://fox-http.techidaily.com/recommendation-best-iphone-ringtone-makers-for-2024/"><u>Recommendation Best iPhone Ringtone Makers for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/rethinking-faces-why-meta-kills-off-fbs-biometrics/"><u>Rethinking Faces: Why Meta Kills Off FB’s Biometrics</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-control-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Control Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-imagination-pro-tiktok-edits-revealed/"><u>2024 Approved Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-instant-messenger-applications-on-apple-devices/"><u>Best No-Cost Instant Messenger Applications on Apple Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-videos-free-how-to-change-any-file-to-compatible-with-iphones/"><u>Convert Videos Free: How to Change Any File to Compatible with iPhones</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2022-release-delayed-heres-how-you-can-play-now/"><u>Football Manager 2022 Release Delayed? Here's How You Can Play Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematographic-savoir-faire-food-videographers-essentials/"><u>In 2024, Cinematographic Savoir-Faire Food Videographer's Essentials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-online-multimedia-collaboration-tools/"><u>In 2024, Superior Online Multimedia Collaboration Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/leading-experts-in-crafting-exquisite-picture-mosaic-masterpieces/"><u>Leading Experts in Crafting Exquisite Picture Mosaic Masterpieces</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-capturing-your-facebook-video-chats/"><u>Step-by-Step Guide: Capturing Your Facebook Video Chats</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-seamlessly-duplicate-your-windows-pc-display-on-an-ipad/"><u>Step-by-Step Guide: Seamlessly Duplicate Your Windows PC Display on an iPad</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-strategies-for-effortless-text-extraction-from-images-across-various-software/"><u>Top Strategies for Effortless Text Extraction From Images Across Various Software</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-z-flip-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy Z Flip 5 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The ICustomActionsComponent Guide: Building Custom Features Into Any Application"
-date: 2024-09-29T07:13:37.245Z
-updated: 2024-09-29T20:32:37.676Z
+date: 2024-09-30T17:14:11.605Z
+updated: 2024-10-05T17:11:42.958Z
 tags:
   - user-guide
 categories:
@@ -125,15 +125,22 @@ Table of Contents
 
 ## ICustomActionsComponent
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 ICustomActionsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -143,13 +150,6 @@ This component is meant to create and manage existing predefined custom actions.
 ## Properties
 
 **Array<ICustomActions> CustomActions** \- Gets existing custom actions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -204,10 +204,10 @@ RemoveCustomAction(ICustomActions aCustomAction)
 \-Removes an existing custom action .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -226,10 +226,10 @@ Copy
 [ICustomActionSequence](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -302,18 +302,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-top-tweet-talent-showdown-1-10-edition/"><u>[Updated] In 2024, Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/can-you-position-your-brands-emblem-above-the-main-content-area-learn-how-at-flipbuildercom/"><u>Can You Position Your Brand's Emblem Above the Main Content Area? Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/elevate-your-privacy-with-android-11-a-step-by-step-revouninstaller-tutorial/"><u>Elevate Your Privacy with Android 11: A Step-by-Step RevoUninstaller Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-15-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 15? How to Fix</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/survival-or-skid-exploring-the-zombie-apocalypse-in-days-gone-as-an-adventurous-rider/"><u>Survival or Skid: Exploring the Zombie Apocalypse in 'Days Gone' As an Adventurous Rider</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-s17t-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S17t Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-digital-duel-comparing-triller-and-tiktok-platforms-max-156-chars/"><u>[New] 2024 Approved The Digital Duel Comparing Triller and TikTok Platforms (Max 156 Chars)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>[Updated] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/advanced-techniques-in-software-setup-how-to-ensure-precision-with-installer-controls/"><u>Advanced Techniques in Software Setup: How to Ensure Precision with Installer Controls</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023-for-2024/"><u>AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023) for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/building-a-personalized-docker-repackaging-container-image-guide/"><u>Building a Personalized Docker Repackaging Container Image Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nubia-red-magic-8s-proplus-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nubia Red Magic 8S Pro+ is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-methods-to-incorporate-images-into-videos-a-three-step-guide/"><u>Effortless Methods to Incorporate Images Into Videos: A Three-Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-how-imsixdriver-relies-on-supportive-components-a-detailed-guide/"><u>Exploring How IMsixDriver Relies on Supportive Components: A Detailed Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-determine-if-someone-has-accessed-my-gmail-account-illegally-discover-the-signs-and-follow-our-step-by-step-guide/"><u>How Can I Determine If Someone Has Accessed My Gmail Account Illegally? Discover the Signs & Follow Our Step-by-Step Guide!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/huawei-p30s-top-4-display-sharing-software-alternatives-to-enhance-your-experience/"><u>Huawei P30's Top 4 Display Sharing Software Alternatives to Enhance Your Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g14-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G14 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-capabilities-in-macs-preview-software/"><u>In 2024, Unlocking Full Capabilities in Mac's Preview Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-upgrading-your-iphoneipad-with-ios-8/"><u>Simple Guide: Upgrading Your iPhone/iPad with iOS 8</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/switching-to-virtual-white-space-in-real-time-broadcasts-on-your-phone/"><u>Switching to Virtual White Space in Real-Time Broadcasts on Your Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/turbo-faster-window-photo-editor/"><u>Turbo Faster Window Photo Editor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/zoom-session-division-for-starters/"><u>Zoom Session Division for Starters</u></a></li>
 </ul></div>
 

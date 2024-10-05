@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Window How To: Quick & Simple Guide to Taking Screenshots on PC"
-date: 2024-09-27T18:09:32.161Z
-updated: 2024-09-30T09:04:25.671Z
+date: 2024-09-30T20:52:28.262Z
+updated: 2024-10-05T19:37:18.287Z
 tags:
   - product
 categories:
@@ -55,6 +55,13 @@ Action Tutorials
 * making fullscreen Windows screenshots
 * making screenshots of selected Windows screen area
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Making Screenshot on Windows using fullscreen method
 
  To make a fullscreen screenshots please run Action! Application and minimize it. Now press the **F12** hotkey to make a screenshot of your Windows screen.
@@ -62,17 +69,16 @@ Action Tutorials
 ![Mirillis Action! - capture screenshots tab](https://mirillis.com/res/old/gfx/tutorials/howto/cs1tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Making Screenshots on Windows using Active Desktop Region / Area method
@@ -82,10 +88,10 @@ Action Tutorials
 ![Mirillis Action! - selecting desktop region](https://mirillis.com/res/old/gfx/tutorials/howto/cs2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will show a new Action! Window with possibility to select a specified Windows screen area. You can adjust the active screenshot area using the mouse cursor and arrows on the keyboard. 
@@ -93,10 +99,10 @@ Action Tutorials
 ![Mirillis Action! - select desktop region](https://mirillis.com/res/old/gfx/tutorials/howto/cs3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have adjusted the active region to meet your requirements, press the “Capture Screenshots” button to make a screenshot of the selected Windows screen area.
@@ -118,17 +124,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-consoles-step-by-step-pc-playback-guide/"><u>[New] Capturing Consoles Step-by-Step PC Playback Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-gamer-to-filmmaker-sims-gameplay-recording-for-2024/"><u>[Updated] From Gamer to Filmmaker Sims Gameplay Recording for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secret-story-gazers-manual-for-discreet-instagram-stories-on-desktopmobile/"><u>[Updated] Secret Story Gazer's Manual for Discreet Instagram Stories on Desktop/Mobile</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-youtube-content-for-igtv-success/"><u>[Updated] Transforming YouTube Content for IGTV Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/business-insights-discover-five-primary-reasons-driving-companies-to-restrict-chatgpt-access/"><u>Business Insights: Discover Five Primary Reasons Driving Companies to Restrict ChatGPT Access</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/streamline-your-research-with-al-jazeera-video-replayer-for-pc-and-mac/"><u>Streamline Your Research with Al Jazeera Video Replayer for PC & MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-solutions-when-you-cant-access-clipconverter-workarounds-and-alternatives/"><u>Top Solutions When You Can't Access ClipConverter: Workarounds and Alternatives</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-downloaded-yandex-movies-in-popular-video-formats-mp4-mov-avi-for-windows-and-macos-systems/"><u>Tutorial: How to Save Downloaded Yandex Movies in Popular Video Formats (MP4, MOV, AVI) for Windows and macOS Systems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>Updated Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-silence-problem-twitter-videos-lacking-sounds/"><u>[Updated] 2024 Approved Silence Problem Twitter Videos Lacking Sounds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-stream-a-pre-recorded-video-live-on-facebook/"><u>2024 Approved How to Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/building-a-personalized-docker-repackaging-container-image-guide/"><u>Building a Personalized Docker Repackaging Container Image Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-product-overview-essential-details-unveiled/"><u>Comprehensive Product Overview: Essential Details Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creativity-on-a-tablet-leading-drawing-apps/"><u>Creativity on a Tablet Leading Drawing Apps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-methods-to-incorporate-images-into-videos-a-three-step-guide/"><u>Effortless Methods to Incorporate Images Into Videos: A Three-Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-how-imsixdriver-relies-on-supportive-components-a-detailed-guide/"><u>Exploring How IMsixDriver Relies on Supportive Components: A Detailed Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-c67-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme C67 5G FRP Locks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hero5-in-focus-advanced-photography-and-video-guide-for-gopro/"><u>Hero5 in Focus Advanced Photography & Video Guide for GoPro</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-determine-if-someone-has-accessed-my-gmail-account-illegally-discover-the-signs-and-follow-our-step-by-step-guide/"><u>How Can I Determine If Someone Has Accessed My Gmail Account Illegally? Discover the Signs & Follow Our Step-by-Step Guide!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/huawei-p30s-top-4-display-sharing-software-alternatives-to-enhance-your-experience/"><u>Huawei P30's Top 4 Display Sharing Software Alternatives to Enhance Your Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-cloud-conversion-expert-steps-for-shifting-from-google-photos-to-apples-icloud/"><u>Navigating Cloud Conversion: Expert Steps for Shifting From Google Photos to Apple's iCloud</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-upgrading-your-iphoneipad-with-ios-8/"><u>Simple Guide: Upgrading Your iPhone/iPad with iOS 8</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-cinematic-look-a-comprehensive-guide-to-fcpx-video-editing/"><u>Updated 2024 Approved The Cinematic Look A Comprehensive Guide to FCPX Video Editing</u></a></li>
 </ul></div>
 

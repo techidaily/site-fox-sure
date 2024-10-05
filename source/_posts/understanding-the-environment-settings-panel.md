@@ -1,7 +1,7 @@
 ---
 title: Understanding the Environment Settings Panel
-date: 2024-09-24T01:11:44.648Z
-updated: 2024-09-30T10:37:29.227Z
+date: 2024-10-02T21:09:21.229Z
+updated: 2024-10-05T21:06:23.072Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ This tab can be used to configure FastCGI environment variables.
 ![Environment Variables](https://cdn.advancedinstaller.com/img/dialog/fastcgi-env-vars.png "Environment Variables")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new environment variable
@@ -113,10 +113,16 @@ This tab can be used to configure FastCGI environment variables.
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an environment variable
@@ -124,10 +130,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item, double click or press the Space key while an element from the list control is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an environment variable
@@ -167,20 +173,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-cameraphone-trackers-precision-power-performance/"><u>[New] Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-visual-voyage-your-guide-to-broadcasting-vids-with-confidence-on-facebook-for-2024/"><u>[New] Visual Voyage Your Guide to Broadcasting Vids with Confidence on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-buzzing-on-both-platforms-top-10-tiktok-tweets-explored/"><u>[Updated] 2024 Approved Buzzing on Both Platforms Top 10 TikTok Tweets Explored</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/own-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile-for-2024/"><u>Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-to-enable-pdf-download-on-your-site-with-flipbuilder/"><u>Easy Guide to Enable PDF Download on Your Site with FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/efficient-steps-for-instantly-exporting-live-settings-into-a-theme-in-flipbuilder/"><u>Efficient Steps for Instantly Exporting Live Settings Into a Theme in FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transform-several-pdf-documents-into-individual-flipbooks-using-custom-naming-schemes-flipbuildercom/"><u>Effortlessly Transform Several PDF Documents Into Individual Flipbooks Using Custom Naming Schemes [FlipBuilder.com]</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-methods-for-recording-youtube-live-streaming/"><u>In 2024, Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/outsmarting-your-os-glitch-effective-script-solutions-for-windows/"><u>Outsmarting Your OS Glitch: Effective Script Solutions for Windows</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-converting-video-frames-to-stunning-images-a-guide-to-10-top-converters/"><u>Updated Converting Video Frames to Stunning Images A Guide to 10 Top Converters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevating-engagement-split-screen-tactics-on-social-media-platforms/"><u>[New] Elevating Engagement Split Screen Tactics on Social Media Platforms</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-simplify-tiktok-video-creation-using-siri-commands-and-features-for-2024/"><u>[New] How to Simplify TikTok Video Creation Using Siri Commands and Features for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-posting-photos-and-vids-to-twitter-from-your-phone-not-as-a-retweet/"><u>[New] Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-videos-free-how-to-change-any-file-to-compatible-with-iphones/"><u>Convert Videos Free: How to Change Any File to Compatible with iPhones</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/defining-key-prerequisites-a-comprehensive-overview/"><u>Defining Key Prerequisites: A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/famous-and-trustworthy-sites-comparable-to-snipmp3-for-digital-enthusiasts/"><u>Famous & Trustworthy Sites Comparable to SNIPMP3 for Digital Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-io-2023-spotlight-top-seven-exhilarating-bard-ai-capabilities-now-available/"><u>Google I/O 2023 Spotlight: Top Seven Exhilarating BARD AI Capabilities Now Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-refreshing-insignia-bluetooth-stick-driver-for-windows-1087/"><u>Guide to Downloading and Refreshing Insignia Bluetooth Stick Driver for Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-amplifying-popularity-on-youtube/"><u>In 2024, The Art of Amplifying Popularity on YouTube</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/leading-experts-in-crafting-exquisite-picture-mosaic-masterpieces/"><u>Leading Experts in Crafting Exquisite Picture Mosaic Masterpieces</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-capturing-your-facebook-video-chats/"><u>Step-by-Step Guide: Capturing Your Facebook Video Chats</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-seamlessly-duplicate-your-windows-pc-display-on-an-ipad/"><u>Step-by-Step Guide: Seamlessly Duplicate Your Windows PC Display on an iPad</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-lg-watch-style-embracing-the-traditional-design-of-wear-os-smartwatches/"><u>The Definitive Guide to LG Watch Style: Embracing the Traditional Design of Wear OS Smartwatches</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-3-tricks-for-no-cost-downloads-of-vk-media-content/"><u>Top 3 Tricks for No-Cost Downloads of VK Media Content</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-strategies-for-effortless-text-extraction-from-images-across-various-software/"><u>Top Strategies for Effortless Text Extraction From Images Across Various Software</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Find X7 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

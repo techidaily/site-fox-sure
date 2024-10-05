@@ -1,7 +1,7 @@
 ---
 title: Key Features of Microsoft's Server Roles and Services
-date: 2024-09-25T03:28:34.763Z
-updated: 2024-09-29T20:36:44.087Z
+date: 2024-10-01T17:18:04.418Z
+updated: 2024-10-05T16:40:58.053Z
 tags:
   - user-guide
 categories:
@@ -82,30 +82,23 @@ Table of Contents
 ![Windows Server Roles](https://cdn.advancedinstaller.com/img/dialog/windows-server-roles.png "Windows Server Roles")  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Role Installation
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Name
 
 The standard role identifier. This field is read-only.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -113,10 +106,10 @@ The standard role identifier. This field is read-only.
 The role will be installed only if the condition is resolved to TRUE.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Role Services
@@ -124,6 +117,13 @@ The role will be installed only if the condition is resolved to TRUE.
 In this section, you can add extra services for the role. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There is no need to manually handle Server Role Service dependencies. They will be automatically handled (enabled) during installation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -158,17 +158,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-10-firefox-video-and-image-export-add-ons/"><u>[Updated] 2024 Approved Top 10 Firefox Video & Image Export Add-Ons</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-unleashing-creativity-in-discord-our-top-picks-of-free-voice-transformers-for-2024/"><u>[Updated] Unleashing Creativity in Discord Our Top Picks of Free Voice Transformers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-tactics-to-maximize-vimeo-viewership/"><u>2024 Approved Tactics to Maximize Vimeo Viewership</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-update-fault-code-0x80246007-on-w10w11/"><u>Eradicating Update Fault Code: 0X80246007 on W10/W11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-transfer-your-custom-designed-templates-to-flipbuilder/"><u>How to Transfer Your Custom-Designed Templates to FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/introducing-interactive-e-books-with-page-turn-animation-discover-how-with-flipbuildercom/"><u>Introducing Interactive E-Books with Page-Turn Animation - Discover How with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/launching-flipbook-links-into-separate-windows-with-ease-a-step-by-step-guide/"><u>Launching Flipbook Links Into Separate Windows with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-based-photo-albums-and-swiftly-flipping-images-made-easy-with-flipimage-visit-flipbuildercom/"><u>Mac-Based Photo Albums & Swiftly Flipping Images Made Easy with FlipImage - Visit flipbuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/make-your-mac-pdfs-into-ebooks-using-flip-builder-a-comprehensive-tutorial/"><u>Make Your Mac PDFs Into eBooks Using Flip Builder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repair-update-graphics-card-regains-functionality/"><u>Repair Update: Graphics Card Regains Functionality</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-the-secrets-of-urdu-online/"><u>Unlock the Secrets of Urdu Online</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Updated Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[New] In 2024, 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-free-and-top-tier-comparing-the-leading-srt-apps/"><u>[New] In 2024, Free & Top-Tier Comparing the Leading SRT Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[Updated] Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-snappyscreen-recording-suite/"><u>2024 Approved SnappyScreen Recording Suite</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/best-practices-for-enhancing-your-installed-reg-detector-software/"><u>Best Practices for Enhancing Your Installed Reg Detector Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-conversion-techniques-from-myspace-tunes-to-mp3-files/"><u>Effortless Conversion Techniques From MySpace Tunes to MP3 Files</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-different-approaches-to-virtualization-strategies/"><u>Exploring Different Approaches to Virtualization Strategies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-subtitle-manipulators-the-top-10-list-online/"><u>In 2024, Best Subtitle Manipulators - The Top 10 List (Online)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-must-see-asmr-talents-online/"><u>In 2024, Must-See ASMR Talents Online</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/next-level-ui-innovations-in-sophisticated-system-setup-tools/"><u>Next-Level UI Innovations in Sophisticated System Setup Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-chromebook-video-editing-software-the-ultimate-guide/"><u>Top-Rated Chromebook Video Editing Software: The Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-15-stop-motion-film-collection-for-2024/"><u>Unveiling the Ultimate 15 Stop-Motion Film Collection for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zooming-in-enhance-your-tiktok-videos/"><u>Zooming In Enhance Your TikTok Videos</u></a></li>
 </ul></div>
 

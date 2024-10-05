@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Implementing Access Permissions: A Detailed Guide"
-date: 2024-09-27T11:28:44.064Z
-updated: 2024-09-30T09:47:06.972Z
+date: 2024-10-01T20:23:25.333Z
+updated: 2024-10-05T19:15:10.025Z
 tags:
   - user-guide
 categories:
@@ -99,6 +99,13 @@ This dialog allows you to properly configure access permission flags for a Web S
 
 ![Access flags](https://cdn.advancedinstaller.com/img/ui/access-flags.png "Access flags")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Local Access
 
 ### Read
@@ -113,25 +120,11 @@ Setting this option indicates that the file or folder contents may be executed i
 
 Setting this option indicates that the file or folder contents may be executed, regardless of file type.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write
 
 Setting this option indicates that users are allowed to upload files and their associated properties to the enabled directory on your server or to change content in a Write-enabled file. Write can be implemented only with a browser that supports the PUT feature of the HTTP 1.1 protocol standard.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Setting both "Write" and "Execute" permissions can be dangerous, because it allows users to modify internal files and run potentially damaging scripts on the system.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Source
 
@@ -140,10 +133,10 @@ Setting this option indicates that users are allowed to access source code (scri
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The AccessSource flag, if set, grants source access to clients, using the HTTP extensions described by the Web Distributed Authoring and Versioning (**WebDAV**) standard. For more information on**WebDAV**, see the **World Wide Web Consortium** web site and the **WebDAV** Publishing documentation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### No Physical Directory
@@ -153,37 +146,24 @@ Setting this option indicates that access to the physical path is not allowed.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This flag is available only for IIS versions 6.0 and above.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remote Access
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### No Read
 
 Setting this option indicates that remote requests to view files are denied; only requests from the same computer as the IIS server succeed if the local "Read" property is set.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### No Script
 
@@ -193,30 +173,38 @@ Setting this option indicates that remote requests to view dynamic content are d
 
 Setting this option indicates that remote requests to create or change files are denied; only requests from the same computer as the IIS server succeed if the local "Write" property is set.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### No Execute
 
 Setting this option indicates that remote requests to execute applications are denied; only requests from the same computer as the IIS server succeed if the local "Execute" property is set.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can enable local access without remote access, but you cannot enable remote access without local access.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Remote access flags are operative only when the corresponding local access flag is set. For example, setting remote "No Read" has no effect unless local "Read" is set as well. If both are set, the local host can read the file, but the file cannot be read by the remote client.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## User Access
 
 Configure the options to control user interaction with the web site / virtual directory.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable directory browsing
 
@@ -255,20 +243,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-virtual-meetings-zooming-up-your-skype-game/"><u>[New] In 2024, Enhancing Virtual Meetings Zooming Up Your Skype Game</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>[New] The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-secondary-shots-a-filmmakers-blueprint/"><u>[Updated] Integrating Secondary Shots A Filmmaker's Blueprint</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-long-lasting-battery-life-that-requires-minimal-maintenance/"><u>A Long-Lasting Battery Life that Requires Minimal Maintenance.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/effortless-meal-times-with-arfs-auto-feeder-device-for-your-furry-friends/"><u>Effortless Meal Times with Arf's Auto-Feeder Device for Your Furry Friends</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-magic-6-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Magic 6 Pro</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-transfer-your-custom-designed-templates-to-flipbuilder/"><u>How to Transfer Your Custom-Designed Templates to FlipBuilder</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23+ FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a56s-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A56s 5G Location | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/introducing-interactive-e-books-with-page-turn-animation-discover-how-with-flipbuildercom/"><u>Introducing Interactive E-Books with Page-Turn Animation - Discover How with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/launching-flipbook-links-into-separate-windows-with-ease-a-step-by-step-guide/"><u>Launching Flipbook Links Into Separate Windows with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-based-photo-albums-and-swiftly-flipping-images-made-easy-with-flipimage-visit-flipbuildercom/"><u>Mac-Based Photo Albums & Swiftly Flipping Images Made Easy with FlipImage - Visit flipbuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/make-your-mac-pdfs-into-ebooks-using-flip-builder-a-comprehensive-tutorial/"><u>Make Your Mac PDFs Into eBooks Using Flip Builder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/preserve-and-restore-your-flipbook-configuration-saved-states-with-ease-on-flipbuildercom/"><u>Preserve and Restore Your Flipbook Configuration Saved States with Ease on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simplify-your-digital-presentations-mastering-output-control-in-flipbooks-using-customizable-buttons-at-flipbuildercom/"><u>Simplify Your Digital Presentations: Mastering Output Control in Flipbooks Using Customizable Buttons at FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-asmr-knowledge-beyond-what-you-see/"><u>[New] 2024 Approved ASMR Knowledge Beyond What You See</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-the-perfect-pitch-inviting-listeners-to-join-us/"><u>[New] 2024 Approved Crafting the Perfect Pitch Inviting Listeners to Join Us</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-secretly-browse-instagram-stories-on-desktop-and-mobile-devices-for-free/"><u>[Updated] 2024 Approved How to Secretly Browse Instagram Stories on Desktop and Mobile Devices (For Free)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-bgms-and-gifs-stylish-google-meet-backdrops/"><u>[Updated] Best BGMs & GIFs Stylish Google Meet Backdrops</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-sharing-tweets-with-facebook-friends/"><u>[Updated] In 2024, Sharing Tweets with Facebook Friends</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ideal-beginning-enhancer-for-your-devices/"><u>[Updated] The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-s17e-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo S17e FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implementing-gpt-4s-cutting-edge-technology-in-your-conversations-with-chatgpt-live-demonstration-and-tutorial/"><u>Implementing GPT-4's Cutting-Edge Technology in Your Conversations with ChatGPT: Live Demonstration and Tutorial</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/innovative-features-elevating-your-experience-with-cutting-edge-technology/"><u>Innovative Features: Elevating Your Experience with Cutting-Edge Technology</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-mime-type-selection-for-optimal-web-experience/"><u>Mastering MIME Type Selection for Optimal Web Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-easy-steps-moving-your-tunes-from-one-iphone-to-another/"><u>Quick & Easy Steps: Moving Your Tunes From One iPhone to Another</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-installing-soundmax-driver-software-in-windows/"><u>Step-by-Step Instructions for Installing SoundMAX Driver Software in Windows</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-process-for-finding-your-registration-record-versions-online/"><u>Step-by-Step Process for Finding Your Registration Record Versions Online</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tailoring-your-frames-hues-custom-colour-arrangement-options/"><u>Tailoring Your Frame's Hues: Custom Colour Arrangement Options</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
 </ul></div>
 

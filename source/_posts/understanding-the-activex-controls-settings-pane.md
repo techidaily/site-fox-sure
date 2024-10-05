@@ -1,7 +1,7 @@
 ---
 title: Understanding the ActiveX Controls Settings Pane
-date: 2024-09-27T19:13:25.271Z
-updated: 2024-09-29T19:21:54.788Z
+date: 2024-09-30T19:47:40.419Z
+updated: 2024-10-05T17:36:22.104Z
 tags:
   - user-guide
 categories:
@@ -82,21 +82,7 @@ This view allows you to configure COM ActiveX settings.
 
 ![Activex properties tab](https://cdn.advancedinstaller.com/img/ui/activex-properties-tab.png "Activex properties tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Active X Control
 
@@ -107,10 +93,16 @@ Marks this COM as an ActiveX control.
 Marks this COM as programmable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Insertable
@@ -125,16 +117,16 @@ Specify the 16 x 16 bitmap to use for the face of a toolbar or toolbox button.
 
 The bitmap path.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Resource ID
 
 The bitmap resource ID.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Misc Status (DvAspects)
 
@@ -144,22 +136,16 @@ Specifies how to create and display an object, the desired data or view aspect o
 
 If no subkey that corresponds to a DvAspect is found, it uses the default value of Misc Status.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Content
 
 Provides a representation of an object so it can be displayed as an embedded object inside of a container. This value is typically specified for compound document objects. The presentation can be provided for the screen or printer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Thumbnail
 
@@ -173,28 +159,49 @@ Provides an iconic representation of an object.
 
 Provides a representation of the object on the screen as though it were printed to a printer using the Print command from the File menu. The described data may represent a sequence of pages. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable Full Page
 
 Register an ActiveX control as a full-frame viewer so it is used as the viewer/player when following A HREF links to a particular media type.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Extensions
 
 Register the control as the viewer for the specified extensions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Implemented Categories
 
 Specify the categories this COM implements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New
 
 Define a new implemented category by clicking the\[New \] button on the right, choosing "New" from the context menu or pressing the Insert key.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add
 
@@ -206,13 +213,6 @@ Add predefined implemented categories from the\[Add \] combobox on the right or 
 * Specifies that this COM implements "Controls that are safely scriptable" category.
 * Safe for initializing
 * Specifies that this COM implements "Controls safely initializable from persistent data" category
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remove
 
@@ -251,14 +251,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-directors-cut-trailers/"><u>[New] Prime Director's Cut Trailers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-visualiser-des-films-en-dvd-sans-couts-de-telechargement-ou-investissement-un-manuel-simple/"><u>Comment Visualiser Des Films en DVD Sans Coûts De Téléchargement Ou Investissement : Un Manuel Simple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-leveraging-chatgpt-in-cross-language-communication/"><u>Effective Strategies for Leveraging ChatGPT in Cross-Language Communication</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-pbs-video-collection-convert-and-save-your-favorites-as-mp4-avi-or-movies-using-our-top-video-downloader-tool/"><u>Effortless PBS Video Collection: Convert and Save Your Favorites as MP4, AVI or Movies Using Our Top Video Downloader Tool!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/free-access-latest-movie-trailers-and-reviews-on-moviemagazine/"><u>Free Access - Latest Movie Trailers & Reviews on Moviemagazine</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-on-saving-adult-videos-in-multiple-formats-for-private-viewing/"><u>Guide on Saving Adult Videos in Multiple Formats for Private Viewing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-convert-and-retrieve-any-video-from-gumroad-as-mp4-avi-flv-mov-files/"><u>Guide: Convert and Retrieve Any Video From Gumroad as MP4, AVI, FLV, Mov Files</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-xs-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone XS Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/transform-wtv-files-into-mp4-with-our-user-friendly-wtv-converter-tool/"><u>Transform WTV Files Into MP4 with Our User-Friendly WTV Converter Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-screen-recording-techniques-for-pc-enthusiasts-for-2024/"><u>[Updated] Free Screen Recording Techniques for PC Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-pre-installation-requirements-guide/"><u>Essential Pre-Installation Requirements Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-implement-an-iextension-framework-in-your-application/"><u>How to Implement an IExtension Framework in Your Application</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>In 2024, Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://article-tips.techidaily.com/iphone-video-mastery-from-fast-to-extremely-slow-motion-content/"><u>IPhone Video Mastery From Fast to Extremely Slow Motion Content</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-professional-skills-with-icom-certification-courses-a-comprehensive-guide/"><u>Mastering Professional Skills with ICOM Certification Courses - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-key-smartwatch-opens-your-mac/"><u>Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/steps-to-remove-unseen-portions-in-streamed-youtube-videos-for-2024/"><u>Steps to Remove Unseen Portions in Streamed YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-lost-ark-game-crashes/"><u>Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-the-definitive-list-of-folders-and-their-uses/"><u>Ultimate Guide: The Definitive List of Folders and Their Uses</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
 </ul></div>
 

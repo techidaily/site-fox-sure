@@ -1,7 +1,7 @@
 ---
 title: "Types of Merged Projects: An In-Depth Guide"
-date: 2024-09-27T05:01:07.425Z
-updated: 2024-09-29T22:53:46.757Z
+date: 2024-10-01T17:41:59.996Z
+updated: 2024-10-05T19:05:38.504Z
 tags:
   - user-guide
 categories:
@@ -79,9 +79,23 @@ Table of Contents
 
 ## Merge Modules Project Types
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Merge Module
 
 ![Merge Module Project](https://cdn.advancedinstaller.com/img/project/merge-module.png "Merge Module Project")This type of project gives you the possibility to create [Merge Modules](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Enterprise license.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Import
 
@@ -90,44 +104,30 @@ Table of Contents
 ![Msm import](https://cdn.advancedinstaller.com/img/project/msm-import.png "Msm import")This type of project gives you the possibility to import an existing MSM into an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Import Wix Module
 
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Visual Studio Wix Module
 
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Visual Studio MSM Project
 
 ![Visual studio merge module](https://cdn.advancedinstaller.com/img/project/visual-studio-merge-module.png "Visual studio merge module")This wizard allows you to import a Visual Studio MSM project in an Advanced Installer project enabling you to create redistributable MSMs. Note that this project type requires an Enterprise license.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -162,22 +162,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sure.techidaily.com/x1-5/"><u> [ X_1 = 5 </u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flawless-frequency-facilitator-for-voices/"><u>[New] Flawless Frequency Facilitator for Voices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-a-domino-effect-with-memes/"><u>Creating a Domino Effect with Memes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi Redmi 13C 5G.</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-error-0x80072efd-a-windows-store-solution/"><u>Eliminating Error 0X80072EFD: A Windows Store Solution</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-non-starting-windows-10-machine-detailed-image-guide/"><u>How to Repair a Non-Starting Windows 10 Machine: Detailed Image Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-lowest-priced-cloud-vendors/"><u>In 2024, Comparative Analysis Lowest Priced Cloud Vendors</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-your-ui-with-the-nextjs-material-kit-pro-suite-from-creative-tim-elevate-your-nextjs-projects-today/"><u>Master Your UI with the NextJS Material Kit Pro Suite From Creative Tim – Elevate Your NextJS Projects Today!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premiere-vuejs-bootstrap-4-admin-dashboard-unleash-creativity-with-vue-black-pro-by-creative-tim/"><u>Premiere Vuejs Bootstrap 4 Admin Dashboard: Unleash Creativity with Vue Black Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premium-bootstrap-5-components-pack-for-agile-ui-development-no-cost-by-creative-tim/"><u>Premium Bootstrap 5 Components Pack for Agile UI Development - No Cost, by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/professional-paper-dashboard-2-pro-elite-bootstrap-section-0/"><u>Professional Paper Dashboard 2 PRO: Elite Bootstrap # Section 0</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-17-premier-lights-and-cameras-for-2024/"><u>The Ultimate Guide 17 Premier Lights & Cameras for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-shine-guide-ps5s-deep-clean/"><u>The Ultimate Shine Guide: PS5's Deep Clean</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-exclusive-selection-and-emphasizing-quality-with-terms-like-top-tier-and-premier/"><u>Ultimate Guide, Exclusive Selection, and Emphasizing Quality with Terms Like Top-Tier and Premier.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-selection-of-over-24-tailwind-css-themes-professional-admin-and-dashboard-designs-by-creative-tim/"><u>Ultimate Selection of Over 24 Tailwind CSS Themes: Professional Admin & Dashboard Designs by Creative Tim</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-download-your-instagram-masterpieces-easily/"><u>[New] 2024 Approved Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-young-entrepreneurs-guide-buying-profitable-youtube-sites/"><u>[Updated] Young Entrepreneur's Guide Buying Profitable YouTube Sites</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-techniques-for-crafting-engaging-dialogue-pages/"><u>Effective Techniques for Crafting Engaging Dialogue Pages</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi Note 12 Pro 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-implement-subtitles-in-mp4-files-successfully-best-practices-and-tips/"><u>How to Implement Subtitles in MP4 Files Successfully: Best Practices and Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-ppt-slides-via-webcam-2023-techniques/"><u>In 2024, Capturing PPT Slides via Webcam 2023 Techniques</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/maximize-website-performance-understanding-and-using-the-internet-information-services-iis/"><u>Maximize Website Performance: Understanding and Using the Internet Information Services (IIS)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-itel-a05s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel A05s Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-the-most-effective-express-project-frameworks/"><u>Unveiling the Most Effective Express Project Frameworks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-8-free-online-video-stabilization-tools-for-smoother-footage/"><u>Updated Top 8 Free Online Video Stabilization Tools for Smoother Footage</u></a></li>
 </ul></div>
 

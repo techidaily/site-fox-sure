@@ -1,7 +1,7 @@
 ---
 title: Dynamic System Initialization Query Interface
-date: 2024-09-29T09:40:31.554Z
-updated: 2024-09-30T04:12:34.076Z
+date: 2024-09-28T19:02:49.674Z
+updated: 2024-10-05T20:33:46.839Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,16 @@ In this dialog, you can configure the Active Setup command options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -106,19 +112,19 @@ Specify the Stub Path. This represents a valid command line that will be execute
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Stud Path can also be a VBS script, a regsvr32.exe call, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Version
 
 If specified, the component’s command will run only if the corresponding version in the user part is smaller or not present. Once run, the version number is copied to the user part.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The version has four numbers and the separator that should be used is **the comma. (,)** E.g.:1,2,3,4.  
 However, formatted references that resolve to values containing versions with point separator (.) can be used because,**at build time**, Advanced Installer automatically replaces the point separator with comma. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Locale
 
@@ -131,23 +137,23 @@ Specify whether the component command will run once per user or it will not run 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Possible values : 1, 0. The default value is 1.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983573">
+<span id="1983539">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -187,21 +193,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-clearing-the-path-free-facebook-videos-from-interruptions/"><u>[New] Clearing the Path Free Facebook Videos From Interruptions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>[New] Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-5-esteemed-platforms-for-easy-text-effect-implementation-for-2024/"><u>[Updated] 5 Esteemed Platforms for Easy Text Effect Implementation for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>[Updated] Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-slumber-screen-chronicles-evaluations/"><u>2024 Approved Slumber Screen Chronicles Evaluations</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/beat-grabber-pro-access-instant-slacker-radio-content-and-top-playlist-hits/"><u>Beat Grabber Pro: Access Instant Slacker Radio Content & Top Playlist Hits</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/bulk-download-of-courseras-online-courses-and-subtitles-easy-mac-and-pc-guide/"><u>Bulk Download of Coursera's Online Courses & Subtitles: Easy Mac & PC Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-driven-solutions-for-enhanced-site-engagement/"><u>Cookiebot-Driven Solutions for Enhanced Site Engagement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-u23-by-fonelab-android-recover-video/"><u>How to recover old videos from your U23</u></a></li>
-<li><a href="https://blog-min.techidaily.com/imovie-ready-free-conversion-of-avchd-videos-into-editable-formats/"><u>IMovie Ready: Free Conversion of AVCHD Videos Into Editable Formats</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-for-transferring-bluprint-course-downloads-onto-both-windows-and-macos-systems/"><u>Simple Steps for Transferring Bluprint Course Downloads Onto Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/streamline-your-research-with-al-jazeera-video-replayer-for-pc-and-mac/"><u>Streamline Your Research with Al Jazeera Video Replayer for PC & MAC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-solutions-when-you-cant-access-clipconverter-workarounds-and-alternatives/"><u>Top Solutions When You Can't Access ClipConverter: Workarounds and Alternatives</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-downloaded-yandex-movies-in-popular-video-formats-mp4-mov-avi-for-windows-and-macos-systems/"><u>Tutorial: How to Save Downloaded Yandex Movies in Popular Video Formats (MP4, MOV, AVI) for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-okru-video-content-as-mp4-or-mov-files-for-pc-and-mac-users/"><u>Tutorial: How to Save Ok.ru Video Content as MP4 or Mov Files for PC and Mac Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-stepwise-approach-to-unleash-creativity-with-your-logitech-webcam/"><u>[Updated] Stepwise Approach to Unleash Creativity with Your Logitech Webcam</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/a-comprehensive-guide-to-the-top-5-online-collage-tools-both-gratis-and-subscription-based-options/"><u>A Comprehensive Guide to the Top 5 Online Collage Tools – Both Gratis and Subscription-Based Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abrindo-a-porta-para-o-suporte-multidevices-a-lista-dos-12-gravadores-mp4-mais-populares-do-movavi/"><u>Abrindo a Porta Para O Suporte Multidevices: A Lista Dos 12 Gravadores MP4 Mais Populares Do Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-in-class-no-charging-switch-replicas-for-2024/"><u>Best-in-Class, No-Charging Switch Replicas for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/detecting-and-avoiding-counterfeit-android-programs-insights-by-malwarefox/"><u>Detecting and Avoiding Counterfeit Android Programs: Insights by MalwareFox</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15 Pro Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infusing-astrology-in-whatsapp-profiles-for-better-engagement-for-2024/"><u>Infusing Astrology in WhatsApp Profiles for Better Engagement for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/maximize-website-performance-understanding-and-using-the-internet-information-services-iis/"><u>Maximize Website Performance: Understanding and Using the Internet Information Services (IIS)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/navigating-through-access-controls-insightful-strategies-and-tips/"><u>Navigating Through Access Controls: Insightful Strategies & Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-hot-40i-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Hot 40i Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-reliable-music-download-tool-for-windows-11/"><u>Quick and Reliable Music Download Tool for Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-audio-issues-fixing-the-logitech-g930-earbuds/"><u>Resolving Audio Issues: Fixing the Logitech G930 Earbuds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speaker-based-call-tape-recorder-iphone-2024/"><u>Speaker-Based Call Tape Recorder iPhone 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-broadcasting-games-with-obs-and-apowermirror/"><u>Step-by-Step Guide: Broadcasting Games with OBS and ApowerMirror</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tailored-package-selection-unlocking-a-world-of-personalization-features/"><u>Tailored Package Selection: Unlocking a World of Personalization Features</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-clear-image-enhancement-tools/"><u>Top Rated Clear Image Enhancement Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-pc-with-style-a-comprehensive-guide-to-crafting-dazzling-interfaces-using-rainmeter/"><u>Transform Your PC with Style: A Comprehensive Guide to Crafting Dazzling Interfaces Using Rainmeter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-directory-easy-classics-ringtone-websites/"><u>Ultimate Directory Easy Classics Ringtone Websites</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-the-most-effective-express-project-frameworks/"><u>Unveiling the Most Effective Express Project Frameworks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tab Settings for System Initialization: Understanding the Essentials"
-date: 2024-09-24T20:23:31.176Z
-updated: 2024-09-30T04:38:21.539Z
+date: 2024-09-28T18:01:03.102Z
+updated: 2024-10-05T19:15:43.375Z
 tags:
   - user-guide
 categories:
@@ -77,13 +77,6 @@ Predefined conditions that must be fulfilled in order to launch the installation
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These launch conditions are per build, therefore they must be specified for each defined build. By default when a new build is created there are no launch conditions enabled for it. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Supported Operating Systems
 
  Restricts the install package to run only on the selected Operating Systems. If the target operating system version is not equal with the accepted versions, the installation is aborted and an appropriate message is displayed.
@@ -91,13 +84,20 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Installer
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Minimum version
 
@@ -106,10 +106,16 @@ Edit this field with the minimum [Windows Installer](https://tools.techidaily.co
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Requirements
@@ -129,20 +135,14 @@ Add system-related launch conditions to your package. The available options are:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Prevent running on Virtual Machine" option only targets Virtual Box (Oracle), Hyper-V and VMWare virtual machines
 
-![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
 
 ## Package
 
@@ -183,22 +183,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-opening-and-managing-srt-files-seamlessly-for-2024/"><u>[New] Opening and Managing SRT Files Seamlessly for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leading-free-platforms-for-youtube-openings/"><u>[Updated] 2024 Approved Leading Free Platforms for YouTube Openings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>[Updated] 2024 Approved The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-peek-at-all-shared-images-and-videos-in-chats/"><u>[Updated] In 2024, Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/can-you-position-your-brands-emblem-above-the-main-content-area-learn-how-at-flipbuildercom/"><u>Can You Position Your Brand's Emblem Above the Main Content Area? Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/discovering-the-world-of-audio-with-your-ios-device-for-2024/"><u>Discovering the World of Audio with Your iOS Device for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/free-online-conversion-change-wmv-files-into-avi-format-with-just-a-click/"><u>Free Online Conversion: Change WMV Files Into AVI Format with Just a Click</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-loop-creator-pro/"><u>In 2024, Loop Creator Pro</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-acurite-pro-model-01036m-uncomplicated-installation-sturdy-construction/"><u>In-Depth Review of the AcuRite Pro Model 01036M: Uncomplicated Installation, Sturdy Construction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-restore-missing-notes-from-your-iphone/"><u>The Ultimate Trick to Restore Missing Notes From Your iPhone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-command-line-conversion-feature-a-deep-dive-into-flipbuilders-tools/"><u>Understanding Command Line Conversion Feature - A Deep Dive Into FlipBuilder's Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boost-your-following-with-these-top-insta-apps/"><u>[Updated] Boost Your Following with These Top Insta Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-xbox-live-top-four-recording-techniques/"><u>[Updated] Mastering Xbox Live Top Four Recording Techniques</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-undetected-sd-cards-tips-and-tricks-for-quick-solutions/"><u>Fixing Undetected SD Cards - Tips and Tricks for Quick Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-flip-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Flip to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/innovative-features-elevating-your-experience-with-cutting-edge-technology/"><u>Innovative Features: Elevating Your Experience with Cutting-Edge Technology</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964891082-new-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-effect-and-/"><u>New The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-easy-steps-moving-your-tunes-from-one-iphone-to-another/"><u>Quick & Easy Steps: Moving Your Tunes From One iPhone to Another</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-process-for-finding-your-registration-record-versions-online/"><u>Step-by-Step Process for Finding Your Registration Record Versions Online</u></a></li>
 </ul></div>
 
