@@ -1,7 +1,7 @@
 ---
 title: Next-Level UI Innovations in Sophisticated System Setup Tools
-date: 2024-10-04T18:33:32.138Z
-updated: 2024-10-05T21:02:44.763Z
+date: 2024-10-05T17:42:35.314Z
+updated: 2024-10-10T17:54:44.969Z
 tags:
   - user-guide
 categories:
@@ -71,25 +71,11 @@ Starting with Advanced Installer 9 on _Windows Vista SP2 with Platform Update_ o
 
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Toolbar
 
 The toolbar allows quick access to most commands provided by the menu system. From here you can create \[New \] projects, \[Open \] existing ones or\[Save \], \[Build \] and \[Run \] the project you are working on. Some of the creation process' pages append their own toolbars to easily add files to the install, create shortcuts, etc. For a detailed explanation of each item on the main toolbar see [Working with Projects](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Left Pane
 
@@ -98,10 +84,10 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
@@ -109,19 +95,33 @@ You can toggle the left pane on and off from the “View > Show > Left Pane” m
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Page Display
 
 The center stage for creating your installer is this large area on the right. It is the main work area - all project data is displayed here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Info Panes
 
 This panel will display one of the selected panes from the “View > Info Panes” menu and it is hidden by default. You can close it again by clicking on its top-right corner \[Close \] button.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -171,22 +171,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[New] 2024 Approved Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-females-in-youtube-a-list-of-leading-creators/"><u>[Updated] Top Females in YouTube A List of Leading Creators</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-enhancing-code-efficiency-mastering-the-assembly-attribute-configuration-panel/"><u>1. Enhancing Code Efficiency: Mastering the Assembly Attribute Configuration Panel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-one-step-trick-stellar-instagram-collage-design/"><u>2024 Approved One-Step Trick Stellar Instagram Collage Design</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-optimizing-your-youtube-video-preservation/"><u>2024 Approved Optimizing Your YouTube Video Preservation</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/clear-your-pictures-fast-ultimate-tutorial-on-de-blurring-images-using-iphone-apps/"><u>Clear Your Pictures Fast: Ultimate Tutorial on De-Blurring Images Using iPhone Apps</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-tutorial-on-how-to-reset-and-restore-an-iphone-x-from-its-backup-files/"><u>Complete Tutorial on How to Reset and Restore an iPhone X From Its Backup Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/discovering-prime-frame-rates-for-top-tier-slow-motion-vids-for-2024/"><u>Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-rtl81-cu-network-adapter-driver-for-windows-xpvista710-free-update-now/"><u>Latest RTL81 Cu Network Adapter Driver for Windows [XP/Vista/7/10] - Free Update Now!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration-for-2024/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/next-level-setup-the-ultimate-guide-to-advanced-installer-customization/"><u>Next-Level Setup: The Ultimate Guide to Advanced Installer Customization</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-stream-microsoft-teams-conferencing-directly-onto-your-tv/"><u>Step-by-Step Tutorial: Stream Microsoft Teams Conferencing Directly Onto Your TV</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-m6-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco M6 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mac-gaming-recording-roblox-adventures/"><u>[New] Mac Gaming Recording Roblox Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-video-guide-to-hairstyles/"><u>[New] Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-online-spaces-for-youtube-traffic-increase/"><u>[Updated] In 2024, Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>2024 Approved From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-fresh-drivers-for-the-amd-radeon-hd-7870-under-microsofts-newest-os-windows-11/"><u>Download and Setup: Fresh Drivers for the AMD Radeon HD 지오스티브 7870 Under Microsoft's Newest OS, Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2021-file-by-stellar-guide/"><u>How Do I Restore Excel 2021 File ?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Phone Without Password?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-luminosity-calmed-issue-over/"><u>Laptop Luminosity Calmed - Issue Over</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-reliable-music-download-tool-for-windows-11/"><u>Quick and Reliable Music Download Tool for Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-broadcasting-games-with-obs-and-apowermirror/"><u>Step-by-Step Guide: Broadcasting Games with OBS and ApowerMirror</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tailored-package-selection-unlocking-a-world-of-personalization-features/"><u>Tailored Package Selection: Unlocking a World of Personalization Features</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-clear-image-enhancement-tools/"><u>Top Rated Clear Image Enhancement Tools</u></a></li>
 </ul></div>
 

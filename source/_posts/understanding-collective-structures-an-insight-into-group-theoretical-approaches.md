@@ -1,7 +1,7 @@
 ---
 title: "Understanding Collective Structures: An Insight Into Group Theoretical Approaches"
-date: 2024-10-04T18:09:34.299Z
-updated: 2024-10-05T18:29:08.529Z
+date: 2024-10-08T18:22:11.006Z
+updated: 2024-10-10T21:36:14.984Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ General information about the group.
 ![Group properties](https://cdn.advancedinstaller.com/img/ui/group-properties.png "Group properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Description
@@ -91,19 +91,25 @@ General information about the group.
  Remarks associated with the group.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fail if the group already exists
@@ -115,10 +121,10 @@ The installation process is terminated if the defined group already exists on th
 If the defined group is already present on the target machine, selecting this options ensures the group creation operation is skipped and the installation process will continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Condition
@@ -158,22 +164,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-combat-vr-motion-sickness-a-guide/"><u>[New] Combat VR Motion Sickness A Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>[New] Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-how-to-make-discord-video-calls-on-desktop-and-mobile-for-2024/"><u>[Updated] How to Make Discord Video Calls on Desktop and Mobile for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-your-potential-for-higher-instagram-video-visibility/"><u>[Updated] Unlocking Your Potential for Higher Instagram Video Visibility</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-techniques-for-crafting-engaging-dialogue-pages/"><u>Effective Techniques for Crafting Engaging Dialogue Pages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-identify-and-manage-installed-programs-on-your-computer/"><u>How to Identify and Manage Installed Programs on Your Computer</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-implement-subtitles-in-mp4-files-successfully-best-practices-and-tips/"><u>How to Implement Subtitles in MP4 Files Successfully: Best Practices and Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/perfecting-visual-virality-crafting-engaging-square-videos-for-2024/"><u>Perfecting Visual Virality Crafting Engaging Square Videos for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-quick-and-effective-techniques-for-mov-to-mp4-video-conversion/"><u>Simple Steps: Quick & Effective Techniques for MOV to MP4 Video Conversion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solve-your-realtek-wi-fi-driver-problems-in-windows-operating-systems-updated-solution/"><u>Solve Your Realtek Wi-Fi Driver Problems in Windows Operating Systems [Updated Solution]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-zoom-version-on-windows-and-macos-systems/"><u>Step-by-Step Guide: Updating Zoom Version on Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tame-your-browser-overload-top-tips-to-optimize-chromes-cpu-and-memory-usage/"><u>Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-comprehensive-guide-to-the-3gp-video-file-format/"><u>Understanding the Basics: Comprehensive Guide to the 3GP Video File Format</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlock-your-video-potential-nine-superior-stream-filters-for-2024/"><u>Unlock Your Video Potential Nine Superior Stream Filters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-cheapest-way-designing-successful-youtube-ad-campaigns/"><u>[New] The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[Updated] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-how-to-restore-lost-or-deleted-content-on-your-ipod/"><u>Complete Guide: How to Restore Lost or Deleted Content on Your iPod</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/de-top-6-alternatieve-videoprogrammas-voor-pc-zoen-je-keuze-naast-imovie/"><u>De Top 6 Alternatieve Videoprogramma's Voor PC: Zoen Je Keuze Naast iMovie</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhancing-user-engagement-with-cookiebot-technology/"><u>Enhancing User Engagement with Cookiebot Technology</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-settings-in-the-module-package-tab/"><u>Exploring Settings in the Module Package Tab</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resetting-windows-11-from-scratch-a-step-by-step-tutorial/"><u>Resetting Windows 11 From Scratch: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-on-recovering-deleted-information-from-your-iphone/"><u>Step-by-Step Guide on Recovering Deleted Information From Your iPhone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
 </ul></div>
 

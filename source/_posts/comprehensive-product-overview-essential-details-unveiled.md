@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Product Overview: Essential Details Unveiled"
-date: 2024-10-01T17:25:20.762Z
-updated: 2024-10-05T20:03:00.973Z
+date: 2024-10-08T03:24:25.794Z
+updated: 2024-10-11T06:13:38.779Z
 tags:
   - user-guide
 categories:
@@ -115,15 +115,22 @@ Table of Contents
 The interface is designed to allow the user to set project name, version, and publisher just like in the user interface of Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IProductDetails : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -142,29 +149,22 @@ IProductDetails : IDispatch
 ![Product details](https://cdn.advancedinstaller.com/img/powershell-automation/product-details.png "Product details")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
 
 **SetIcon(String IConSourceFile, UINT IconIndex)**Sets the product icon.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -209,20 +209,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unleash-zodiac-potential-in-personal-bios-on-messaging-apps-for-2024/"><u>[New] Unleash Zodiac Potential in Personal Bios on Messaging Apps for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhance-zoom-soundscape-with-strategic-settings-tweaks-for-2024/"><u>[Updated] Enhance Zoom Soundscape with Strategic Settings Tweaks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-enhancing-workplace-productivity/"><u>ChatGPT's Role in Enhancing Workplace Productivity</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-settings-in-the-module-package-tab/"><u>Exploring Settings in the Module Package Tab</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-cultivating-community-in-stardews-ginger-territory/"><u>In 2024, Cultivating Community in Stardew’s Ginger Territory</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oneplus-nord-n30-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a OnePlus Nord N30 5G Phone that is Locked?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterful-adjustments-the-editors-guide-to-gopro-video-magic-for-2024/"><u>Masterful Adjustments The Editor's Guide to GoPro Video Magic for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-install-errors-win11/"><u>Understanding and Correcting Windows Install Errors (Win11)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/king-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-10-proven-steps-to-skyrocket-traffic-via-facebook-videos/"><u>[New] 2024 Approved 10 Proven Steps to Skyrocket Traffic via Facebook Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>[New] Perfect Pitch in Words Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>[Updated] Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skyrocket-your-game-with-these-7-14-stardew-mods/"><u>[Updated] In 2024, Skyrocket Your Game with These #7-14 Stardew Mods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamline-video-calls-using-google-hangouts-efficiently-for-2024/"><u>[Updated] Streamline Video Calls Using Google Hangouts Efficiently for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategizing-effective-movie-sneak-peeks/"><u>2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/battle-of-the-titans-an-in-depth-analysis-of-apple-music-vs-google-play-music-for-ultimate-sound-experience/"><u>Battle of the Titans: An In-Depth Analysis of Apple Music Vs. Google Play Music for Ultimate Sound Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-drag-and-drop-file-upload-feature/"><u>Easy Drag & Drop File Upload Feature</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/establishing-connections-with-virtual-machine-profiles-step-by-step-tips-and-tricks/"><u>Establishing Connections with Virtual Machine Profiles: Step-by-Step Tips and Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-configuration-options-in-the-activex-properties-dialog-box/"><u>Exploring the Configuration Options in the ActiveX Properties Dialog Box</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/free-online-ebook-convertor-transforming-rtf-into-portable-document-format-epub/"><u>Free Online eBook Convertor: Transforming RTF Into Portable Document Format (EPUB)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-converting-myvideo-downloads-into-mp3s-for-offline-listening/"><u>Guide: Converting MyVideo Downloads Into MP3s for Offline Listening</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-register-a-font-file-on-your-website-with-ease/"><u>How to Register a Font File on Your Website with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-k11x-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo K11x to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-syncing-your-iphone-with-hisense-television/"><u>Step-by-Step Guide: Syncing Your iPhone with Hisense Television</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-selection-7-premier-screen-reflector-applications-for-smartphones-and-tablets-iosandroid/"><u>The Ultimate Selection: 7 Premier Screen Reflector Applications for Smartphones and Tablets (iOS/Android)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
 

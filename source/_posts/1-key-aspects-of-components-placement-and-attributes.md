@@ -1,7 +1,7 @@
 ---
 title: 1. Key Aspects of Components Placement and Attributes
-date: 2024-10-02T20:20:27.793Z
-updated: 2024-10-05T17:25:34.656Z
+date: 2024-10-06T06:39:46.159Z
+updated: 2024-10-11T01:35:31.617Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 This type of search will try to find the component you want, retrieve its Key Path (or Key Member) and interpret it as a file or a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GUID
@@ -91,10 +91,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
  The searched component's Globally Unique Identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Type
@@ -104,10 +104,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In case of [Merge Module](https://tools.techidaily.com/advancedinstaller/products/) projects the following attributes can be made configurable at merge time:
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * ComponentId
@@ -116,10 +116,10 @@ This type of search will try to find the component you want, retrieve its Key Pa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -155,22 +155,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-masterminds-of-immersive-marvellous-marvel-spheres/"><u>[New] Masterminds of Immersive Marvellous Marvel Spheres</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[Updated] 2024 Approved Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-optimizing-channel-branding-to-skyrocket-subscriber-numbers/"><u>[Updated] Optimizing Channel Branding to Skyrocket Subscriber Numbers</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-luminance-for-hd-raises-questions/"><u>2024 Approved Assessing Luminance for HD Raises Questions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-through-the-best-screen-recorders-for-teaching/"><u>2024 Approved Navigating Through the Best Screen Recorders for Teaching</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-productivity-with-customized-keyboard-tricks/"><u>Enhance Productivity with Customized Keyboard Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g24-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G24</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mealtime-magic-the-most-entertaining-food-moments/"><u>In 2024, Mealtime Magic The Most Entertaining Food Moments</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-aspect-ratios-the-key-to-facebook-video-success-for-2024/"><u>Unlocking Aspect Ratios The Key to Facebook Video Success for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube/"><u>[New] 2024 Approved The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-srt-decoded-core-concepts-simplified-and-explained-for-2024/"><u>[New] SRT Decoded Core Concepts Simplified and Explained for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-youtube-concepts-for-channel-motivation-and-creativity-for-2024/"><u>[New] Top YouTube Concepts for Channel Motivation and Creativity for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[Updated] 2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-future-of-video-on-facebook-focusing-on-shorter-formats/"><u>[Updated] The Future of Video on Facebook Focusing on Shorter Formats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-mastering-video-content-for-youtube-success/"><u>2024 Approved Mastering Video Content for YouTube Success</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-step-by-step-guide-how-to-add-voiceovers-in-your-video-projects/"><u>Easy Step-by-Step Guide: How to Add Voiceovers in Your Video Projects</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-integration-how-to-incorporate-pdf-files-into-your-ibook-collection/"><u>Effortless Integration: How to Incorporate PDF Files Into Your iBook Collection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>In 2024, Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/key-features-of-microsofts-server-roles-and-services/"><u>Key Features of Microsoft's Server Roles and Services</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-java-launchers-a-guide-to-property-files-on-macos-systems/"><u>Optimizing Java Launchers: A Guide to Property Files on macOS Systems</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-your-web-app-with-advanced-techniques-in-aspnet-settings/"><u>Optimizing Your Web App with Advanced Techniques in ASP.NET Settings</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-to-creating-effective-website-binders-and-pages/"><u>Ultimate Guide to Creating Effective Website Binders & Pages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-professional-opportunsities-craft-a-winning-resume-using-chatgpt/"><u>Unlock Professional Opportunsities: Craft a Winning Resume Using ChatGPT</u></a></li>
 </ul></div>
 

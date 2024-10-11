@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Characteristics of Verbs: Understanding Verb Usage and Forms"
-date: 2024-10-01T17:47:51.152Z
-updated: 2024-10-05T19:09:12.605Z
+date: 2024-10-06T05:38:00.210Z
+updated: 2024-10-10T16:44:12.690Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## Verb Properties
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -92,16 +92,10 @@ Table of Contents
 ![MSIX File Associations](https://cdn.advancedinstaller.com/img/ui/msix-file-associations.png "MSIX File Associations")  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A name of an action. This action can be performed only on the files having an extension the verb is associated with. You can select a verb from the suggested list or you can also add your own verb names.
@@ -109,10 +103,10 @@ Table of Contents
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On the Mac OS X the default verb is "Edit". If you are creating a Mac OS X package, this verb will automatically be associated with the extension, regardless the verb you specify in the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Arguments
@@ -122,10 +116,10 @@ Table of Contents
 These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and thus they can include references to files, folders and properties.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11 Properties
@@ -167,16 +161,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-path-to-profitable-partnership-with-your-audience/"><u>[New] In 2024, The Path to Profitable Partnership with Your Audience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigating-the-nook-how-jake-paul-snagged-youtube-success-for-2024/"><u>[New] Navigating the Nook How Jake Paul Snagged YouTube Success for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] In 2024, Sharing Wisdom The Art of Insta Duplication</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-triumph-through-battle-the-supreme-selection-of-top-7-total-wars/"><u>[Updated] Triumph Through Battle The Supreme Selection of Top 7 Total Wars</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620217168-discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-guide-on-disabling-windows-10s-lock-screen/"><u>Effortless Guide on Disabling Windows 10'S Lock Screen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-top-3-storytelling-techniques-to-grow-your-youtube-channel/"><u>In 2024, Top 3 Storytelling Techniques to Grow Your YouTube Channel</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-igtv-essential-knowledge-and-usage/"><u>[Updated] 2024 Approved Navigating IGTV Essential Knowledge & Usage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-the-leading-online-stores-for-customized-gift-boxes/"><u>[Updated] 2024 Approved Unveiling the Leading Online Stores for Customized Gift Boxes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>2024 Approved Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elite-fidelity-desktop-and-online-upconversion/"><u>2024 Approved Elite Fidelity Desktop & Online Upconversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-x-professional-studio-for-windows/"><u>2024 Approved X-Professional Studio for Windows</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/award-winning-cost-free-applications-for-seamless-video-conversion-on-windows-phones/"><u>Award-Winning, Cost-Free Applications for Seamless Video Conversion on Windows Phones</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/master-the-art-of-sowing-and-cultivation-in-valheim/"><u>Master the Art of Sowing and Cultivation in Valheim</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-free-transform-your-mov-files-into-wmv-format-with-our-simple-converter/"><u>Quick & Free: Transform Your MOV Files Into WMV Format with Our Simple Converter</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revise-installation-for-specifics/"><u>Revise Installation for Specifics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-c33-2023-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme C33 2023</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tab-settings-for-system-initialization-understanding-the-essentials/"><u>Tab Settings for System Initialization: Understanding the Essentials</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-software-release-criteria-navigating-the-launch-specifications-tab/"><u>Understanding Software Release Criteria: Navigating the Launch Specifications Tab</u></a></li>
 </ul></div>
 

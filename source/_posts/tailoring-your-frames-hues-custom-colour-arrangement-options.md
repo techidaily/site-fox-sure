@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Your Frame's Hues: Custom Colour Arrangement Options"
-date: 2024-09-28T17:34:58.736Z
-updated: 2024-10-05T18:53:01.522Z
+date: 2024-10-03T19:16:13.944Z
+updated: 2024-10-11T06:42:58.254Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,10 @@ Table of Contents
 Advanced color customization for the custom frame can be achieved using the following MSI properties: 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frame Base Color property
@@ -97,6 +97,13 @@ Advanced color customization for the custom frame can be achieved using the foll
 **AI\_CF\_FRAME\_BASE\_COLOR**
 
  The base color from which frame all colors are derived and used to generate the custom frame colors. It is encoded in HTML format #RRGGBB.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Minimize and Close buttons properties
 
@@ -108,24 +115,24 @@ The base color from which minimize button colors are derived. Color is encoded i
 
 The base color from which close button colors are derived. Color is encoded in HTML format #RRGGBB. If not specified, a default color will be used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed customization
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If _FlatCaption_ is defined in [AI\_CF\_FRAME\_STYLE](https://tools.techidaily.com/advancedinstaller/products/), the detailed customization will be ignored and the caption will be drawn with the base color (no gradients).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If _FlatBorder_ is defined in [AI\_CF\_FRAME\_STYLE](https://tools.techidaily.com/advancedinstaller/products/), the detailed customization will be ignored and the border will be drawn with a single color derived from the base one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **AI\_CF\_FRAME\_BASE\_INACTIVE\_COLOR**
@@ -252,13 +259,6 @@ Copy
 
  Sizes are in pixels and 96 DPI. They are automatically scaled when loaded if DPI is not 96\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI\_CF\_FRAME\_STYLE
 
 Custom frame style 
@@ -306,19 +306,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-cover-video-techniques-for-business-professionals/"><u>[New] 2024 Approved FB Cover Video Techniques for Business Professionals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-full-hd-display-on-twitter-videos/"><u>[New] 2024 Approved Navigating Full HD Display on Twitter Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/outube-music-arrangement-tips-for-2024/"><u>[New] YouTube Music Arrangement Tips for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-revolutionize-your-farm-life-stardews-best-7-game-updates-for-2024/"><u>[Updated] Revolutionize Your Farm Life Stardew's Best 7 Game Updates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-pc-video-editing-substitutes/"><u>2024 Approved Exploring PC Video Editing Substitutes</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/advanced-techniques-in-software-setup-how-to-ensure-precision-with-installer-controls/"><u>Advanced Techniques in Software Setup: How to Ensure Precision with Installer Controls</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-controller-issue-resolved/"><u>Audio Device Controller Issue Resolved</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/building-a-personalized-docker-repackaging-container-image-guide/"><u>Building a Personalized Docker Repackaging Container Image Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-methods-to-incorporate-images-into-videos-a-three-step-guide/"><u>Effortless Methods to Incorporate Images Into Videos: A Three-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-how-imsixdriver-relies-on-supportive-components-a-detailed-guide/"><u>Exploring How IMsixDriver Relies on Supportive Components: A Detailed Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-guide-upgrading-your-iphoneipad-with-ios-8/"><u>Simple Guide: Upgrading Your iPhone/iPad with iOS 8</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/switching-to-virtual-white-space-in-real-time-broadcasts-on-your-phone/"><u>Switching to Virtual White Space in Real-Time Broadcasts on Your Phone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-self-supported-youtube-earnings-strategies-for-2024/"><u>The Ultimate Guide to Self-Supported YouTube Earnings Strategies for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[New] Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-skype-audio-archive-mp3-techniques-free-edition/"><u>[Updated] 2024 Approved Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-f15-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy F15 5G Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-linksys-ea9500-router-advanced-tech-for-seamless-connectivity/"><u>In-Depth Look at the Linksys EA9500 Router: Advanced Tech for Seamless Connectivity</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisperer-learning-to-activate-the-hidden-character-tracker/"><u>Windows Whisperer: Learning to Activate the Hidden Character Tracker</u></a></li>
 </ul></div>
 

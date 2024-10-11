@@ -1,7 +1,7 @@
 ---
 title: How to Implement an IExtension Framework in Your Application
-date: 2024-10-04T16:33:32.093Z
-updated: 2024-10-05T17:06:22.114Z
+date: 2024-10-07T02:32:24.470Z
+updated: 2024-10-11T00:04:24.143Z
 tags:
   - user-guide
 categories:
@@ -108,15 +108,22 @@ Table of Contents
 
 ## IExtensionFA
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IExtensionFA : IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -124,10 +131,10 @@ IExtensionFA : IDispatch
 This interface is meant to edit a ProgId extension setup
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -139,16 +146,16 @@ Creates a new file association verb.
 Removes the verb.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -167,13 +174,6 @@ Gets or sets the content type of the files with the selected extension. This con
 
 **Array<IVerbFA> Verbs**  
 Gets the collection of verbs.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -214,18 +214,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-launch-strategies-for-fb-generosity-campaigns/"><u>[Updated] Launch Strategies for FB Generosity Campaigns</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a24-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A24 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/auto-start-application-pinning-quick-guide-for-windows-taskbar/"><u>Auto-Start Application Pinning: Quick Guide for Windows Taskbar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/common-problems-and-fixes-for-non-responsive-windows-10-search-tool/"><u>Common Problems and Fixes for Non-Responsive Windows 10 Search Tool</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/expert-apowersoft-guidance-and-support-services/"><u>Expert Apowersoft Guidance & Support Services</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-enjoy-pubg-mobile-gaming-on-a-big-screen-with-ease-tips-and-tricks/"><u>How to Enjoy PUBG Mobile Gaming on a Big Screen with Ease: Tips & Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-move-tv-episodes-from-ipad-to-pc-or-mac/"><u>How to Move TV Episodes From iPad to PC or Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>In 2024, Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-pova-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Tecno Pova 5 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-meta-quest-3-comprehensive-guide-to-news-costs-release-calendar-and-features/"><u>Inside the Meta Quest 3 - Comprehensive Guide to News, Costs, Release Calendar & Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-3-seamless-methods-for-wireless-pc-to-mi-tv-connection/"><u>Top 3 Seamless Methods for Wireless PC-to-Mi TV Connection</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>[Updated] 2024 Approved From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-make-collage-for-facebook-instantly/"><u>[Updated] How to Make Collage for Facebook Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-approach-to-crafting-professional-time-lapse-videos-in-gopro-studio/"><u>2024 Approved Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-100-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-viral-video-vanguard-top-ten-in-one-hour-one-day-on-yt/"><u>In 2024, Viral Video Vanguard Top Ten in One Hour, One Day on YT</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-free-transform-your-mov-files-into-wmv-format-with-our-simple-converter/"><u>Quick & Free: Transform Your MOV Files Into WMV Format with Our Simple Converter</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-quickly-adorning-pics-with-festive-santa-caps/"><u>Step-by-Step Tutorial: Quickly Adorning Pics with Festive Santa Caps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your Web App with Advanced Techniques in ASP.NET Settings
-date: 2024-09-28T21:09:35.291Z
-updated: 2024-10-05T17:21:57.900Z
+date: 2024-10-07T17:36:05.233Z
+updated: 2024-10-10T22:36:48.403Z
 tags:
   - user-guide
 categories:
@@ -97,22 +97,15 @@ Table of Contents
 
 ![Asp net settings](https://cdn.advancedinstaller.com/img/ui/asp-net-settings.png "Asp net settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## .NET Registration
 
 When multiple .NET Framework versions are executing side-by-side on a single computer, the ASP.NET ISAPI version mapped to an ASP.NET application determines which common language run-time (CLR) version is used for the application. The ASP.NET IIS Registration Tool (Aspnet\_regiis.exe) is used by Advanced Installer to easily update the script maps for an ASP.NET application to point to the ASP.NET ISAPI version that you configure.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ASP.NET Version
@@ -138,26 +131,26 @@ Triggers a **restart** of the _World Wide Web Publishing Service_ after installi
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For **IIS 7 or newer**, the ASP.NET version to be used by your web application must be set in the configuration of the [application pool](https://tools.techidaily.com/advancedinstaller/products/) to which it [belongs](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Identity
 
 Use ASP.NET impersonation when you want to run your ASP.NET application under a security context different from the default security context for ASP.NET application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Not specified
 
 This default option assures every ASP.NET impersonation option is inherited from the server.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Do not use impersonation
 
@@ -168,10 +161,10 @@ Disables ASP.NET impersonation.
 With this impersonation option, your ASP.NET application will run under the security context of the [user authenticated by IIS](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Impersonate user
@@ -181,6 +174,13 @@ Choosing this impersonation option will run the application under an arbitrary a
 _Use predefined password_ \- Specify a predefined hard coded password.
 
 _Use a property to set password_ \- Reference a property for the password. Use the \[... \] button to select an existing property or to create a new one.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ASP Behavior
 
@@ -223,20 +223,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-creativity-with-ios-camera-techniques/"><u>[New] 2024 Approved Enhance Creativity with iOS Camera Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>[Updated] Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-visual-impact-incorporate-apple-music/"><u>2024 Approved Boosting Visual Impact Incorporate Apple Music</u></a></li>
-<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-keep-your-bluestacks-app-running-smoothly/"><u>5 Proven Methods to Keep Your BlueStacks App Running Smoothly</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-guide-mastering-the-game-of-fategrand-order-on-your-computer/"><u>Complete Guide: Mastering the Game of Fate/Grand Order on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-windows-media-player-for-pcs-running-on-windows-11-no-cost/"><u>Download Windows Media Player for PCs Running on Windows 11 – No Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-error-resolved-initialization-successful/"><u>Dragon Ball FighterZ Network Error Resolved – Initialization Successful</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-conversion-top-rated-free-and-premium-tools-to-crop-pdfs-without-using-adobe/"><u>Effortless Conversion: Top Rated Free and Premium Tools to Crop PDFs without Using Adobe</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-modify-a-conditional-formatting-rule-mastering-the-edit-trigger-dialog/"><u>How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/interactive-feature-selection-popup/"><u>Interactive Feature Selection Popup</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-social-media-marketing-2024s-top-fb-strategies/"><u>Mastering Social Media Marketing 2024'S Top FB Strategies</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-time-management-navigating-the-schedule-options-pane/"><u>Optimizing Time Management: Navigating the Schedule Options Pane</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/whats-driving-facebook-views-8-hotly-debated-videos/"><u>What's Driving Facebook Views 8 Hotly Debated Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-making-dollars-from-skincare-videos/"><u>[Updated] Making Dollars From Skincare Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-what-are-the-best-sites-to-download-text-effects/"><u>2024 Approved What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/auto-start-application-pinning-quick-guide-for-windows-taskbar/"><u>Auto-Start Application Pinning: Quick Guide for Windows Taskbar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choreographing-attractive-podcast-briefs-for-2024/"><u>Choreographing Attractive Podcast Briefs for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-apowersoft-guidance-and-support-services/"><u>Expert Apowersoft Guidance & Support Services</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-15-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 15 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-move-tv-episodes-from-ipad-to-pc-or-mac/"><u>How to Move TV Episodes From iPad to PC or Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-10t-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme 10T 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-seamlessly-duplicate-your-windows-pc-display-on-an-ipad/"><u>Step-by-Step Guide: Seamlessly Duplicate Your Windows PC Display on an iPad</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/stepwise-guide-to-convert-vimeo-media-to-mp3/"><u>Stepwise Guide to Convert Vimeo Media to MP3</u></a></li>
 </ul></div>
 

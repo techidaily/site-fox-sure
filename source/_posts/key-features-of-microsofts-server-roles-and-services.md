@@ -1,7 +1,7 @@
 ---
 title: Key Features of Microsoft's Server Roles and Services
-date: 2024-10-01T17:18:04.418Z
-updated: 2024-10-05T16:40:58.053Z
+date: 2024-10-07T03:20:15.243Z
+updated: 2024-10-10T22:53:03.522Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 ![Windows Server Roles](https://cdn.advancedinstaller.com/img/dialog/windows-server-roles.png "Windows Server Roles")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Role Installation
@@ -95,10 +95,10 @@ Table of Contents
 The standard role identifier. This field is read-only.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -106,10 +106,10 @@ The standard role identifier. This field is read-only.
 The role will be installed only if the condition is resolved to TRUE.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Role Services
@@ -119,10 +119,10 @@ In this section, you can add extra services for the role.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There is no need to manually handle Server Role Service dependencies. They will be automatically handled (enabled) during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -158,18 +158,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[New] In 2024, 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-free-and-top-tier-comparing-the-leading-srt-apps/"><u>[New] In 2024, Free & Top-Tier Comparing the Leading SRT Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[Updated] Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-snappyscreen-recording-suite/"><u>2024 Approved SnappyScreen Recording Suite</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/best-practices-for-enhancing-your-installed-reg-detector-software/"><u>Best Practices for Enhancing Your Installed Reg Detector Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-conversion-techniques-from-myspace-tunes-to-mp3-files/"><u>Effortless Conversion Techniques From MySpace Tunes to MP3 Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-different-approaches-to-virtualization-strategies/"><u>Exploring Different Approaches to Virtualization Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-subtitle-manipulators-the-top-10-list-online/"><u>In 2024, Best Subtitle Manipulators - The Top 10 List (Online)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-must-see-asmr-talents-online/"><u>In 2024, Must-See ASMR Talents Online</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/next-level-ui-innovations-in-sophisticated-system-setup-tools/"><u>Next-Level UI Innovations in Sophisticated System Setup Tools</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-rated-chromebook-video-editing-software-the-ultimate-guide/"><u>Top-Rated Chromebook Video Editing Software: The Ultimate Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-15-stop-motion-film-collection-for-2024/"><u>Unveiling the Ultimate 15 Stop-Motion Film Collection for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zooming-in-enhance-your-tiktok-videos/"><u>Zooming In Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] 2024 Approved Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-vdx-pro-video-capture-an-in-depth-analysis-for-2024/"><u>[Updated] VDX Pro Video Capture An In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>In 2024, Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Premier 5G Device</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-mime-type-selection-for-optimal-web-experience/"><u>Mastering MIME Type Selection for Optimal Web Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/omnipresent-iptv-broadcasting-for-2024/"><u>Omnipresent IPTV Broadcasting for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/startende-deutsche-nummerierung-von-eins-bis-hundert-schrittweise-lernen/"><u>Startende Deutsche Nummerierung: Von Eins Bis Hundert Schrittweise Lernen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-process-for-finding-your-registration-record-versions-online/"><u>Step-by-Step Process for Finding Your Registration Record Versions Online</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tailoring-your-frames-hues-custom-colour-arrangement-options/"><u>Tailoring Your Frame's Hues: Custom Colour Arrangement Options</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
 </ul></div>
 

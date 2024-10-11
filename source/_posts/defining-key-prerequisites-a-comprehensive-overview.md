@@ -1,7 +1,7 @@
 ---
 title: "Defining Key Prerequisites: A Comprehensive Overview"
-date: 2024-09-29T19:18:48.675Z
-updated: 2024-10-05T16:18:39.799Z
+date: 2024-10-10T02:23:34.422Z
+updated: 2024-10-10T22:30:10.809Z
 tags:
   - user-guide
 categories:
@@ -83,15 +83,28 @@ In this page you can select predefined prerequisites to be included in your pack
 
 In the predefined prerequisites list you can simply check the prerequisites you want to include in your package. After they are added in the prerequisites tree control, you can select each prerequisite to modify its settings.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Global Prerequisite Options
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These options affect only the [EXE setup file](https://tools.techidaily.com/advancedinstaller/products/) and prerequisites included in your package.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download/extraction folder
@@ -108,10 +121,10 @@ Specify the default download or extract folder for prerequisite files. Right-cli
  Chained prerequisites are always stored to MSI database.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Prerequisites that have LZMA compression option enabled are always stored in the EXE package.
@@ -121,22 +134,15 @@ Specify the default download or extract folder for prerequisite files. Right-cli
 This option prevents the removal of extracted and downloaded prerequisites. It's useful if you want to allow the end-user to repair or modify the prerequisites software installed by your package. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check launch conditions before searching for prerequisites
 
  If this option is enabled, the launch conditions that are specified in [Launch Conditions](https://tools.techidaily.com/advancedinstaller/products/) page will be checked by the EXE setup before the prerequisites are launched. If at least one launch condition is not met, the installation is stopped.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Hide already installed prerequisites
 
@@ -175,19 +181,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-control-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Control Keeps Crashing | Quickly & Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-imagination-pro-tiktok-edits-revealed/"><u>2024 Approved Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-no-cost-instant-messenger-applications-on-apple-devices/"><u>Best No-Cost Instant Messenger Applications on Apple Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-videos-free-how-to-change-any-file-to-compatible-with-iphones/"><u>Convert Videos Free: How to Change Any File to Compatible with iPhones</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-release-delayed-heres-how-you-can-play-now/"><u>Football Manager 2022 Release Delayed? Here's How You Can Play Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cinematographic-savoir-faire-food-videographers-essentials/"><u>In 2024, Cinematographic Savoir-Faire Food Videographer's Essentials</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-online-multimedia-collaboration-tools/"><u>In 2024, Superior Online Multimedia Collaboration Tools</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/leading-experts-in-crafting-exquisite-picture-mosaic-masterpieces/"><u>Leading Experts in Crafting Exquisite Picture Mosaic Masterpieces</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-capturing-your-facebook-video-chats/"><u>Step-by-Step Guide: Capturing Your Facebook Video Chats</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-seamlessly-duplicate-your-windows-pc-display-on-an-ipad/"><u>Step-by-Step Guide: Seamlessly Duplicate Your Windows PC Display on an iPad</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-strategies-for-effortless-text-extraction-from-images-across-various-software/"><u>Top Strategies for Effortless Text Extraction From Images Across Various Software</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-z-flip-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy Z Flip 5 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfecting-the-picture-perfect-cover-photo-on-instagrams-highlights/"><u>[Updated] 2024 Approved Perfecting the Picture-Perfect Cover Photo on Instagram's Highlights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-html5-video-platforms-a-comprehensive-list/"><u>2024 Approved Essential HTML5 Video Platforms A Comprehensive List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-mastering-the-game-of-fategrand-order-on-your-computer/"><u>Complete Guide: Mastering the Game of Fate/Grand Order on Your Computer</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-intel-520-driver-update/"><u>Efficient Intel 520 Driver Update</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-conversion-top-rated-free-and-premium-tools-to-crop-pdfs-without-using-adobe/"><u>Effortless Conversion: Top Rated Free and Premium Tools to Crop PDFs without Using Adobe</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-se-2022-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone SE (2022) Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-modify-a-conditional-formatting-rule-mastering-the-edit-trigger-dialog/"><u>How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-troubleshoot-thaumaturge-not-working-correctly-on-personal-computers/"><u>How to Troubleshoot Thaumaturge Not Working Correctly on Personal Computers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/interactive-feature-selection-popup/"><u>Interactive Feature Selection Popup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mac-users-speak-out-the-real-impact-of-screenflow-software-for-2024/"><u>Mac Users Speak Out The Real Impact of ScreenFlow Software for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-the-art-of-clean-images-a-step-by-step-guide-on-using-apowersofts-background-eraser-on-ios-devices/"><u>Mastering the Art of Clean Images: A Step-by-Step Guide on Using Apowersoft's Background Eraser on iOS Devices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-time-management-navigating-the-schedule-options-pane/"><u>Optimizing Time Management: Navigating the Schedule Options Pane</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/seamless-tiktok-tweets-the-2023-pathway-for-2024/"><u>Seamless TikTok Tweets The 2023 Pathway for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tab-settings-for-system-initialization-understanding-the-essentials/"><u>Tab Settings for System Initialization: Understanding the Essentials</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-youtube-admakers-showcase-mastering-creative-campaigns/"><u>Top YouTube Admakers Showcase Mastering Creative Campaigns</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290340824-windows-11iso/"><u>Windows 11に最適!無料のISO再生ソフトウェアと使い方</u></a></li>
 </ul></div>
 

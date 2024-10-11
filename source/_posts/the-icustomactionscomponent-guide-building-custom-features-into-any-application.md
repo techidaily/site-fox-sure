@@ -1,7 +1,7 @@
 ---
 title: "The ICustomActionsComponent Guide: Building Custom Features Into Any Application"
-date: 2024-09-30T17:14:11.605Z
-updated: 2024-10-05T17:11:42.958Z
+date: 2024-10-07T19:28:19.539Z
+updated: 2024-10-11T02:42:01.147Z
 tags:
   - user-guide
 categories:
@@ -125,22 +125,15 @@ Table of Contents
 
 ## ICustomActionsComponent
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 ICustomActionsComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -150,6 +143,13 @@ This component is meant to create and manage existing predefined custom actions.
 ## Properties
 
 **Array<ICustomActions> CustomActions** \- Gets existing custom actions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -203,13 +203,6 @@ This component is meant to create and manage existing predefined custom actions.
 RemoveCustomAction(ICustomActions aCustomAction)   
 \-Removes an existing custom action .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Example
 
 $advinst = new-object -com AdvancedInstaller
@@ -219,6 +212,13 @@ $project.CustomActionsComponent.NewLaunchAttachedScriptFile("d:\my_script.vbs")
 
 Copy
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## See also
 
 [ICustomAction](https://tools.techidaily.com/advancedinstaller/products/)
@@ -226,10 +226,10 @@ Copy
 [ICustomActionSequence](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -302,22 +302,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-digital-duel-comparing-triller-and-tiktok-platforms-max-156-chars/"><u>[New] 2024 Approved The Digital Duel Comparing Triller and TikTok Platforms (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>[Updated] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/advanced-techniques-in-software-setup-how-to-ensure-precision-with-installer-controls/"><u>Advanced Techniques in Software Setup: How to Ensure Precision with Installer Controls</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avi-file-cutting-made-simple-a-beginners-guide-to-video-editing-updated-2023-for-2024/"><u>AVI File Cutting Made Simple A Beginners Guide to Video Editing (Updated 2023) for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/building-a-personalized-docker-repackaging-container-image-guide/"><u>Building a Personalized Docker Repackaging Container Image Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nubia-red-magic-8s-proplus-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nubia Red Magic 8S Pro+ is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-methods-to-incorporate-images-into-videos-a-three-step-guide/"><u>Effortless Methods to Incorporate Images Into Videos: A Three-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-how-imsixdriver-relies-on-supportive-components-a-detailed-guide/"><u>Exploring How IMsixDriver Relies on Supportive Components: A Detailed Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-determine-if-someone-has-accessed-my-gmail-account-illegally-discover-the-signs-and-follow-our-step-by-step-guide/"><u>How Can I Determine If Someone Has Accessed My Gmail Account Illegally? Discover the Signs & Follow Our Step-by-Step Guide!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/huawei-p30s-top-4-display-sharing-software-alternatives-to-enhance-your-experience/"><u>Huawei P30's Top 4 Display Sharing Software Alternatives to Enhance Your Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g14-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G14 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-capabilities-in-macs-preview-software/"><u>In 2024, Unlocking Full Capabilities in Mac's Preview Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-guide-upgrading-your-iphoneipad-with-ios-8/"><u>Simple Guide: Upgrading Your iPhone/iPad with iOS 8</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/switching-to-virtual-white-space-in-real-time-broadcasts-on-your-phone/"><u>Switching to Virtual White Space in Real-Time Broadcasts on Your Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/turbo-faster-window-photo-editor/"><u>Turbo Faster Window Photo Editor</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/zoom-session-division-for-starters/"><u>Zoom Session Division for Starters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-crafting-the-perfect-ringtone-for-your-ios-device/"><u>[Updated] 2024 Approved Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-optimizing-facebook-search-efficiency-101/"><u>[Updated] In 2024, Optimizing Facebook Search Efficiency 101</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-windows-art-apps-review-dollar-free-to-charged/"><u>[Updated] In 2024, Ultimate Windows Art Apps Review Dollar-Free to Charged</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-podcast-reviews-by-gpodcasts/"><u>[Updated] Premium Podcast Reviews by GPodcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-guide-to-enhancing-your-youtube-content-post-uploading/"><u>2024 Approved A Step-by-Step Guide to Enhancing Your YouTube Content Post-Uploading</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-managing-media-files-through-app-vs-options-and-properties-interface/"><u>Comprehensive Guide to Managing MEDIA Files Through App-V's Options & Properties Interface</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/custom-interactive-actions-for-enhanced-user-experience/"><u>Custom Interactive Actions for Enhanced User Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-protect-my-photographs-a-comprehnensive-guide-on-copyrighting-imagery/"><u>How Can I Protect My Photographs? A Comprehnensive Guide on Copyrighting Imagery</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/intuitive-product-selection-conversations-elevate-your-shopping-experience/"><u>Intuitive Product Selection Conversations: Elevate Your Shopping Experience!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/leading-2x2-photo-editor-apps-enhance-images-with-easy-crop-options-and-background-color-adjustments/"><u>Leading 2X2 Photo Editor Apps : Enhance Images with Easy Crop Options and Background Color Adjustments</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/module-selection-and-integration-wizard-dialogue-box/"><u>Module Selection & Integration Wizard Dialogue Box</u></a></li>
+<li><a href="https://win-blog.techidaily.com/r-type-final-n-pc-edition-how-to-stop-the-frustrating-crashes-for-good/"><u>R-Type Final N PC Edition: How to Stop the Frustrating Crashes for Good</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-guide-to-reflecting-your-ipad-on-your-iphone-with-easy-steps/"><u>The Ultimate Guide to Reflecting Your iPad on Your iPhone with Easy Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-superiority-persistent-high-privilege-terminal/"><u>Uncomplicated Superiority: Persistent High-Privilege Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-corsairs-icue-link-4-reasons-to-upgrade/"><u>What Is Corsair's iCUE LINK? 4 Reasons to Upgrade</u></a></li>
 </ul></div>
 

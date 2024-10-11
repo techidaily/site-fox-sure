@@ -1,7 +1,7 @@
 ---
 title: "Tab Settings for System Initialization: Understanding the Essentials"
-date: 2024-09-28T18:01:03.102Z
-updated: 2024-10-05T19:15:43.375Z
+date: 2024-10-07T04:03:27.997Z
+updated: 2024-10-10T22:38:28.409Z
 tags:
   - user-guide
 categories:
@@ -77,6 +77,13 @@ Predefined conditions that must be fulfilled in order to launch the installation
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These launch conditions are per build, therefore they must be specified for each defined build. By default when a new build is created there are no launch conditions enabled for it. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Supported Operating Systems
 
  Restricts the install package to run only on the selected Operating Systems. If the target operating system version is not equal with the accepted versions, the installation is aborted and an appropriate message is displayed.
@@ -84,20 +91,13 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Installer
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Minimum version
 
@@ -106,16 +106,10 @@ Edit this field with the minimum [Windows Installer](https://tools.techidaily.co
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Requirements
@@ -135,14 +129,20 @@ Add system-related launch conditions to your package. The available options are:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Prevent running on Virtual Machine" option only targets Virtual Box (Oracle), Hyper-V and VMWare virtual machines
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Package
 
@@ -183,16 +183,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-boost-your-following-with-these-top-insta-apps/"><u>[Updated] Boost Your Following with These Top Insta Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-xbox-live-top-four-recording-techniques/"><u>[Updated] Mastering Xbox Live Top Four Recording Techniques</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-undetected-sd-cards-tips-and-tricks-for-quick-solutions/"><u>Fixing Undetected SD Cards - Tips and Tricks for Quick Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-flip-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Flip to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/innovative-features-elevating-your-experience-with-cutting-edge-technology/"><u>Innovative Features: Elevating Your Experience with Cutting-Edge Technology</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964891082-new-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-effect-and-/"><u>New The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-easy-steps-moving-your-tunes-from-one-iphone-to-another/"><u>Quick & Easy Steps: Moving Your Tunes From One iPhone to Another</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-process-for-finding-your-registration-record-versions-online/"><u>Step-by-Step Process for Finding Your Registration Record Versions Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-adapting-your-favorite-songs-from-spotify-to-youtube-music-service/"><u>[Updated] Adapting Your Favorite Songs From Spotify to YouTube Music Service</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[Updated] In 2024, Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-simplifying-the-process-sharing-tiktok-content-with-facebook-for-2024/"><u>[Updated] Simplifying the Process Sharing TikTok Content with Facebook for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/bespoke-operations-checklist-craft-your-unique-process-flow/"><u>Bespoke Operations Checklist – Craft Your Unique Process Flow</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/discover-the-top-3-free-substitutes-for-itunes-on-ios-devices/"><u>Discover the Top 3 Free Substitutes for iTunes on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-connecting-your-zoom-call-with-smart-tv/"><u>Easy Guide: Connecting Your Zoom Call with Smart TV</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/flac-audio-streaming-a-comprehensive-guide-for-android-users/"><u>FLAC Audio Streaming: A Comprehensive Guide for Android Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-15-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/secure-teamwork-advanced-options-for-joint-file-storage-and-exchange/"><u>Secure Teamwork: Advanced Options for Joint File Storage and Exchange</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-jigsaw-ransomware-identification-and-prevention-tips-cyberguardian/"><u>Understanding Jigsaw Ransomware: Identification & Prevention Tips - CyberGuardian</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-environment-settings-panel/"><u>Understanding the Environment Settings Panel</u></a></li>
 </ul></div>
 

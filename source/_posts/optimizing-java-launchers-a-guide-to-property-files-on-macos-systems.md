@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Java Launchers: A Guide to Property Files on macOS Systems"
-date: 2024-10-04T16:52:46.074Z
-updated: 2024-10-05T20:36:34.756Z
+date: 2024-10-03T19:55:05.583Z
+updated: 2024-10-10T23:53:23.424Z
 tags:
   - user-guide
 categories:
@@ -82,16 +82,10 @@ Table of Contents
 ![Conditional Levels Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-macos-properties.png "Conditional Levels Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -101,10 +95,10 @@ Table of Contents
 In addition to the predefined options, this dialog allows you to specify any other property that should be added to the Mac OS application configuration file (Info.plist).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding new properties
@@ -114,10 +108,10 @@ Use the \[New Sibling \] button to create a new property/value pair.
 Use the \[New Child \] button to create a new property/value pair as a child of the selected “dict” or “array” property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit a property
@@ -131,10 +125,10 @@ During editing use:
 * Tab, Up andDown keys to continue editing other items.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
@@ -174,24 +168,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-pinnacle-panoramics-selecting-the-best-8k-cameras-for-2024/"><u>[Updated] Pinnacle Panoramics Selecting the Best 8K Cameras for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-optimal-window-size-on-windows-11/"><u>Configuring Optimal Window Size on Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/dynamic-system-initialization-query-interface/"><u>Dynamic System Initialization Query Interface</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-step-by-step-guide-how-to-add-voiceovers-in-your-video-projects/"><u>Easy Step-by-Step Guide: How to Add Voiceovers in Your Video Projects</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-approaches-to-iservice-failure-response-and-recovery-tactics/"><u>Effective Approaches to IService Failure Response and Recovery Tactics</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-integration-how-to-incorporate-pdf-files-into-your-ibook-collection/"><u>Effortless Integration: How to Incorporate PDF Files Into Your iBook Collection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/geen-kosten-konverteren-van-ram-naar-mp3-met-hilfe-von-movavi/"><u>Geen Kosten! Konverteren Van RAM Naar MP3 Met Hilfe Von Movavi</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/get-authentic-5kplayer-v65-free-and-legal-downloads-for-smooth-streaming/"><u>Get Authentic 5KPlayer v6.5: Free and Legal Downloads for Smooth Streaming</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Passcode not Working?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/key-features-of-microsofts-server-roles-and-services/"><u>Key Features of Microsoft's Server Roles and Services</u></a></li>
-<li><a href="https://win11.techidaily.com/memory-cache-mastery-in-windows-systems/"><u>Memory Cache Mastery in Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-fake-friending-attempts-on-social-networks/"><u>Navigating Through Fake Friending Attempts on Social Networks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-your-web-app-with-advanced-techniques-in-aspnet-settings/"><u>Optimizing Your Web App with Advanced Techniques in ASP.NET Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/outsmarting-generative-ai-in-art-the-protective-powers-of-nightshade-methods/"><u>Outsmarting Generative AI in Art: The Protective Powers of Nightshade Methods</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-captured-videos/"><u>Step-by-Step Guide: Mastering the Art of Downloading Captured Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison-for-2024/"><u>Streamlining Your Viewing VLC Versus MX Comparison for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-calculating-text-length-in-ms-excel/"><u>The Ultimate Guide to Calculating Text Length in MS Excel</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transferring-phonebook-info-flawlessly-upgrading-contacts-from-an-outdated-iphone-to-a-modern-one/"><u>Transferring Phonebook Info Flawlessly: Upgrading Contacts From an Outdated iPhone to a Modern One</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-to-creating-effective-website-binders-and-pages/"><u>Ultimate Guide to Creating Effective Website Binders & Pages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-animators-odyssey-crafting-your-own-fx-realm-for-2024/"><u>[New] The Animator's Odyssey Crafting Your Own FX Realm for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-punpixel-digital-comedy-design-tool/"><u>2024 Approved PunPixel Digital Comedy Design Tool</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 6s Without Apple ID Password?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-youtube-traffic-select-best-rankers-explained/"><u>Optimize YouTube Traffic Select Best Rankers Explained</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-windows-understanding-report-generation-and-analysis/"><u>The Art of Windows Understanding: Report Generation & Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-merger-of-tech-titans-facebook-and-rust-unite/"><u>The Merger of Tech Titans: Facebook and Rust Unite</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality-for-2024/"><u>Updated Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality for 2024</u></a></li>
 </ul></div>
 

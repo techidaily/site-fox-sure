@@ -1,7 +1,7 @@
 ---
 title: Exploring Settings in the Module Package Tab
-date: 2024-10-04T16:35:51.092Z
-updated: 2024-10-05T21:20:03.849Z
+date: 2024-10-07T06:21:05.119Z
+updated: 2024-10-11T01:22:37.844Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ This field contains the name of the package. This entry is**mandatory**.
 This field contains the information about the publisher of the package. This entry is **mandatory**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -93,10 +93,10 @@ This field contains the information about the publisher of the package. This ent
 This field contains the language version of the package. This entry is **mandatory**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Version
@@ -110,23 +110,17 @@ In this field you can write **optional** comments about the package.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)These fields support [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Contains no files
@@ -166,24 +160,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[New] Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-11-audiophiles-choice-for-sound-capture/"><u>[Updated] 2024 Approved 11 Audiophile's Choice for Sound Capture</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>[Updated] Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-infographic-lens-on-2017s-youtube-numerical-truths-for-2024/"><u>[Updated] The Infographic Lens on 2017'S Youtube Numerical Truths for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-battery-performance-with-these-8-essential-settings-tweaks/"><u>Boost Your Apple Watch's Battery Performance with These 8 Essential Settings Tweaks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/capture-childhood-with-vtech-cams/"><u>Capture Childhood with VTech Cams</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/compact-and-versatile-discover-the-acer-aspire-c27-your-ideal-low-profile-all-in-one-pc/"><u>Compact & Versatile: Discover the Acer Aspire C27, Your Ideal Low-Profile All-in-One PC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-t2-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo T2 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-icustomactionscomponent-guide-building-custom-features-into-any-application/"><u>The ICustomActionsComponent Guide: Building Custom Features Into Any Application</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-imessages-converted-into-texts-is-this-a-sign-youre-blocked/"><u>Understanding iMessages Converted Into Texts: Is This a Sign You're Blocked?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unveiling-more-than-a-dozen-malware-forms-a-full-breakdown-with-illustrative-cases/"><u>Unveiling More Than a Dozen Malware Forms - A Full Breakdown With Illustrative Cases</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069818494-new-2024-approved-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] 2024 Approved Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-creative-vlog-ideas-for-daily-use/"><u>[New] In 2024, Creative Vlog Ideas for Daily Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-adding-motion-blur-effect-in-photoshop/"><u>[Updated] The Ultimate Guide to Adding Motion Blur Effect in Photoshop</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/advanced-techniques-in-software-setup-how-to-ensure-precision-with-installer-controls/"><u>Advanced Techniques in Software Setup: How to Ensure Precision with Installer Controls</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/blurring-faces-with-best-video-editing-software-for-2024/"><u>Blurring Faces with Best Video Editing Software for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/building-a-personalized-docker-repackaging-container-image-guide/"><u>Building a Personalized Docker Repackaging Container Image Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/digital-filmmaking-recording-video-across-various-platforms/"><u>Digital Filmmaking Recording Video Across Various Platforms</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-how-imsixdriver-relies-on-supportive-components-a-detailed-guide/"><u>Exploring How IMsixDriver Relies on Supportive Components: A Detailed Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-x90s-easily-by-drfone-android/"><u>How To Unlock a Vivo X90S Easily?</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-upgrading-your-iphoneipad-with-ios-8/"><u>Simple Guide: Upgrading Your iPhone/iPad with iOS 8</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/switching-to-virtual-white-space-in-real-time-broadcasts-on-your-phone/"><u>Switching to Virtual White Space in Real-Time Broadcasts on Your Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a25-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A25 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-screen-brightness-problem-steps-to-fix-it-now/"><u>Windows 11 Screen Brightness Problem: Steps to Fix It Now</u></a></li>
 </ul></div>
 

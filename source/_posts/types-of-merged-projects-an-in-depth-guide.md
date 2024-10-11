@@ -1,7 +1,7 @@
 ---
 title: "Types of Merged Projects: An In-Depth Guide"
-date: 2024-10-01T17:41:59.996Z
-updated: 2024-10-05T19:05:38.504Z
+date: 2024-10-10T05:04:54.229Z
+updated: 2024-10-11T00:25:11.825Z
 tags:
   - user-guide
 categories:
@@ -79,47 +79,40 @@ Table of Contents
 
 ## Merge Modules Project Types
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Merge Module
 
 ![Merge Module Project](https://cdn.advancedinstaller.com/img/project/merge-module.png "Merge Module Project")This type of project gives you the possibility to create [Merge Modules](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import MSM Package
 
 ![Msm import](https://cdn.advancedinstaller.com/img/project/msm-import.png "Msm import")This type of project gives you the possibility to import an existing MSM into an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Import Wix Module
 
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Visual Studio Wix Module
 
@@ -128,6 +121,13 @@ Table of Contents
 ### Visual Studio MSM Project
 
 ![Visual studio merge module](https://cdn.advancedinstaller.com/img/project/visual-studio-merge-module.png "Visual studio merge module")This wizard allows you to import a Visual Studio MSM project in an Advanced Installer project enabling you to create redistributable MSMs. Note that this project type requires an Enterprise license.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -162,18 +162,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-download-your-instagram-masterpieces-easily/"><u>[New] 2024 Approved Download Your Instagram Masterpieces Easily</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-young-entrepreneurs-guide-buying-profitable-youtube-sites/"><u>[Updated] Young Entrepreneur's Guide Buying Profitable YouTube Sites</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-techniques-for-crafting-engaging-dialogue-pages/"><u>Effective Techniques for Crafting Engaging Dialogue Pages</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi Note 12 Pro 4G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-implement-subtitles-in-mp4-files-successfully-best-practices-and-tips/"><u>How to Implement Subtitles in MP4 Files Successfully: Best Practices and Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-pro-max-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Pro Max Without a Home Button</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-ppt-slides-via-webcam-2023-techniques/"><u>In 2024, Capturing PPT Slides via Webcam 2023 Techniques</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/maximize-website-performance-understanding-and-using-the-internet-information-services-iis/"><u>Maximize Website Performance: Understanding and Using the Internet Information Services (IIS)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-itel-a05s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel A05s Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unveiling-the-most-effective-express-project-frameworks/"><u>Unveiling the Most Effective Express Project Frameworks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-8-free-online-video-stabilization-tools-for-smoother-footage/"><u>Updated Top 8 Free Online Video Stabilization Tools for Smoother Footage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-instant-youtube-financial-forecasting/"><u>[New] 2024 Approved Instant YouTube Financial Forecasting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-flipping-the-script-turning-online-games-into-channel-gold/"><u>[Updated] Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-screen-capture-on-mac-the-top-5-recommended-approaches/"><u>[Updated] Perfect Screen Capture on Mac The Top 5 Recommended Approaches</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-vids-to-mp4wav-conversion/"><u>[Updated] Tweeted Vids to MP4/WAV Conversion</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-enhancing-code-efficiency-mastering-the-assembly-attribute-configuration-panel/"><u>1. Enhancing Code Efficiency: Mastering the Assembly Attribute Configuration Panel</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-deciphering-the-secrets-to-bg-purging-in-figma-layouts/"><u>2024 Approved Deciphering the Secrets to BG Purging in Figma Layouts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/convert-your-photos-or-graphics-to-pdf-for-free-using-our-user-friendly-online-tool/"><u>Convert Your Photos or Graphics to PDF for Free Using Our User-Friendly Online Tool!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-the-appeal-filmora-editors-most-attractive-features/"><u>In 2024, Uncovering the Appeal Filmora Editor's Most Attractive Features</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-easy-steps-moving-your-tunes-from-one-iphone-to-another/"><u>Quick & Easy Steps: Moving Your Tunes From One iPhone to Another</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-stream-microsoft-teams-conferencing-directly-onto-your-tv/"><u>Step-by-Step Tutorial: Stream Microsoft Teams Conferencing Directly Onto Your TV</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-strengths-of-mohu-blade-antenna-design-perfect-for-enhanced-tv-reception-inside-your-home/"><u>Unveiling the Strengths of Mohu Blade Antenna Design - Perfect for Enhanced TV Reception Inside Your Home</u></a></li>
 </ul></div>
 

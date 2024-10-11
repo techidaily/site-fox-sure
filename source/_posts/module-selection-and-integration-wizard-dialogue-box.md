@@ -1,7 +1,7 @@
 ---
 title: Module Selection & Integration Wizard Dialogue Box
-date: 2024-09-29T21:58:36.933Z
-updated: 2024-10-05T17:26:24.400Z
+date: 2024-10-08T20:07:39.776Z
+updated: 2024-10-10T21:30:43.105Z
 tags:
   - user-guide
 categories:
@@ -74,10 +74,10 @@ Table of Contents
 This dialog allows you to add predefined merge modules to your project. Simply select the merge modules you want and click\[OK \].
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio merge modules
@@ -89,17 +89,17 @@ All Visual Studio merge modules are placed in theProgram Files\\Common Files\\Me
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To register a merge module with Visual Studio you can use the "Register with Visual Studio" option in [Registration Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advanced Installer merge modules
@@ -109,10 +109,10 @@ Through this dialog you can also add merge modules registered with Advanced Inst
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To register a merge module with Advanced Installer you can use the "Register with Advanced Installer" option in [Registration Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,20 +148,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>[New] Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-turn-template-ideas-into-real-logo-artwork/"><u>[New] In 2024, Turn Template Ideas Into Real Logo Artwork</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-success-with-these-15-youtube-introduction-plans/"><u>[Updated] In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pivot-your-playlists-with-these-straightforward-tricks/"><u>[Updated] Pivot Your Playlists with These Straightforward Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-apple-iphone-14-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Methods to Turn off Life 360 On Apple iPhone 14 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-efficiently-redistributing-your-creative-works/"><u>In 2024, Efficiently Redistributing Your Creative Works</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing/"><u>In 2024, Unleash Creativity with Ease Mastering the Art of Photo Text Editing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sartorial-whispers-fashionable-italian-phrases/"><u>Sartorial Whispers: Fashionable Italian Phrases</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tailoring-your-frames-hues-custom-colour-arrangement-options/"><u>Tailoring Your Frame's Hues: Custom Colour Arrangement Options</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-high-impact-spotify-marketing-plans/"><u>[New] Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-video/"><u>[New] How to Use GoPro Hero5 Black Tips for Shooting Great Photos and Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>[New] The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-surprises-with-gaming-fun-check-out-these-exceptional-game-picks-for-non-stop-entertainment/"><u>ChatGPT Surprises with Gaming Fun! Check Out These Exceptional Game Picks for Non-Stop Entertainment.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/dynamic-system-initialization-query-interface/"><u>Dynamic System Initialization Query Interface</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-approaches-to-iservice-failure-response-and-recovery-tactics/"><u>Effective Approaches to IService Failure Response and Recovery Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-laptop-specific-tips-to-maximize-your-screenrec/"><u>In 2024, Laptop-Specific Tips to Maximize Your ScreenRec</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/key-features-of-microsofts-server-roles-and-services/"><u>Key Features of Microsoft's Server Roles and Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-captured-videos/"><u>Step-by-Step Guide: Mastering the Art of Downloading Captured Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferring-phonebook-info-flawlessly-upgrading-contacts-from-an-outdated-iphone-to-a-modern-one/"><u>Transferring Phonebook Info Flawlessly: Upgrading Contacts From an Outdated iPhone to a Modern One</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-face-blurring-10-essential-tools-and-techniques/"><u>Updated In 2024, The Ultimate Guide to Face Blurring 10 Essential Tools and Techniques</u></a></li>
 </ul></div>
 

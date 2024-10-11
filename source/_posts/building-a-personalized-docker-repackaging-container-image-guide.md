@@ -1,7 +1,7 @@
 ---
 title: Building a Personalized Docker Repackaging Container Image Guide
-date: 2024-10-04T19:27:24.444Z
-updated: 2024-10-05T21:50:15.118Z
+date: 2024-10-04T02:25:46.590Z
+updated: 2024-10-10T20:02:52.210Z
 tags:
   - user-guide
 categories:
@@ -61,10 +61,10 @@ This wizard allows you to create a docker image for the Repackager.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to repackage in Docker containers, you have to create a Docker image designed for the repackaging process, starting from an existing image. This wizard will allow you to achieve this.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select an existing Docker image
@@ -80,10 +80,10 @@ This list contains all the local Docker images.
 This list contains recommended external images.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Building the Repackager Docker image
@@ -93,10 +93,10 @@ Staring from the selected base image, the Repackager creates a new, specially de
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the Repackager Docker images will be displayed under "Start in Docker" button from Advanced Repackager toolbar and one can be selected for running the repackaging process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -132,17 +132,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b-for-2024/"><u>[Updated] High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[Updated] In 2024, Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>2024 Approved Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieve-video-excellence-without-the-cost-of-fcp/"><u>Achieve Video Excellence Without the Cost of FCP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-honor-play-8t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor Play 8T Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-step-by-step-guide-how-to-add-voiceovers-in-your-video-projects/"><u>Easy Step-by-Step Guide: How to Add Voiceovers in Your Video Projects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-free-speech-to-text-apps-on-mac-you-might-missed/"><u>In 2024, The Best Free Speech to Text Apps on Mac You Might Missed</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/key-features-of-microsofts-server-roles-and-services/"><u>Key Features of Microsoft's Server Roles and Services</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-java-launchers-a-guide-to-property-files-on-macos-systems/"><u>Optimizing Java Launchers: A Guide to Property Files on macOS Systems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-mastering-the-art-of-downloading-captured-videos/"><u>Step-by-Step Guide: Mastering the Art of Downloading Captured Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/top-10-video-editing-fix-tools-cross-platform-solutions-for-windows-and-mac/"><u>Top 10 Video Editing Fix Tools: Cross-Platform Solutions for Windows & Mac</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-to-creating-effective-website-binders-and-pages/"><u>Ultimate Guide to Creating Effective Website Binders & Pages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[Updated] In 2024, Perfecting Profiles How to Embed Linktree on TikTok Seamlessly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-disk-read-failure-instantly/"><u>Fixing Windows Disk Read Failure Instantly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>In 2024, Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic 5 Lite</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-geforce-experience-from-failing-windows-guide/"><u>Stop GeForce Experience From Failing: Windows Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-10-video-calls-software-compared-side-by-side-for-2024/"><u>Top 10 Video Calls Software Compared Side by Side for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-dvd-converter-software-from-imovie-ripper-perfect-tool-for-seamless-dvds-to-imovie-transfers/"><u>Top DVD Converter Software From iMovie Ripper - Perfect Tool for Seamless DVDs-to-iMovie Transfers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
 </ul></div>
 

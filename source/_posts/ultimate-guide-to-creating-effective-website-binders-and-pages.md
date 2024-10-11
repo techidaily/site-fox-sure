@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Creating Effective Website Binders & Pages
-date: 2024-10-01T17:14:54.419Z
-updated: 2024-10-05T21:12:44.781Z
+date: 2024-10-04T05:37:07.504Z
+updated: 2024-10-11T05:01:29.366Z
 tags:
   - user-guide
 categories:
@@ -100,13 +100,6 @@ This dialog allows you to configure an HTTP/HTTPS binding for your Web Site.
 
 ![Edit Binding](https://cdn.advancedinstaller.com/img/dialog/iis-edit-binding.png "Edit Binding")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Binding
 
 ### Host Name
@@ -120,30 +113,62 @@ If your site is available on an **Intranet**, you do not have to specify a host 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For **HTTPS** bindings, the host name is already specified in the web authentication _digital certificate_ associated with the Web Site, and it is not necessary to specify it in the binding.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Require Server Name Indication
 
 Enable this option to require Server Name Indication (SNI).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Port Number
 
 Type the port on which the Web Site must listen for requests. For **HTTP** protocol the default port is **80**; for**HTTPS** protocol the default port is **443**. If you specify a port different from the default ports, clients must specify the port number in requests to the server or they will not connect to the site.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### IP Address
 
 Set the IP Address of the network interface that the Web Site should listen on. If you select the All Unassigned option, this site will respond to the requests from all IP addresses on the port and optional to the host name that you specify for this site, unless another site on the server has a binding on the same port but with a specific IP address.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install
 
@@ -152,13 +177,6 @@ Set the IP Address of the network interface that the Web Site should listen on. 
 Specify the install condition for the Website Binding
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/) by inserting Windows Installer property references, which will be resolved at install time.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -193,22 +211,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-to-streaming-and-archiving-minecraft-on-mac/"><u>[New] Comprehensive Guide to Streaming and Archiving Minecraft on Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frolicsome-media-repository/"><u>[New] Frolicsome Media Repository</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-youtube-to-webm-converter-apps-reviewed-and-ranked/"><u>[Updated] Top 10 YouTube to WebM Converter Apps Reviewed & Ranked</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/award-winning-cost-free-applications-for-seamless-video-conversion-on-windows-phones/"><u>Award-Winning, Cost-Free Applications for Seamless Video Conversion on Windows Phones</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-the-notorious-pc-bug-roblox-error-code-277-comprehensive-solutions-for-gamers/"><u>Defeating the Notorious PC Bug: Roblox Error Code 277 - Comprehensive Solutions for Gamers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287389009-dvdpc/"><u>DVDダウンロード用PC：初学者のための最適な取り込み＆保存ソリューションをご紹介！</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-the-art-of-clean-images-a-step-by-step-guide-on-using-apowersofts-background-eraser-on-ios-devices/"><u>Mastering the Art of Clean Images: A Step-by-Step Guide on Using Apowersoft's Background Eraser on iOS Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers/"><u>Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tab-settings-for-system-initialization-understanding-the-essentials/"><u>Tab Settings for System Initialization: Understanding the Essentials</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-software-release-criteria-navigating-the-launch-specifications-tab/"><u>Understanding Software Release Criteria: Navigating the Launch Specifications Tab</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/video-editing-on-imac-with-m1-processor-for-2024/"><u>Video Editing on iMac with M1 Processor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-moments-reel-slomo-app-analysis-2024/"><u>[Updated] Mastering the Moment's Reel SloMo App Analysis, 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiextractoreview-free-audio-tools-new-horizon-for-2024/"><u>AudiExtractoReview Free Audio Tool's New Horizon for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-managing-media-files-through-app-vs-options-and-properties-interface/"><u>Comprehensive Guide to Managing MEDIA Files Through App-V's Options & Properties Interface</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-avi-en-webm-facile-et-gratuit-sur-internet-via-movavi/"><u>Conversion AVI en WEBM Facile Et Gratuit Sur Internet via Movavi</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/custom-interactive-actions-for-enhanced-user-experience/"><u>Custom Interactive Actions for Enhanced User Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-enjoy-pubg-mobile-gaming-on-a-big-screen-with-ease-tips-and-tricks/"><u>How to Enjoy PUBG Mobile Gaming on a Big Screen with Ease: Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-x-flip-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo X Flip</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/intuitive-product-selection-conversations-elevate-your-shopping-experience/"><u>Intuitive Product Selection Conversations: Elevate Your Shopping Experience!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-art-of-removing-redundant-software-on-windows-11-for-a-sleeker-pc-experience/"><u>Master the Art of Removing Redundant Software on Windows 11 for a Sleeker PC Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quickfix-strategies-for-overcoming-wireless-hardware-hiccups-and-notifications/"><u>QuickFix Strategies for Overcoming Wireless Hardware Hiccups and Notifications</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/seamless-android-syncing-with-your-chromebook-a-step-by-step-guide/"><u>Seamless Android Syncing with Your Chromebook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-guide-to-reflecting-your-ipad-on-your-iphone-with-easy-steps/"><u>The Ultimate Guide to Reflecting Your iPad on Your iPhone with Easy Steps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-3-seamless-methods-for-wireless-pc-to-mi-tv-connection/"><u>Top 3 Seamless Methods for Wireless PC-to-Mi TV Connection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-s-top-rated-cartoon-video-editors-for-newbies/"><u>Updated 2024 Approved S Top Rated Cartoon Video Editors for Newbies</u></a></li>
 </ul></div>
 

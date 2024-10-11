@@ -1,7 +1,7 @@
 ---
 title: "How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog"
-date: 2024-09-28T19:44:52.780Z
-updated: 2024-10-05T18:56:37.593Z
+date: 2024-10-04T23:08:42.015Z
+updated: 2024-10-11T04:34:11.676Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 ![Task Schedule](https://cdn.advancedinstaller.com/img/dialog/edit-trigger-dialog.png "Task Schedule")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Schedule Task
@@ -106,44 +106,44 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 * On workstation lock
 * On workstation unlock
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Settins
 
 Configure custom settings for each of the above condition types.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Advanced Settings
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repeat task.
 
 Enable the repeat settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Every
 
 The task will run, wait for the time interval specified, and then run again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Duration
 
 This cycle will continue until the duration time is met.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Indefinitely
 
@@ -192,22 +192,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-metaverse-enthusiasts-secret-to-simple-avatars/"><u>[New] 2024 Approved Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-no-fuss-podcast-streaming-handbook/"><u>[New] 2024 Approved The No-Fuss Podcast Streaming Handbook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-concurrent-capture-masterclass-webcam-and-desktop/"><u>[Updated] 2024 Approved Concurrent Capture Masterclass Webcam & Desktop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-nikon-d500-revolutionizing-4k-dslr-photography/"><u>[Updated] Nikon D500 Revolutionizing 4K DSLR Photography</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-key-aspects-of-components-placement-and-attributes/"><u>1. Key Aspects of Components Placement and Attributes</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-guide-how-to-restore-lost-or-deleted-content-on-your-ipod/"><u>Complete Guide: How to Restore Lost or Deleted Content on Your iPod</u></a></li>
-<li><a href="https://fox-info.techidaily.com/digital-artistry-perfecting-your-photoshop-skills-for-2024/"><u>Digital Artistry Perfecting Your Photoshop Skills for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-pre-installation-requirements-guide/"><u>Essential Pre-Installation Requirements Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-settings-in-the-module-package-tab/"><u>Exploring Settings in the Module Package Tab</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-implement-an-iextension-framework-in-your-application/"><u>How to Implement an IExtension Framework in Your Application</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-an-illustration-maestro-best-mac-free-tools/"><u>In 2024, Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-ensuring-every-snapchatter-friendly-footage-via-mac/"><u>In 2024, Ensuring Every Snapchatter-Friendly Footage via Mac</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-your-smartphone-with-malwarefox-top-rated-free-antivirus-for-android-users/"><u>Secure Your Smartphone with MalwareFox: Top Rated Free Antivirus for Android Users</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-on-recovering-deleted-information-from-your-iphone/"><u>Step-by-Step Guide on Recovering Deleted Information From Your iPhone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>[New] Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-shaping-your-shots-strategies-for-solo-video-content/"><u>[New] Shaping Your Shots Strategies for Solo Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clip-viewer-extractor-system/"><u>2024 Approved Clip Viewer Extractor System</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/battle-of-the-titans-an-in-depth-analysis-of-apple-music-vs-google-play-music-for-ultimate-sound-experience/"><u>Battle of the Titans: An In-Depth Analysis of Apple Music Vs. Google Play Music for Ultimate Sound Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/establishing-connections-with-virtual-machine-profiles-step-by-step-tips-and-tricks/"><u>Establishing Connections with Virtual Machine Profiles: Step-by-Step Tips and Tricks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-configuration-options-in-the-activex-properties-dialog-box/"><u>Exploring the Configuration Options in the ActiveX Properties Dialog Box</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-pc-instability-in-crusader-kings-iii/"><u>Fixes for PC Instability in Crusader Kings III</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-whats-the-best-virtualdub-alternative-discover-the-top-contenders/"><u>New In 2024, Whats the Best VirtualDub Alternative? Discover the Top Contenders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-dragon-age-origins-from-crashing-on-your-windows-10-machine-a-step-by-step-guide/"><u>Preventing Dragon Age: Origins From Crashing on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tame-your-browser-overload-top-tips-to-optimize-chromes-cpu-and-memory-usage/"><u>Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-blu-ray-and-dvd-players-the-ultimate-selection/"><u>Top Rated Blu-Ray & DVD Players : The Ultimate Selection</u></a></li>
 </ul></div>
 

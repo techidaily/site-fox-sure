@@ -1,7 +1,7 @@
 ---
 title: Dynamic System Initialization Query Interface
-date: 2024-09-28T19:02:49.674Z
-updated: 2024-10-05T20:33:46.839Z
+date: 2024-10-06T00:07:59.516Z
+updated: 2024-10-10T23:39:45.829Z
 tags:
   - user-guide
 categories:
@@ -84,16 +84,10 @@ In this dialog, you can configure the Active Setup command options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -112,6 +106,13 @@ Specify the Stub Path. This represents a valid command line that will be execute
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Stud Path can also be a VBS script, a regsvr32.exe call, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Version
 
 If specified, the component’s command will run only if the corresponding version in the user part is smaller or not present. Once run, the version number is copied to the user part.
@@ -120,10 +121,10 @@ If specified, the component’s command will run only if the corresponding versi
 However, formatted references that resolve to values containing versions with point separator (.) can be used because,**at build time**, Advanced Installer automatically replaces the point separator with comma. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Locale
@@ -137,23 +138,10 @@ Specify whether the component command will run once per user or it will not run 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Possible values : 1, 0. The default value is 1.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -193,24 +181,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-stepwise-approach-to-unleash-creativity-with-your-logitech-webcam/"><u>[Updated] Stepwise Approach to Unleash Creativity with Your Logitech Webcam</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/a-comprehensive-guide-to-the-top-5-online-collage-tools-both-gratis-and-subscription-based-options/"><u>A Comprehensive Guide to the Top 5 Online Collage Tools – Both Gratis and Subscription-Based Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abrindo-a-porta-para-o-suporte-multidevices-a-lista-dos-12-gravadores-mp4-mais-populares-do-movavi/"><u>Abrindo a Porta Para O Suporte Multidevices: A Lista Dos 12 Gravadores MP4 Mais Populares Do Movavi</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-in-class-no-charging-switch-replicas-for-2024/"><u>Best-in-Class, No-Charging Switch Replicas for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/detecting-and-avoiding-counterfeit-android-programs-insights-by-malwarefox/"><u>Detecting and Avoiding Counterfeit Android Programs: Insights by MalwareFox</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infusing-astrology-in-whatsapp-profiles-for-better-engagement-for-2024/"><u>Infusing Astrology in WhatsApp Profiles for Better Engagement for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/maximize-website-performance-understanding-and-using-the-internet-information-services-iis/"><u>Maximize Website Performance: Understanding and Using the Internet Information Services (IIS)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/navigating-through-access-controls-insightful-strategies-and-tips/"><u>Navigating Through Access Controls: Insightful Strategies & Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-hot-40i-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Hot 40i Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-reliable-music-download-tool-for-windows-11/"><u>Quick and Reliable Music Download Tool for Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-audio-issues-fixing-the-logitech-g930-earbuds/"><u>Resolving Audio Issues: Fixing the Logitech G930 Earbuds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speaker-based-call-tape-recorder-iphone-2024/"><u>Speaker-Based Call Tape Recorder iPhone 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-broadcasting-games-with-obs-and-apowermirror/"><u>Step-by-Step Guide: Broadcasting Games with OBS and ApowerMirror</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tailored-package-selection-unlocking-a-world-of-personalization-features/"><u>Tailored Package Selection: Unlocking a World of Personalization Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-rated-clear-image-enhancement-tools/"><u>Top Rated Clear Image Enhancement Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-pc-with-style-a-comprehensive-guide-to-crafting-dazzling-interfaces-using-rainmeter/"><u>Transform Your PC with Style: A Comprehensive Guide to Crafting Dazzling Interfaces Using Rainmeter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-directory-easy-classics-ringtone-websites/"><u>Ultimate Directory Easy Classics Ringtone Websites</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unveiling-the-most-effective-express-project-frameworks/"><u>Unveiling the Most Effective Express Project Frameworks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-android-trick-changing-media-order-sequence/"><u>[Updated] Android Trick Changing Media Order Sequence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplewin10-screen-grab-utility/"><u>2024 Approved SimpleWin10 Screen Grab Utility</u></a></li>
+<li><a href="https://driver-download.techidaily.com/approach-discuss-how-environmental-factors-are-considered-when-creating-a-concrete-mix/"><u>Approach: Discuss How Environmental Factors Are Considered when Creating a Concrete Mix.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-tutorial-on-transforming-m4v-files-into-compatible-mp4-video-formats/"><u>Easy Tutorial on Transforming M4V Files Into Compatible MP4 Video Formats</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-5-best-alternatives-to-tiktok-you-should-know/"><u>In 2024, 5 Best Alternatives to TikTok You Should Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/master-the-art-of-personal-computing-care-emulate-pro-it-support-strategies-for-home-use/"><u>Master the Art of Personal Computing Care – Emulate Pro IT Support Strategies for Home Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/neo-qled-or-oled-which-one-should-you-choose-for-your-home-entertainment/"><u>Neo QLED or OLED - Which One Should You Choose for Your Home Entertainment?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-transforming-dts-audio-files-into-high-quality-ac3-format/"><u>Step-by-Step Guide: Transforming DTS Audio Files Into High-Quality AC3 Format</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-icustomactionscomponent-guide-building-custom-features-into-any-application/"><u>The ICustomActionsComponent Guide: Building Custom Features Into Any Application</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-list-of-background-modification-apps-for-images/"><u>The Ultimate List of Background Modification Apps for Images</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unveiling-more-than-a-dozen-malware-forms-a-full-breakdown-with-illustrative-cases/"><u>Unveiling More Than a Dozen Malware Forms - A Full Breakdown With Illustrative Cases</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-5-best-online-mp3-tag-editor-that-you-cant-miss-for-2024/"><u>Updated 5 Best Online MP3 Tag Editor That You Cant Miss for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-s18-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S18 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
