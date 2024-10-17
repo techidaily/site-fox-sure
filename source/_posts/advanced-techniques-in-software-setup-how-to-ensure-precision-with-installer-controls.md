@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques in Software Setup: How to Ensure Precision with Installer Controls"
-date: 2024-10-06T17:24:07.205Z
-updated: 2024-10-11T03:34:50.756Z
+date: 2024-10-13T03:19:55.447Z
+updated: 2024-10-16T16:26:09.111Z
 tags:
   - user-guide
 categories:
@@ -156,6 +156,19 @@ For a check box control you can set the "Push Like" flag which will transform it
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Radio Button Group
 
 ![Radio Group](https://cdn.advancedinstaller.com/img/toolbox/radio-group.png "Radio Group")Host for a group of radio buttons. This control has the "Push Like" flag which allows you to transform the radio buttons it contains into push buttons with two states (pressed and unpressed). Also, you can set the "Has Border" flag which removes the radio button group's grey background and shows its border and the "Text" field's value (by default "RadioButtonGroup"). 
@@ -180,6 +193,13 @@ For a check box control you can set the "Push Like" flag which will transform it
 
 ![Masked Edit](https://cdn.advancedinstaller.com/img/toolbox/masked-edit.png "Masked Edit")An edit field with a mask in the text field. The masked edit can receive only a digit where "#" is used and a digit or a character where "?" is used. In the "Text" field from the “Properties” pane, you can set your own custom format for the data entered in the masked edit box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scrollable Edit Box
 
 ![Scrollable](https://cdn.advancedinstaller.com/img/toolbox/scrollable.png "Scrollable")Displays an RTF text. A common use for this control is displaying the license agreement.
@@ -189,10 +209,10 @@ For a check box control you can set the "Push Like" flag which will transform it
 ![Icon](https://cdn.advancedinstaller.com/img/toolbox/icon.png "Icon")Displays a static picture of an icon.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Image
@@ -221,6 +241,13 @@ For a check box control you can set the "Push Like" flag which will transform it
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Sort By Index" flag allows you to sort the values in the list box by their index or alphabetically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## List View
 
 ![List View](https://cdn.advancedinstaller.com/img/toolbox/list-view.png "List View")The control that displays a single column of values with an icon next to each item. It enables the user to select a single string or integer value for a property from a predetermined list. These values can be set by double-clicking the control or by selecting from the context menu the [Control Data Dialog](https://tools.techidaily.com/advancedinstaller/products/) and adding them. The final value of the list view will be stored in the property specified in the "Property Name" field from “Properties” pane.
@@ -231,22 +258,15 @@ For a check box control you can set the "Push Like" flag which will transform it
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Directory List
 
 ![Directory List](https://cdn.advancedinstaller.com/img/toolbox/directory-list.png "Directory List")This control displays a part of the path that is currently displayed in the Path Edit control. The Directory List control displays the folders below the directory currently displayed by the Directory Combo control. This control is usually used in a "Browse" dialog (you can see an example in the "BrowseDlg" dialog under "FolderDlg").
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Volume Cost List
@@ -258,13 +278,6 @@ For a check box control you can set the "Push Like" flag which will transform it
 ![Directory Combo](https://cdn.advancedinstaller.com/img/toolbox/directory-combo.png "Directory Combo")This control displays a part of the path that is currently displayed in the Path Edit control. It does not show the last segment of the path, that segment is displayed by the Directory List control. For this control you can set the flags RemovableVolume, FixedVolume, RemoteVolume, CDROMVolume, RAMDiskVolume, and FloppyVolume according to your needs.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This control must use the same property used by the Path Edit control.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Volume Select Combo
 
@@ -281,10 +294,10 @@ For a check box control you can set the "Push Like" flag which will transform it
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quick Selection List
@@ -302,10 +315,10 @@ Prerequisites are displayed together with additional information like: required 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Progress
@@ -347,13 +360,6 @@ As billboards most common use is to display images or text during a long operati
 
 To switch among the billboards of the billboard host, select them in the “Billboards” list from the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new billboard to the project
 
  Select the billboard host control on the dialog and from the context menu choose the “Edit Billboards” option. The[Billboards](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new billboard or edit an existing one. 
@@ -368,13 +374,6 @@ The link label is specified by the “Text” control atrribute. To have only pa
 
 ![HTML Host](https://cdn.advancedinstaller.com/img/toolbox/html-host.png "HTML Host")The HTML Host control displays an HTML page from a given URL or a local file. The associated HTML page can be _static_ or _dynamic_ by using JavaScript (embedded or external).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For more information about using the HTML Host control and its APIs read [this article](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/).
@@ -388,6 +387,13 @@ With this control the user can choose to navigate to the dialog's tab inside the
 The tabs content and visibility inside the Tab Host control can be defined and conditioned from the ["Child Dialogs" Dialog](https://tools.techidaily.com/advancedinstaller/products/). This dialog can be accesed from the Tab Host control's "Child Dialogs..." context menu or by double clicking it in the dialog editor.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Adding this control will automatically enable the Enhanced User Interface. You can read more about it in the [Enhanced User Interface](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -422,22 +428,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-device-to-inshot-a-guide-to-audio-integration/"><u>[New] From Device to InShot A Guide to Audio Integration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-superior-tools-for-downloading-vimeo-videos/"><u>[Updated] In 2024, Superior Tools for Downloading Vimeo Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-audio-archivers-for-teachings-for-2024/"><u>[Updated] Premier Audio Archivers for Teachings for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-enhancing-code-efficiency-mastering-the-assembly-attribute-configuration-panel/"><u>1. Enhancing Code Efficiency: Mastering the Assembly Attribute Configuration Panel</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-11x-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme 11X 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/clear-your-pictures-fast-ultimate-tutorial-on-de-blurring-images-using-iphone-apps/"><u>Clear Your Pictures Fast: Ultimate Tutorial on De-Blurring Images Using iPhone Apps</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-tutorial-on-how-to-reset-and-restore-an-iphone-x-from-its-backup-files/"><u>Complete Tutorial on How to Reset and Restore an iPhone X From Its Backup Files</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-tips-for-solving-maplestory-lag-issues-in-windows-10-updated-guide/"><u>Comprehensive Tips for Solving MapleStory Lag Issues in Windows 10 – Updated Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/explore-top-rated-windows-10-video-capture-software/"><u>Explore Top-Rated Windows 10 Video Capture Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-characteristics-of-verbs-understanding-verb-usage-and-forms/"><u>Exploring the Characteristics of Verbs: Understanding Verb Usage and Forms</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-world-of-digital-organization-a-comprehensive-look-at-folders-and-file-management-systems/"><u>Exploring the World of Digital Organization: A Comprehensive Look at Folders & File Management Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-reno-8t-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Reno 8T 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>In 2024, Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/next-level-setup-the-ultimate-guide-to-advanced-installer-customization/"><u>Next-Level Setup: The Ultimate Guide to Advanced Installer Customization</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-stream-microsoft-teams-conferencing-directly-onto-your-tv/"><u>Step-by-Step Tutorial: Stream Microsoft Teams Conferencing Directly Onto Your TV</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-browser-fingerprinting-risks-to-your-privacy-and-effective-strategies-for-defense/"><u>Understanding Browser Fingerprinting: Risks to Your Privacy and Effective Strategies for Defense</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-iconic-20-anime-series-intros/"><u>[Updated] In 2024, Iconic 20 Anime Series Intros</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-nord-n30-se-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Nord N30 SE Unlock Without Password</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728494111330-aomei/"><u>AOMEIツールズの専門支援センターへようこそ</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/clonezilla-guide-understanding-disk-partitions-with-gpt-and-mbr-configuration-differences/"><u>Clonezilla Guide: Understanding Disk Partitions with GPT & MBR Configuration Differences</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-solutions-for-when-your-outlook-mailbox-says-its-full-post-deletions/"><u>Effective Solutions for When Your Outlook Mailbox Says It's Full Post-Deletions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/erfassen-sie-verlorene-bilder-wieder-professionelle-tipps-zur-wiederherstellung-von-dateien-unter-windows-11/"><u>Erfassen Sie Verlorene Bilder Wieder: Professionelle Tipps Zur Wiederherstellung Von Dateien Unter Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903926910-msxml4dll-missing-heres-how-you-can-resolve-it/"><u>Msxml4.dll Missing? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-the-raspberry-pi-400-laptop-style-single-board-computer/"><u>Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer</u></a></li>
 </ul></div>
 

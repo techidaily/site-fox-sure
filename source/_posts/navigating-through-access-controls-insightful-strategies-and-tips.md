@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Access Controls: Insightful Strategies & Tips"
-date: 2024-10-04T00:10:41.671Z
-updated: 2024-10-10T23:19:35.410Z
+date: 2024-10-10T18:37:13.336Z
+updated: 2024-10-17T04:40:22.069Z
 tags:
   - user-guide
 categories:
@@ -101,16 +101,16 @@ This dialog allows you to properly configure access permission flags for a Web S
 
 ## Local Access
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read
 
 Setting this option indicates that the file or the folder contents may be read through a web browser.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Script
 
@@ -120,18 +120,18 @@ Setting this option indicates that the file or folder contents may be executed i
 
 Setting this option indicates that the file or folder contents may be executed, regardless of file type.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Write
 
 Setting this option indicates that users are allowed to upload files and their associated properties to the enabled directory on your server or to change content in a Write-enabled file. Write can be implemented only with a browser that supports the PUT feature of the HTTP 1.1 protocol standard.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Setting both "Write" and "Execute" permissions can be dangerous, because it allows users to modify internal files and run potentially damaging scripts on the system.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Source
 
@@ -139,26 +139,26 @@ Setting this option indicates that users are allowed to access source code (scri
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The AccessSource flag, if set, grants source access to clients, using the HTTP extensions described by the Web Distributed Authoring and Versioning (**WebDAV**) standard. For more information on**WebDAV**, see the **World Wide Web Consortium** web site and the **WebDAV** Publishing documentation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### No Physical Directory
 
 Setting this option indicates that access to the physical path is not allowed.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This flag is available only for IIS versions 6.0 and above.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote Access
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### No Read
@@ -170,10 +170,10 @@ Setting this option indicates that remote requests to view files are denied; onl
 Setting this option indicates that remote requests to view dynamic content are denied; only requests from the same computer as the IIS server succeed if the local "Script" property is set.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### No Write
@@ -186,30 +186,24 @@ Setting this option indicates that remote requests to execute applications are d
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can enable local access without remote access, but you cannot enable remote access without local access.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Remote access flags are operative only when the corresponding local access flag is set. For example, setting remote "No Read" has no effect unless local "Read" is set as well. If both are set, the local host can read the file, but the file cannot be read by the remote client.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## User Access
 
 Configure the options to control user interaction with the web site / virtual directory.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Enable directory browsing
@@ -249,15 +243,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-10-free-youtube-channels-for-exceptional-art-creation/"><u>[New] 2024 Approved Top 10 FREE YouTube Channels for Exceptional Art Creation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-techniques-to-enhance-instagram-reels-with-sounds/"><u>[New] Essential Techniques to Enhance Instagram Reels with Sounds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-screen-times-best-and-worst-app-reviews/"><u>[New] In 2024, Screen Time's Best and Worst App Reviews</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-the-process-of-creating-a-high-quality-rss-feed/"><u>Simplifying the Process of Creating a High-Quality RSS Feed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-troubleshooting-non-functional-nvidia-shadowplaygeforce-experience-overlays/"><u>Solution Steps: Troubleshooting Non-Functional Nvidia ShadowPlay/GeForce Experience Overlays</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-mastering-youtube-video-conversion-with-factory-deluxe/"><u>Ultimate Guide: Mastering YouTube Video Conversion with Factory Deluxe</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-software-release-criteria-navigating-the-launch-specifications-tab/"><u>Understanding Software Release Criteria: Navigating the Launch Specifications Tab</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories-for-2024/"><u>[New] Battlefield Legends The Ultimate List of Top 7 Total War Victories for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728488851534-windows-10/"><u>完美的 Windows 10 全盤保存到外接設備：步驟指南</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-troubleshooting-steps-for-resolving-windows-update-error-code-0x80246007/"><u>Comprehensive Troubleshooting Steps for Resolving Windows Update Error Code 0X80246007</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fixing-external-exception-issue-in-samsung-data-cloning-process-steps-and-tips/"><u>Fixing External Exception Issue in Samsung Data Cloning Process – Steps & Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a24-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A24 Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a05-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A05 to iPad | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-14-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-steps-for-instant-driver-updates-on-the-dell-g7-laptop-series/"><u>Quick Steps for Instant Driver Updates on the Dell G7 Laptop Series</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolviendo-el-problema-de-la-pantalla-parpadeante-y-barra-desaparecida-en-windows-11/"><u>Resolviendo El Problema De La Pantalla Parpadeante Y Barra Desaparecida en Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-revive-your-videos-as-live-photos-best-conversion-tools-and-tips/"><u>Updated Revive Your Videos as Live Photos Best Conversion Tools and Tips</u></a></li>
 </ul></div>
 

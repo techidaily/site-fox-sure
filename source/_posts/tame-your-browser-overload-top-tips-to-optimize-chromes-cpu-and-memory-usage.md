@@ -1,7 +1,7 @@
 ---
 title: "Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage"
-date: 2024-10-04T01:08:15.192Z
-updated: 2024-10-10T18:19:01.924Z
+date: 2024-10-11T12:05:17.805Z
+updated: 2024-10-17T02:42:52.702Z
 tags:
   - product
   - antivirus
@@ -53,6 +53,19 @@ To check Google Chrome’s CPU usage, you do not need to download any third-part
 1. Right-click on the taskbar and choose the **Task Manager** to open it.![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Look for Google Chrome and click on its icon. If you find multiple icons, click on any of them and check its **memory** and **GPU** usage.![Task Manager Google Chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Task-Mnager-Google-Chrome.png)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Common Signs of High CPU usage by Chrome
 
 When Chrome starts using high system resources, there would be unusual symptoms indicating that.
@@ -76,16 +89,16 @@ For curing the problem, first, we have to find out what is causing it. Though it
 * **A Malware attack** can also cause high RAM usage from Chrome. Cybercriminals use many tricks to inject browser viruses like [hijackers](https://tools.techidaily.com/malwarefox/products/), [adware](https://tools.techidaily.com/malwarefox/products/), [keyloggers](https://tools.techidaily.com/malwarefox/products/), and others to infiltrate your browser settings, causing misbehavior of the Chrome browser.
 * Chrome also comes with an **in-built antimalware tool** that can also create unusual usage of computing power.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixes for Chrome Using Too Much CPU
 
 As you can see, it is not always the browser that is the culprit of high CPU usage. We would now discuss what are the possible fixes to that.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Check Chrome Task Manager**
 
@@ -96,10 +109,10 @@ For those of you who don’t know, Google Chrome comes with an in-built task man
 3. A new window will open. You can see all the processes going on Chrome. Every opened webpage, every extension being used.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Task manager Google Chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Task-manager-Google-Chrome.png)
@@ -129,13 +142,6 @@ Here are the steps to manage the web extensions on the Chrome Browser:
 
 4. Now, look for the ones you want to disable or remove.![manage chrome extensions](https://www.malwarefox.com/wp-content/uploads/2020/07/manage-chrome-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Disable Background Tasks in Chrome**
 
 Since Google Chrome is an advanced web browser, it comes with some features that require background running; for example, the **[push notification](https://tools.techidaily.com/malwarefox/products/)** feature needs to be active throughout to look for the new activity.
@@ -145,13 +151,6 @@ However, if you have a low-end system and want to reduce the Chrome computation 
 1. Open Chrome settings by clicking on the three dots at the top-right corner.![Open Settings in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Open-Settings-in-Chrome.jpg)
 2. Scroll down and click on **Advanced** to open advanced settings. ![Click on Advanced in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Click-on-Advanced-in-Chrome.jpg)
 3. Under the system tab, disable the “**Continue running background apps when Google Chrome is closed”** option.![Chrome system settings](https://www.malwarefox.com/wp-content/uploads/2020/07/Chrome-system-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Turn off the Hardware Acceleration**
 
@@ -164,13 +163,6 @@ To turn off Hardware Acceleration:
 1. Open Chrome Browser.
 2. Then, navigate to **Settings->Advanced**
 3. Under the system tab, toggle the button next to “**Use hardware acceleration when available”** to turn it off.![Disable Hardware Acceleration](https://www.malwarefox.com/wp-content/uploads/2020/07/Disable-Hardware-Acceleration.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Scan Your System for Malware**
 
@@ -188,21 +180,7 @@ Many people are unaware that Chrome comes with an in-built antimalware. You can 
 4. Again scroll down and under “**Reset and clean up**,” click on Clean up computer![Chrome Malware Removal](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-3.png)
 5. Click Find and uncheck the “**Send details to Google….**” below, if you don’t want to share the details with Google.![Chrome Malware Removal steps](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Chrome will scan your computer and ask for removing the malicious application and files. Click on Remove to remove them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Restart your system, and you shall be free from the Browsing Malware.
 
@@ -212,6 +190,14 @@ Windows Security or Windows Defender is the Windows 10 in-built antimalware solu
 
 1. Search for **Windows Security** in the windows search bar and click on its icon.![Windows Security](https://www.malwarefox.com/wp-content/uploads/2020/07/Windows-security.jpg)
 2. Select **Virus & threat protection.**![virus and threat protection](https://www.malwarefox.com/wp-content/uploads/2020/07/virus-and-threat-protection.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Now under Virus & threat protection, click on **Scan options.** ![scan options](https://www.malwarefox.com/wp-content/uploads/2020/07/scan-options.png)
 4. Choose **Full scan** and then click **Scan now.**![Full scan](https://www.malwarefox.com/wp-content/uploads/2020/07/Full-scan.png)
 
@@ -224,9 +210,23 @@ Here we are using **Malwarefox**, one of the best security solutions for a total
 1. [Download and install Malwarefox](https://tools.techidaily.com/malwarefox/products/).
 2. Run a full system scan to check for the infected programs or files thoroughly.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What if Nothing Works?
 
 Usually, the problem of Chrome using too much CPU power should have been solved by any of the above fixes. However, if nothing worked for you, then you can try following quick options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Clear the Cache**
 
@@ -236,6 +236,19 @@ Usually, the problem of Chrome using too much CPU power should have been solved 
 ### **Disable all Extensions**
 
 To catch the culprit extension or app, disable all of them and re-enable them one by one to check which extension or app is causing RAM’s overuse.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Reset the Chrome Browser Settings**
 
@@ -249,10 +262,10 @@ Here are the steps to reset Chrome settings:
 4. Relaunch your browser.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Reinstall Google Chrome**
@@ -306,22 +319,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-comparing-picku-vs-androids-leading-photo-editor-for-2024/"><u>[Updated] Comparing PickU Vs. Android's Leading Photo Editor for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-steps-for-stellar-youtube-thumbnails-for-2024/"><u>[Updated] Easy Steps for Stellar YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-harmonize-your-online-identity-iphoneandroid-music-integration-for-2024/"><u>[Updated] Harmonize Your Online Identity IPhone/Android Music Integration for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-iconic-quests-and-thrills-a-curated-list-of-classics/"><u>2024 Approved Iconic Quests & Thrills A Curated List of Classics</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-type-speed-cutting-down-lag-on-windows-11/"><u>Accelerating Type Speed: Cutting Down Lag on Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-managing-media-files-through-app-vs-options-and-properties-interface/"><u>Comprehensive Guide to Managing MEDIA Files Through App-V's Options & Properties Interface</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/custom-interactive-actions-for-enhanced-user-experience/"><u>Custom Interactive Actions for Enhanced User Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-protect-my-photographs-a-comprehnensive-guide-on-copyrighting-imagery/"><u>How Can I Protect My Photographs? A Comprehnensive Guide on Copyrighting Imagery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/improve-your-ipad-usability-with-the-ideal-wireless-mouse-selection/"><u>Improve Your IPad Usability with the Ideal Wireless Mouse Selection</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963667057-intel-nvme-driver-setup-download-now-for-swift-hassle-free-experience/"><u>Intel NVME Driver Setup - Download Now for Swift, Hassle-Free Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/intuitive-product-selection-conversations-elevate-your-shopping-experience/"><u>Intuitive Product Selection Conversations: Elevate Your Shopping Experience!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/leading-2x2-photo-editor-apps-enhance-images-with-easy-crop-options-and-background-color-adjustments/"><u>Leading 2X2 Photo Editor Apps : Enhance Images with Easy Crop Options and Background Color Adjustments</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/module-selection-and-integration-wizard-dialogue-box/"><u>Module Selection & Integration Wizard Dialogue Box</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seamless-android-syncing-with-your-chromebook-a-step-by-step-guide/"><u>Seamless Android Syncing with Your Chromebook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-ultimate-guide-to-reflecting-your-ipad-on-your-iphone-with-easy-steps/"><u>The Ultimate Guide to Reflecting Your iPad on Your iPhone with Easy Steps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-animations/"><u>Updated Revolutionize Your Animations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-art-of-youtube-thumbnails-for-mac-professionals/"><u>[New] The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-record-hulu-everywhere-windowsmaciosandroid/"><u>[Updated] 2024 Approved Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-7-dslr-vlogging-cameras-for-2024/"><u>[Updated] Best 7 DSLR Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-recuperer-votre-systeme-avec-limage-de-reparation-hp-sur-windows-11/"><u>Comment Récupérer Votre Système Avec L'Image De Réparation HP Sur Windows 11 ?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a24-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A24 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-octane-comparison-gopro-hero-4-vs-drift-ghost-s/"><u>In 2024, High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimieren-sie-ihr-betriebssystem-drei-moglichkeiten-windows-11-auf-werkseinstellung-zuruckzusetzen-start-mit-dem-bootmenu/"><u>Optimieren Sie Ihr Betriebssystem: Drei Möglichkeiten, Windows 11 Auf Werkseinstellung Zurückzusetzen – Start Mit Dem Bootmenü</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-listening-experience-apple-unveils-exciting-enhancements-across-airpods-lines-top-4-highlights/"><u>Revolutionizing Your Listening Experience: Apple Unveils Exciting Enhancements Across AirPods Lines - Top 4 Highlights</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/seagate-ext-hdd6/"><u>Seagate EXT HDDにあるデータを取り戻すための6コツ:ステップバイステップガイド</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tutto-su-ripristino-universale-passaggi-essenziali-per-unoperazione-senza-errori/"><u>Tutto Su Ripristino Universale: Passaggi Essenziali per Un'operazione Senza Errori</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-wechselst-du-deine-apple-id-fur-die-meldungsubertragung-zwischen-geraten/"><u>Wie Wechselst Du Deine Apple-ID Für Die Meldungsübertragung Zwischen Geräten?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellungsmethode-fur-partitionierte-datentrager-mit-windows-cmd/"><u>Wiederherstellungsmethode Für Partitionierte Datenträger Mit Windows CMD</u></a></li>
 </ul></div>
 

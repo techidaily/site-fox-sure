@@ -1,7 +1,7 @@
 ---
 title: Key Features of Microsoft's Server Roles and Services
-date: 2024-10-07T03:20:15.243Z
-updated: 2024-10-10T22:53:03.522Z
+date: 2024-10-12T09:39:40.929Z
+updated: 2024-10-17T04:49:25.595Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 ![Windows Server Roles](https://cdn.advancedinstaller.com/img/dialog/windows-server-roles.png "Windows Server Roles")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Role Installation
@@ -95,10 +95,10 @@ Table of Contents
 The standard role identifier. This field is read-only.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -106,10 +106,10 @@ The standard role identifier. This field is read-only.
 The role will be installed only if the condition is resolved to TRUE.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Role Services
@@ -119,10 +119,10 @@ In this section, you can add extra services for the role.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There is no need to manually handle Server Role Service dependencies. They will be automatically handled (enabled) during installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -158,20 +158,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] 2024 Approved Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-vdx-pro-video-capture-an-in-depth-analysis-for-2024/"><u>[Updated] VDX Pro Video Capture An In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-on-iphone-xs-recovery-using-backup-data/"><u>Comprehensive Guide on iPhone XS Recovery Using Backup Data</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>In 2024, Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Premier 5G Device</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-mime-type-selection-for-optimal-web-experience/"><u>Mastering MIME Type Selection for Optimal Web Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/omnipresent-iptv-broadcasting-for-2024/"><u>Omnipresent IPTV Broadcasting for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/startende-deutsche-nummerierung-von-eins-bis-hundert-schrittweise-lernen/"><u>Startende Deutsche Nummerierung: Von Eins Bis Hundert Schrittweise Lernen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-process-for-finding-your-registration-record-versions-online/"><u>Step-by-Step Process for Finding Your Registration Record Versions Online</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tailoring-your-frames-hues-custom-colour-arrangement-options/"><u>Tailoring Your Frame's Hues: Custom Colour Arrangement Options</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-the-m4v-video-file-format/"><u>Understanding the Basics: A Comprehensive Guide to the M4V Video File Format</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-insights-into-top-10-no-cost-open-source-video-communication-tools/"><u>[New] In 2024, Essential Insights Into Top 10 No-Cost, Open Source Video Communication Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>[Updated] 2024 Approved From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exiting-facebook-livestreams-device-specific-methods/"><u>[Updated] Exiting Facebook Livestreams Device-Specific Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exceptional-windows-calls-8-highest-rated/"><u>2024 Approved Exceptional Windows Calls 8 Highest Rated</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>2024 Approved Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-docu-script-writers-guide/"><u>2024 Approved The Docu-Script Writer's Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-media-player-showdown-exploring-vlc-and-5kplayer-features-for-macwindows-users/"><u>Best Media Player Showdown: Exploring VLC and 5KPlayer Features for Mac/Windows Users</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demarche-elegante-etapes-faciles-pour-mettre-a-jour-le-micrologiciel-hp-bios/"><u>Démarche Élégante : Étapes Faciles Pour Mettre À Jour Le Micrologiciel HP BIOS</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demarrer-sans-probleme-un-dell-sur-windows-11-guide-dinstallation-simple/"><u>Demarrer Sans Problème Un Dell Sur Windows 11 - Guide D'Installation Simple</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/der-computer-startet-selbststandig-verstehen-sie-die-ursachen-und-ergreifen-sie-geeignete-massnahmen-zur-behebung-des-problems/"><u>Der Computer Startet Selbstständig: Verstehen Sie Die Ursachen Und Ergreifen Sie Geeignete Maßnahmen Zur Behebung Des Problems</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/repairing-partition-mistakes-made-on-windows-11-1nstead-8-or-7-a-simple-guide/"><u>Repairing Partition Mistakes Made on Windows 11, 1Nstead, 8, or 7 - A Simple Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiedergutmachung-auf-ios-vollstandiges-loschen-von-inhalten-und-einstellungen/"><u>Wiedergutmachung Auf iOS: Vollständiges Löschen Von Inhalten Und Einstellungen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728504960706-windows-11-plus/"><u>Windows 11處理停用或開啟最近使用過的文件 - 兩種有效解決方式+一項建議</u></a></li>
+<li><a href="https://win-great.techidaily.com/44k144og44k544oz44oh44o844k44oe44kk44kw44os44o844k344on44oz44gr44ki44kl44k344k544og44og44kv44ot44o844ol44oz44kw5pa55rov44go5luj5pu562w/"><u>サムスンデータマイグレーションによるシステムクローニング方法と代替策</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/iuodhplusodvoocvpluswbnuwplusqtog44kz44k544oi44gq44gx44gn44ov44kh44kk44or44go44ov44kp44or44oa44ks5yan55sf44gz44kl5pa55rovig/"><u>データ回復: コストなしでファイルとフォルダを再生する方法</u></a></li>
 </ul></div>
 

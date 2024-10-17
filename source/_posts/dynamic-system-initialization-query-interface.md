@@ -1,7 +1,7 @@
 ---
 title: Dynamic System Initialization Query Interface
-date: 2024-10-06T00:07:59.516Z
-updated: 2024-10-10T23:39:45.829Z
+date: 2024-10-10T23:42:44.516Z
+updated: 2024-10-17T07:23:23.673Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ In this dialog, you can configure the Active Setup command options.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All fields are of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -107,10 +107,10 @@ Specify the Stub Path. This represents a valid command line that will be execute
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Stud Path can also be a VBS script, a regsvr32.exe call, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Version
@@ -121,10 +121,16 @@ If specified, the component’s command will run only if the corresponding versi
 However, formatted references that resolve to values containing versions with point separator (.) can be used because,**at build time**, Advanced Installer automatically replaces the point separator with comma. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Locale
@@ -138,10 +144,10 @@ Specify whether the component command will run once per user or it will not run 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Possible values : 1, 0. The default value is 1.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -181,21 +187,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-android-trick-changing-media-order-sequence/"><u>[Updated] Android Trick Changing Media Order Sequence</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplewin10-screen-grab-utility/"><u>2024 Approved SimpleWin10 Screen Grab Utility</u></a></li>
-<li><a href="https://driver-download.techidaily.com/approach-discuss-how-environmental-factors-are-considered-when-creating-a-concrete-mix/"><u>Approach: Discuss How Environmental Factors Are Considered when Creating a Concrete Mix.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-tutorial-on-transforming-m4v-files-into-compatible-mp4-video-formats/"><u>Easy Tutorial on Transforming M4V Files Into Compatible MP4 Video Formats</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-5-best-alternatives-to-tiktok-you-should-know/"><u>In 2024, 5 Best Alternatives to TikTok You Should Know</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-the-art-of-personal-computing-care-emulate-pro-it-support-strategies-for-home-use/"><u>Master the Art of Personal Computing Care – Emulate Pro IT Support Strategies for Home Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/neo-qled-or-oled-which-one-should-you-choose-for-your-home-entertainment/"><u>Neo QLED or OLED - Which One Should You Choose for Your Home Entertainment?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-transforming-dts-audio-files-into-high-quality-ac3-format/"><u>Step-by-Step Guide: Transforming DTS Audio Files Into High-Quality AC3 Format</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-icustomactionscomponent-guide-building-custom-features-into-any-application/"><u>The ICustomActionsComponent Guide: Building Custom Features Into Any Application</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-ultimate-list-of-background-modification-apps-for-images/"><u>The Ultimate List of Background Modification Apps for Images</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unveiling-more-than-a-dozen-malware-forms-a-full-breakdown-with-illustrative-cases/"><u>Unveiling More Than a Dozen Malware Forms - A Full Breakdown With Illustrative Cases</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-best-online-mp3-tag-editor-that-you-cant-miss-for-2024/"><u>Updated 5 Best Online MP3 Tag Editor That You Cant Miss for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-s18-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S18 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mac-screen-grabber-including-microphone-recording/"><u>[New] 2024 Approved Mac Screen Grabber Including Microphone Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[New] Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-10-superior-video-text-enhancements/"><u>2024 Approved 10 Superior Video Text Enhancements</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>2024 Approved Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-polaroid-cubeplus-camera-insight-for-fans-of-live-action/"><u>2024 Approved Polaroid Cube+ Camera Insight for Fans of Live-Action</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-to-procure-free-visual-frame-videos/"><u>2024 Approved Techniques to Procure Free Visual Frame Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/aomei-backupper-schritt-fur-schritt-anleitung-zur-befehlszeilensicherungserstellung/"><u>AOMEI Backupper: Schritt-Für-Schritt Anleitung Zur Befehlszeilensicherungserstellung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-tips-for-speeding-up-your-ipads-os-update-and-overcoming-freezing-problems-during-process/"><u>Expert Tips for Speeding Up Your iPad's OS Update & Overcoming Freezing Problems During Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-2d-to-spatial-the-evolution-of-cinematic-videos-for-2024/"><u>From 2D to Spatial The Evolution of Cinematic Videos for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-completa-cuatro-tecnicas-esenciales-para-hacer-una-copia-de-seguridad-fiada-del-correo-de-yahoo-en-tu-ordenador/"><u>Guía Completa: Cuatro Técnicas Esenciales Para Hacer Una Copia De Seguridad Fiada Del Correo De Yahoo en Tu Ordenador</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-como-hacer-que-una-carpeta-de-red-se-mueva-automaticamente-a-google-drive-gratuito/"><u>Guía Paso a Paso: Cómo Hacer Que Una Carpeta De Red Se Mueva Automáticamente a Google Drive Gratuito</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guida-pratica-come-spostare-i-file-fotografici-da-un-mac-a-un-disco-rigido-senza-problemi-in-2-modi-efficaci/"><u>Guida Pratica: Come Spostare I File Fotografici Da Un Mac a Un Disco Rigido Senza Problemi in 2 Modi Efficaci</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-v30t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme V30T Without PUK Codes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>In 2024, Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-solutions-resolving-roblox-error-code-291-in-no-time/"><u>Quick Solutions: Resolving Roblox Error Code 291 in No Time</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-restoring-accidentally-deleted-files-from-the-recycle-bin-in-windows-10-8-and-7/"><u>Step-by-Step Guide: Restoring Accidentally Deleted Files From the Recycle Bin in Windows 10, 8 & 7</u></a></li>
 </ul></div>
 

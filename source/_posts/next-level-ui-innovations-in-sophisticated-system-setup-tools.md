@@ -1,7 +1,7 @@
 ---
 title: Next-Level UI Innovations in Sophisticated System Setup Tools
-date: 2024-10-05T17:42:35.314Z
-updated: 2024-10-10T17:54:44.969Z
+date: 2024-10-13T21:24:12.398Z
+updated: 2024-10-16T23:54:58.803Z
 tags:
   - user-guide
 categories:
@@ -71,11 +71,31 @@ Starting with Advanced Installer 9 on _Windows Vista SP2 with Platform Update_ o
 
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Toolbar
 
 The toolbar allows quick access to most commands provided by the menu system. From here you can create \[New \] projects, \[Open \] existing ones or\[Save \], \[Build \] and \[Run \] the project you are working on. Some of the creation process' pages append their own toolbars to easily add files to the install, create shortcuts, etc. For a detailed explanation of each item on the main toolbar see [Working with Projects](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Left Pane
 
@@ -84,10 +104,16 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
@@ -95,33 +121,19 @@ You can toggle the left pane on and off from the “View > Show > Left Pane” m
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Page Display
 
 The center stage for creating your installer is this large area on the right. It is the main work area - all project data is displayed here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Info Panes
 
 This panel will display one of the selected panes from the “View > Info Panes” menu and it is hidden by default. You can close it again by clicking on its top-right corner \[Close \] button.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -171,18 +183,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-mac-gaming-recording-roblox-adventures/"><u>[New] Mac Gaming Recording Roblox Adventures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-video-guide-to-hairstyles/"><u>[New] Ultimate Video Guide to Hairstyles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-online-spaces-for-youtube-traffic-increase/"><u>[Updated] In 2024, Top Online Spaces for YouTube Traffic Increase</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>2024 Approved From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-setup-fresh-drivers-for-the-amd-radeon-hd-7870-under-microsofts-newest-os-windows-11/"><u>Download and Setup: Fresh Drivers for the AMD Radeon HD 지오스티브 7870 Under Microsoft's Newest OS, Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2021-file-by-stellar-guide/"><u>How Do I Restore Excel 2021 File ?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Phone Without Password?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-luminosity-calmed-issue-over/"><u>Laptop Luminosity Calmed - Issue Over</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-reliable-music-download-tool-for-windows-11/"><u>Quick and Reliable Music Download Tool for Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-broadcasting-games-with-obs-and-apowermirror/"><u>Step-by-Step Guide: Broadcasting Games with OBS and ApowerMirror</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tailored-package-selection-unlocking-a-world-of-personalization-features/"><u>Tailored Package Selection: Unlocking a World of Personalization Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-rated-clear-image-enhancement-tools/"><u>Top Rated Clear Image Enhancement Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-youtubes-power-for-free-educational-sessions/"><u>[New] 2024 Approved Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-approach-to-crafting-youtube-intros/"><u>[New] Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-video-trendsetters-top-likers-and-viewers-on-twitter/"><u>[Updated] 2024 Approved Prime Video Trendsetters Top Likers & Viewers on Twitter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/constructing-emotional-resonance-trailer-sound-selection-guide-for-2024/"><u>Constructing Emotional Resonance Trailer Sound Selection Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-innovative-losung-fur-die-konvertierung-von-dvds-in-digitale-formate-erfahren-sie-mehr-uber-das-unternehmen-digiarty-software/"><u>Die Innovative Lösung Für Die Konvertierung Von DVDs in Digitale Formate - Erfahren Sie Mehr Über Das Unternehmen Digiarty Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-restauracion-de-archivos-antiguos-desde-windowsold/"><u>Guía Paso a Paso: Restauración De Archivos Antiguos Desde 'Windows.old'</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-steps-creating-a-quick-and-easy-system-backup-on-windows-11-8-or-7-using-free-software/"><u>Simple Steps: Creating a Quick & Easy System Backup on Windows 11, 8 or 7 Using Free Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-on-fixing-boot-issues-in-windows-tenth-via-the-power-of-command-prompt/"><u>Step-by-Step Tutorial on Fixing Boot Issues in Windows Tenth via the Power of Command Prompt</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-importiere-ich-bilder-und-videos-vom-iphone-14-auf-einen-windows-pc/"><u>Wie Importiere Ich Bilder Und Videos Vom iPhone 14 Auf Einen Windows-PC?</u></a></li>
 </ul></div>
 

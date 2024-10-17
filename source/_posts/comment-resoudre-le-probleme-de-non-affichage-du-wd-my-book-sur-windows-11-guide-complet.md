@@ -1,7 +1,7 @@
 ---
 title: Comment Résoudre Le Problème De Non-Affichage Du WD My Book Sur Windows 11 - Guide Complet
-date: 2024-10-08T21:12:06.626Z
-updated: 2024-10-10T20:01:40.812Z
+date: 2024-10-15T21:33:52.687Z
+updated: 2024-10-17T03:58:35.221Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93248db2ddf9a669b098df892.jpg
@@ -50,23 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -89,6 +76,19 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -107,6 +107,13 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -124,6 +131,19 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -184,10 +204,10 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -209,6 +229,13 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -244,13 +271,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -269,21 +289,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -300,24 +306,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sure.techidaily.com/x1-5/"><u> [ X_1 = 5 </u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[Updated] 2024 Approved Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-outro-checklist-for-youtube-success/"><u>[Updated] In 2024, The Ultimate Outro Checklist for YouTube Success</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-secrets-to-successful-360-streaming-on-fb-for-2024/"><u>[Updated] Unlocking the Secrets to Successful 360 Streaming on FB for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>2024 Approved Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://video-capture.techidaily.com/convenient-iphone-method-for-live-screen-capture/"><u>Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/convert-your-words-into-dynamic-flipbooks-with-our-no-cost-user-friendly-flipbook-maker-tool/"><u>Convert Your Words Into Dynamic Flipbooks with Our No-Cost, User-Friendly FlipBook Maker Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decode-the-502-bad-gateway-mistake-comprehensive-troubleshooting-guide/"><u>Decode the 502 Bad Gateway Mistake: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/editing-the-inner-and-outer-pages-design-a-guide-to-adjusting-epub-layout-using-flipbuilder-tools/"><u>Editing the Inner & Outer Pages' Design: A Guide to Adjusting ePub Layout Using FlipBuilder Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effiziente-dateneingabelosung-durch-automatisierte-prozesse-bei-der-berliner-abfallentsorgungsgesellschaft/"><u>Effiziente Dateneingabelösung Durch Automatisierte Prozesse Bei Der Berliner Abfallentsorgungsgesellschaft</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-different-types-of-flipbooks-you-can-design-with-flippdf-software-for-macos-users/"><u>Exploring Different Types of Flipbooks You Can Design With FlipPDF Software for macOS Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-cinema-scenes-to-speaking-scenes-discovering-the-top-32-tools-for-video-translation/"><u>From Cinema Scenes to Speaking Scenes Discovering the Top 32 Tools for Video Translation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-edge-40-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y27-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y27 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/protecting-content-integrity-how-to-craft-a-risk-free-flipping-book-using-flipbuilders-tools-and-features/"><u>Protecting Content Integrity: How To Craft a Risk-Free Flipping Book Using FlipBuilder's Tools and Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-iis-server-issues-with-flipbuilder-why-your-videos-may-not-play-online/"><u>Resolving IIS Server Issues with FlipBuilder - Why Your Videos May Not Play Online</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/steps-to-embed-tables-in-your-ebook-using-flipbuilder/"><u>Steps to Embed Tables in Your eBook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-command-line-conversion-feature-a-deep-dive-into-flipbuilders-tools/"><u>Understanding Command Line Conversion Feature - A Deep Dive Into FlipBuilder's Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photo-perfection-instructions-for-text-overlay-on-windowsmacos/"><u>[New] Photo Perfection Instructions for Text Overlay on Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] In 2024, Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-prime-an-investment-that-pays-off-over-time/"><u>Amazon Prime: An Investment That Pays Off Over Time</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-techniques-for-recovering-files-from-a-non-functional-ssd/"><u>Effective Techniques for Recovering Files From a Non-Functional SSD</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-file-migration-top-5-methods-for-seamlessly-shifting-data-from-your-vintage-computer-to-a-modern-machine/"><u>Effortless File Migration: Top 5 Methods for Seamlessly Shifting Data From Your Vintage Computer to a Modern Machine</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-non-functional-microphone-during-google-meets-on-windows-1110/"><u>How to Repair Non-Functional Microphone During Google Meets on Windows 11/10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-impact-with-google-based-podcast-uploads/"><u>In 2024, Maximizing Impact with Google-Based Podcast Uploads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>In 2024, Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/insaisissable-les-disques-durs-externes-manquent-a-lappel-sur-votre-pc-avec-windows-1011-decouvrez-ces-8-astuces-de-reparation-pour-le-resoudre/"><u>Insaisissable : Les Disques Durs Externes Manquent À L'appel Sur Votre PC Avec Windows 10/11 - Découvrez Ces 8 Astuces De Réparation Pour Le Résoudre!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-on-overcoming-steams-recent-connectivity-problems-for-gamers/"><u>Insight on Overcoming Steam's Recent Connectivity Problems for Gamers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mac-users-guide-harnessing-the-power-of-dropboxs-smart-sync-feature/"><u>Mac Users Guide: Harnessing the Power of Dropbox's Smart Sync Feature</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-saving-your-windows-server-2012-r2s-current-state/"><u>Step-by-Step Guide: Saving Your Windows Server 2012 R2's Current State</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-steps-to-powertoys-install-win11/"><u>Unraveling the Steps to PowerToys Install (Win11)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/msaaadtk-alshfafa-linshala-windoz-11-aal-krs-ssd-gdyd-2-asalyb-koya/"><u>مساعدتك الشفافة لإنشالة Windoz 11 على قرص SSD جديد: 2 أساليب قوية</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728472173143-aomei-backupper/"><u>データ保護：AOMEI Backupperで信頼性の高いディスククローニング方法</u></a></li>
 </ul></div>
 

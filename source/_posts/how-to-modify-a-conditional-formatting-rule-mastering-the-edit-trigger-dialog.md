@@ -1,7 +1,7 @@
 ---
 title: "How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog"
-date: 2024-10-04T23:08:42.015Z
-updated: 2024-10-11T04:34:11.676Z
+date: 2024-10-16T04:54:23.758Z
+updated: 2024-10-16T17:05:37.753Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ Table of Contents
 
 ![Task Schedule](https://cdn.advancedinstaller.com/img/dialog/edit-trigger-dialog.png "Task Schedule")  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Schedule Task
 
 Specify conditions that will trigger the task. Multiple conditions can be used. These are the options:
@@ -107,10 +100,10 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 * On workstation unlock
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Settins
@@ -118,19 +111,19 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 Configure custom settings for each of the above condition types.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Advanced Settings
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Repeat task.
@@ -140,6 +133,19 @@ Enable the repeat settings.
 ### Every
 
 The task will run, wait for the time interval specified, and then run again.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Duration
 
@@ -192,18 +198,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-legitimacy-in-the-limelight-copyright-verification-before-upload/"><u>[New] Legitimacy in the Limelight Copyright Verification Before Upload</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-shaping-your-shots-strategies-for-solo-video-content/"><u>[New] Shaping Your Shots Strategies for Solo Video Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-clip-viewer-extractor-system/"><u>2024 Approved Clip Viewer Extractor System</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/battle-of-the-titans-an-in-depth-analysis-of-apple-music-vs-google-play-music-for-ultimate-sound-experience/"><u>Battle of the Titans: An In-Depth Analysis of Apple Music Vs. Google Play Music for Ultimate Sound Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/establishing-connections-with-virtual-machine-profiles-step-by-step-tips-and-tricks/"><u>Establishing Connections with Virtual Machine Profiles: Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-configuration-options-in-the-activex-properties-dialog-box/"><u>Exploring the Configuration Options in the ActiveX Properties Dialog Box</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-pc-instability-in-crusader-kings-iii/"><u>Fixes for PC Instability in Crusader Kings III</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-whats-the-best-virtualdub-alternative-discover-the-top-contenders/"><u>New In 2024, Whats the Best VirtualDub Alternative? Discover the Top Contenders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/preventing-dragon-age-origins-from-crashing-on-your-windows-10-machine-a-step-by-step-guide/"><u>Preventing Dragon Age: Origins From Crashing on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tame-your-browser-overload-top-tips-to-optimize-chromes-cpu-and-memory-usage/"><u>Tame Your Browser Overload: Top Tips to Optimize Chrome's CPU and Memory Usage</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-blu-ray-and-dvd-players-the-ultimate-selection/"><u>Top Rated Blu-Ray & DVD Players : The Ultimate Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-brand-your-youtube-channel-to-get-more-subscribers-for-2024/"><u>[New] How to Brand Your YouTube Channel to Get More Subscribers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-emoji-mastery-for-engaging-youtube-discussions/"><u>[New] In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs/"><u>[Updated] 2024 Approved Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-social-media-synergy-merging-instagram-and-facebook-feeds/"><u>[Updated] In 2024, Social Media Synergy Merging Instagram & Facebook Feeds</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/automated-data-tracking-with-cutting-edge-cookiebot-technology/"><u>Automated Data Tracking with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/become-a-zoom-screenshare-pro-in-minutes/"><u>Become a Zoom Screenshare Pro in Minutes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/como-borrar-con-seguridad-el-archivo-windowsold-en-windows-11-sin-problemas-tres-estrategias-recomendadas/"><u>Cómo Borrar Con Seguridad El Archivo 'Windows.old' En Windows 11 Sin Problemas: Tres Estrategias Recomendadas</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/den-grund-fur-das-wiederholte-verschwinden-ihres-usb-sticks-erkennen/"><u>Den Grund Für Das Wiederholte Verschwinden Ihres USB-Sticks Erkennen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-securely-backup-your-laptop-data-to-an-external-hdd-on-windows-windows-1187/"><u>How to Securely Backup Your Laptop Data to an External HDD on Windows [Windows 11/8/7]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x6-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X6 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reinitialisation-vraie-du-demarrage-pour-windows-server-2016-2-techniques-efficaces-testees/"><u>Réinitialisation Vraie Du Démarrage Pour Windows Server 2016 | 2 Techniques Efficaces Testées</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-issues-with-creating-server-backup-snap-in-on-windows-server-through-microsoft-management-console/"><u>Resolving Issues with Creating Server Backup Snap-In on Windows Server Through Microsoft Management Console</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/schritt-fur-schritt-anleitung-zum-datentransfer-zwischen-zwei-microsd-karten/"><u>Schritt-Für-Schritt-Anleitung Zum Datentransfer Zwischen Zwei MicroSD-Karten</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-youtube-content-onto-insta-feed-for-2024/"><u>Streamlining YouTube Content Onto Insta Feed for 2024</u></a></li>
 </ul></div>
 

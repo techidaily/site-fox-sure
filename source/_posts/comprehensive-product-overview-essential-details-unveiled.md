@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Product Overview: Essential Details Unveiled"
-date: 2024-10-08T03:24:25.794Z
-updated: 2024-10-11T06:13:38.779Z
+date: 2024-10-14T20:03:33.476Z
+updated: 2024-10-16T23:40:52.491Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 The interface is designed to allow the user to set project name, version, and publisher just like in the user interface of Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ The interface is designed to allow the user to set project name, version, and pu
 IProductDetails : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -149,22 +149,22 @@ IProductDetails : IDispatch
 ![Product details](https://cdn.advancedinstaller.com/img/powershell-automation/product-details.png "Product details")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
 
 **SetIcon(String IConSourceFile, UINT IconIndex)**Sets the product icon.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -209,22 +209,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-10-proven-steps-to-skyrocket-traffic-via-facebook-videos/"><u>[New] 2024 Approved 10 Proven Steps to Skyrocket Traffic via Facebook Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>[New] Perfect Pitch in Words Crafting Captivating Podcast Episodes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>[Updated] Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skyrocket-your-game-with-these-7-14-stardew-mods/"><u>[Updated] In 2024, Skyrocket Your Game with These #7-14 Stardew Mods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-streamline-video-calls-using-google-hangouts-efficiently-for-2024/"><u>[Updated] Streamline Video Calls Using Google Hangouts Efficiently for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-strategizing-effective-movie-sneak-peeks/"><u>2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/battle-of-the-titans-an-in-depth-analysis-of-apple-music-vs-google-play-music-for-ultimate-sound-experience/"><u>Battle of the Titans: An In-Depth Analysis of Apple Music Vs. Google Play Music for Ultimate Sound Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-drag-and-drop-file-upload-feature/"><u>Easy Drag & Drop File Upload Feature</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/establishing-connections-with-virtual-machine-profiles-step-by-step-tips-and-tricks/"><u>Establishing Connections with Virtual Machine Profiles: Step-by-Step Tips and Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-the-configuration-options-in-the-activex-properties-dialog-box/"><u>Exploring the Configuration Options in the ActiveX Properties Dialog Box</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/free-online-ebook-convertor-transforming-rtf-into-portable-document-format-epub/"><u>Free Online eBook Convertor: Transforming RTF Into Portable Document Format (EPUB)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-converting-myvideo-downloads-into-mp3s-for-offline-listening/"><u>Guide: Converting MyVideo Downloads Into MP3s for Offline Listening</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-register-a-font-file-on-your-website-with-ease/"><u>How to Register a Font File on Your Website with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-k11x-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo K11x to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-syncing-your-iphone-with-hisense-television/"><u>Step-by-Step Guide: Syncing Your iPhone with Hisense Television</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-ultimate-selection-7-premier-screen-reflector-applications-for-smartphones-and-tablets-iosandroid/"><u>The Ultimate Selection: 7 Premier Screen Reflector Applications for Smartphones and Tablets (iOS/Android)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-instagrams-guide-to-intellectual-property-in-music/"><u>[New] In 2024, Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tools-and-gear-for-crafting-vlogs/"><u>[New] Tools & Gear for Crafting Vlogs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>[Updated] 2024 Approved Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/5-techniques-simples-pour-deplacer-des-fichiers-de-videos-lourds-sur-votre-iphone-vers-un-ordinateur/"><u>5 Techniques Simples Pour Déplacer Des Fichiers De Vidéos Lourds Sur Votre iPhone Vers Un Ordinateur</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/modmp4movavi/"><u>將MOD文件自動降級成MP4格式：優質無料移行器，歡迎使用Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oneplus-12-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus 12? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-steps-to-master-eee-pad-repair-and-troubleshooting-techniques/"><u>Easy Steps to Master Eee Pad Repair & Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/einfache-schritte-zur-installation-und-entfernung-von-anwendungen/"><u>Einfache Schritte Zur Installation Und Entfernung Von Anwendungen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-6-best-voice-changers-for-chromebook-deserve-a-try-filmora/"><u>New In 2024, 6 Best Voice Changers for Chromebook Deserve a Try - Filmora</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ssd-migration-tutorial-transferring-hard-drive-data-to-an-ssd-on-windows-11/"><u>SSD Migration Tutorial: Transferring Hard Drive Data to an SSD on Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/vsphere-essentials-a-detailed-tutorial-on-setting-up-enhanced-linked-mode-in-vmware-vcenter-7/"><u>VSphere Essentials: A Detailed Tutorial on Setting up Enhanced Linked Mode in VMware vCenter 7</u></a></li>
 </ul></div>
 

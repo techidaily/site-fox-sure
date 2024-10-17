@@ -1,7 +1,7 @@
 ---
 title: "Understanding Collective Structures: An Insight Into Group Theoretical Approaches"
-date: 2024-10-08T18:22:11.006Z
-updated: 2024-10-10T21:36:14.984Z
+date: 2024-10-10T05:14:00.615Z
+updated: 2024-10-17T07:18:42.626Z
 tags:
   - user-guide
 categories:
@@ -80,51 +80,57 @@ General information about the group.
 ![Group properties](https://cdn.advancedinstaller.com/img/ui/group-properties.png "Group properties")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Description
 
  Remarks associated with the group.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fail if the group already exists
 
 The installation process is terminated if the defined group already exists on the target machine.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skip group creation if the group already exists
 
 If the defined group is already present on the target machine, selecting this options ensures the group creation operation is skipped and the installation process will continue.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Condition
@@ -164,24 +170,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-cheapest-way-designing-successful-youtube-ad-campaigns/"><u>[New] The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[Updated] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/complete-guide-how-to-restore-lost-or-deleted-content-on-your-ipod/"><u>Complete Guide: How to Restore Lost or Deleted Content on Your iPod</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/de-top-6-alternatieve-videoprogrammas-voor-pc-zoen-je-keuze-naast-imovie/"><u>De Top 6 Alternatieve Videoprogramma's Voor PC: Zoen Je Keuze Naast iMovie</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/enhancing-user-engagement-with-cookiebot-technology/"><u>Enhancing User Engagement with Cookiebot Technology</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/exploring-settings-in-the-module-package-tab/"><u>Exploring Settings in the Module Package Tab</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-move-videos-from-your-iphone-to-a-mac-computer-a-comprehensive-guide/"><u>How to Move Videos From Your iPhone to a Mac Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-iservice-control-processes-effective-strategies-and-tips/"><u>Optimizing IService Control Processes: Effective Strategies and Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/resetting-windows-11-from-scratch-a-step-by-step-tutorial/"><u>Resetting Windows 11 From Scratch: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-on-recovering-deleted-information-from-your-iphone/"><u>Step-by-Step Guide on Recovering Deleted Information From Your iPhone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-tips-for-capturing-stunning-photos-perfect-for-your-poshmark-listings/"><u>Top Tips for Capturing Stunning Photos Perfect for Your Poshmark Listings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-choosing-the-most-effective-software-to-elevate-your-photography/"><u>Ultimate Guide: Choosing the Most Effective Software to Elevate Your Photography</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-ienvironmentvariable-a-guide-to-effective-usage-and-best-practices/"><u>Understanding IEnvironmentVariable: A Guide to Effective Usage and Best Practices</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-activex-controls-settings-pane/"><u>Understanding the ActiveX Controls Settings Pane</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-comparison-adobe-storage-vs-non-adobe-options/"><u>[New] 2024 Approved The Ultimate Comparison Adobe Storage Vs. Non-Adobe Options</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-beginners-guide-to-using-siri-in-your-tiktok-videos/"><u>[New] A Beginner's Guide to Using Siri in Your TikTok Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-literary-book-trailers/"><u>[New] Captivating Literary Book Trailers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-design-dynamics-top-20-font-choices-for-youtube-success/"><u>[Updated] Design Dynamics Top 20 Font Choices for YouTube Success</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728510298900-pc/"><u>「ブルースクリーンが頻発してPCのリセットが必要な場合、解決策とその手順」</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/office-n365/"><u>高效储存Office N365共用邮箱中已送达邮件: 一步到位解决方案</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/5aac5l2v5zue5asn5lin5bcp5bplusd5yig6zmk55qe5b6u5lplush576k6igk5asp6k6w5b2v77yf/"><u>如何回复不小心删除的微信群聊天记录？</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/automatisches-backup-mit-microsoft-outlook-201n-eine-schritt-fur-schritt-anleitung/"><u>Automatisches Backup Mit Microsoft Outlook 201N: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-strategies-for-safeguarding-your-applications-a-tutorial-on-protecting-installations-in-various-versions-of-windows/"><u>Effective Strategies for Safeguarding Your Applications: A Tutorial on Protecting Installations in Various Versions of Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-10-drone-fleet-for-professional-photos-and-films/"><u>Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-garrys-mod-ultimate-guide-to-preventing-game-crashes-in-22024/"><u>Fixing Garry's Mod: Ultimate Guide to Preventing Game Crashes in 2^2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-analysis-how-showmore-enhances-your-video-capture-techniques/"><u>In 2024, Expert Analysis How ShowMore Enhances Your Video Capture Techniques</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nubia-red-magic-8s-proplus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nubia Red Magic 8S Pro+ Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-5-ersatzprodukte-fur-syncplicity-die-sichersten-und-zuverlassigsten-optionen/"><u>Top 5 Ersatzprodukte Für Syncplicity: Die Sichersten Und Zuverlässigsten Optionen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferir-datos-de-un-clonico-hd-de-1-tb-a-una-velocizadora-ssd-de-500-gb-con-seguridad-un-proceso-sencillo-en-4-pasos/"><u>Transferir Datos De Un Clónico HD De 1 TB a Una Velocizadora SSD De 500 GB Con Seguridad: Un Proceso Sencillo en 4 Pasos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-se-2022-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone SE (2022)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728465893363-windows-114/"><u>Windows 11で消失した画像や写真を4つの手段で回復するコツ</u></a></li>
 </ul></div>
 

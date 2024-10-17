@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Java Launchers: A Guide to Property Files on macOS Systems"
-date: 2024-10-03T19:55:05.583Z
-updated: 2024-10-10T23:53:23.424Z
+date: 2024-10-12T18:10:18.114Z
+updated: 2024-10-17T11:50:48.964Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 ![Conditional Levels Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-macos-properties.png "Conditional Levels Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -95,10 +95,10 @@ Table of Contents
 In addition to the predefined options, this dialog allows you to specify any other property that should be added to the Mac OS application configuration file (Info.plist).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding new properties
@@ -108,10 +108,10 @@ Use the \[New Sibling \] button to create a new property/value pair.
 Use the \[New Child \] button to create a new property/value pair as a child of the selected “dict” or “array” property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit a property
@@ -125,10 +125,10 @@ During editing use:
 * Tab, Up andDown keys to continue editing other items.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a property
@@ -168,20 +168,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-animators-odyssey-crafting-your-own-fx-realm-for-2024/"><u>[New] The Animator's Odyssey Crafting Your Own FX Realm for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-punpixel-digital-comedy-design-tool/"><u>2024 Approved PunPixel Digital Comedy Design Tool</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-6s-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 6s Without Apple ID Password?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-users-guide-effortlessly-recording-impeccable-sounds-for-no-cost/"><u>Mac Users' Guide: Effortlessly Recording Impeccable Sounds for No Cost</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ize-youtube-traffic-select-best-rankers-explained/"><u>Optimize YouTube Traffic Select Best Rankers Explained</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-windows-understanding-report-generation-and-analysis/"><u>The Art of Windows Understanding: Report Generation & Analysis</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-merger-of-tech-titans-facebook-and-rust-unite/"><u>The Merger of Tech Titans: Facebook and Rust Unite</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-vlc-trimmer-the-best-way-to-shorten-videos-without-sacrificing-quality-for-2024/"><u>Updated Mac VLC Trimmer The Best Way to Shorten Videos Without Sacrificing Quality for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hotosculptor-kit/"><u>[New] PhotoSculptor Kit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-swiftly-remove-live-videos-on-social-platforms/"><u>[Updated] In 2024, Swiftly Remove Live Videos on Social Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-rapid-snapshot-sound-infused-display/"><u>[Updated] Rapid Snapshot Sound-Infused Display</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-11-list-streaming-audio-recorders-uncovered/"><u>[Updated] Ultimate #11 List Streaming Audio Recorders Uncovered</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-seamless-guide-transferring-your-tunes-from-icloud-directly-to-desktop/"><u>1. Seamless Guide: Transferring Your Tunes From iCloud Directly to Desktop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-picshot-transforms-mixed-media-into-masterpieces/"><u>2024 Approved How Picshot Transforms Mixed Media Into Masterpieces</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728498127685-usb/"><u>外付けUSBメモリーデバイスの効率的フォーマットテクニック解析</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/aomei-backupper-step-by-step-guide-to-professional-disk-backup-with-aomei-backupper/"><u>AOMEI Backupper:專業硬碟備份步驟解析 - Step-by-Step Guide to Professional Disk Backup with AOMEI Backupper</u></a></li>
+<li><a href="https://media-tips.techidaily.com/decoding-audio-file-types-understanding-the-distinct-characteristics-of-aiff-wav-flac-and-alac/"><u>Decoding Audio File Types: Understanding the Distinct Characteristics of AIFF, WAV, FLAC & ALAC</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/efficient-strategies-for-archiving-your-sql-server-data-on-a-network-attached-storage-device/"><u>Efficient Strategies for Archiving Your SQL Server Data on a Network Attached Storage Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/explore-the-new-update-in-notepadplusplus-whats-changed/"><u>Explore the New Update in Notepad++ - What's Changed?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/get-started-with-aomei-centralized-backupper-free-guide-on-downloading-windows-platform-enabler-pe-software/"><u>Get Started with AOMEI Centralized Backupper: Free Guide on Downloading Windows Platform Enabler (PE) Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-detaille-clonage-dun-disque-pc-portable-vers-hdd-ou-ssd/"><u>Guide Détaillé : Clonage D'un Disque PC Portable Vers HDD Ou SSD</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/losung-des-problems-unerwarteter-neustart-wahrend-der-windows-installation/"><u>Lösung Des Problems: Unerwarteter Neustart Während Der Windows-Installation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-online-vertical-video-editing-software/"><u>The Ultimate List of Online Vertical Video Editing Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tipi-di-backup-incrementale-differenziale-e-complete-su-windows-server/"><u>Tipi Di Backup: Incrementale, Differenziale E Complete Su Windows Server</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-essential-chatbot-tools-boosting-health-and-well-being/"><u>Top 8 Essential Chatbot Tools Boosting Health & Well-Being</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/15hddssd/"><u>デル・インスピロン15でHDDをSSDにアップグレードする詳細な手順</u></a></li>
 </ul></div>
 

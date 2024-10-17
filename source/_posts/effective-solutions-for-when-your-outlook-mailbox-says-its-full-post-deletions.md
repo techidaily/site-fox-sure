@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for When Your Outlook Mailbox Says It's Full Post-Deletions
-date: 2024-10-09T02:41:53.747Z
-updated: 2024-10-11T03:27:26.578Z
+date: 2024-10-10T20:08:37.223Z
+updated: 2024-10-16T18:30:39.982Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3bf7e355bd7f5437be375738.jpg
@@ -61,6 +61,13 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -90,10 +97,16 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -104,13 +117,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +126,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -147,10 +153,16 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -182,19 +194,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -212,18 +224,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-web-comedy-architect/"><u>[New] In 2024, Web Comedy Architect</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-audio-capture-made-easy-in-windows-10-for-2024/"><u>[Updated] Audio Capture Made Easy in Windows 10 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[Updated] From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-edit-titles-and-descriptions-of-igtv-videos-for-2024/"><u>[Updated] How to Edit Titles and Descriptions of IGTV Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bringing-your-ideas-to-life-vo-plus-ppt-perfection/"><u>[Updated] In 2024, Bringing Your Ideas to Life VO + PPT Perfection</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/free-reactive-dashboard-with-material-ui-and-argon-themes-enhance-your-web-projects-using-creative-tim-tools/"><u>Free Reactive Dashboard with Material UI & Argon Themes - Enhance Your Web Projects Using Creative Tim Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphones-icloud-photos-when-they-wont-update-anymore/"><u>How to Fix Your iPhone's iCloud Photos When They Won't Update Anymore</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/laravel-and-vuejs-combined-for-a-powerful-ui-dashboard-design-by-updivision-and-creative-tim/"><u>Laravel and Vue.js Combined for a Powerful UI Dashboard Design by Updivision & Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/master-your-ui-with-the-nextjs-material-kit-pro-suite-from-creative-tim-elevate-your-nextjs-projects-today/"><u>Master Your UI with the NextJS Material Kit Pro Suite From Creative Tim – Elevate Your NextJS Projects Today!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premiere-vuejs-bootstrap-4-admin-dashboard-unleash-creativity-with-vue-black-pro-by-creative-tim/"><u>Premiere Vuejs Bootstrap 4 Admin Dashboard: Unleash Creativity with Vue Black Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/premium-bootstrap-5-components-pack-for-agile-ui-development-no-cost-by-creative-tim/"><u>Premium Bootstrap 5 Components Pack for Agile UI Development - No Cost, by Creative Tim</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/professional-paper-dashboard-2-pro-elite-bootstrap-section-0/"><u>Professional Paper Dashboard 2 PRO: Elite Bootstrap # Section 0</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993070913-say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-augmented-gaming-experience-the-top-8-list/"><u>[New] Augmented Gaming Experience The Top 8 List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-safeguarding-sound-quality-while-speeding-up-tracks/"><u>[New] In 2024, Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[New] Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-steps-para-inicializar-windows-11-desde-un-disco-duro-portatil/"><u>Easy Steps Para Inicializar Windows 11 Desde Un Disco Duro Portátil</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-13-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>In 2024, Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/losungen-zur-wiederherstellung-fehlender-pdfmaker-dokumente-top-5-strategien/"><u>Lösungen Zur Wiederherstellung Fehlender PDFMaker-Dokumente: Top 5 Strategien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ontwerpen-en-herstellen-van-hoe-diskettenpartitionen-in-windows-11-evenals-behandeling-beschadigde-arealen/"><u>Ontwerpen en Herstellen Van Hoe-Diskettenpartitionen in Windows 11, Evenals Behandeling Beschadigde Arealen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/paso-a-paso-para-refrescar-tu-pc-con-windows-11-una-guia-completa-de-actualizaciones-de-sistema-operativo/"><u>Paso a Paso Para Refrescar Tu PC Con Windows 11: Una Guía Completa De Actualizaciones De Sistema Operativo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/smart-eco-friendly-screen-tech-compilation-for-2024/"><u>Smart, Eco-Friendly Screen Tech Compilation for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/strategies-simples-pour-linitialisation-securisee-dun-disque-dur-sans-data-loss/"><u>Stratégies Simples Pour L'Initialisation Sécurisée D'un Disque Dur Sans Data Loss.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/trouver-des-solutions-pour-la-restauration-de-windows-server-2012-r2-perdues/"><u>Trouver Des Solutions Pour La Restauration De Windows Server 2012 (R2) Perdues</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/western-digital-vs-seagate/"><u>Western Digital vs Seagate: パーティション対決！どちらがお求めですか？</u></a></li>
+<li><a href="https://win-lab.techidaily.com/winning-back-accidentally-deleted-files-in-windows-11-using-myrecover/"><u>Winning Back Accidentally Deleted Files in Windows 11 Using MyRecover</u></a></li>
 </ul></div>
 

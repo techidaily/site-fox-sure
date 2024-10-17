@@ -1,7 +1,7 @@
 ---
 title: Building a Personalized Docker Repackaging Container Image Guide
-date: 2024-10-04T02:25:46.590Z
-updated: 2024-10-10T20:02:52.210Z
+date: 2024-10-10T17:49:05.566Z
+updated: 2024-10-17T02:28:59.614Z
 tags:
   - user-guide
 categories:
@@ -61,10 +61,10 @@ This wizard allows you to create a docker image for the Repackager.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to repackage in Docker containers, you have to create a Docker image designed for the repackaging process, starting from an existing image. This wizard will allow you to achieve this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Select an existing Docker image
@@ -80,10 +80,10 @@ This list contains all the local Docker images.
 This list contains recommended external images.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Building the Repackager Docker image
@@ -93,10 +93,10 @@ Staring from the selected base image, the Repackager creates a new, specially de
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)All the Repackager Docker images will be displayed under "Start in Docker" button from Advanced Repackager toolbar and one can be selected for running the repackaging process.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -132,19 +132,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[Updated] In 2024, Perfecting Profiles How to Embed Linktree on TikTok Seamlessly</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-seamless-screen-mirroring-transfer-your-samsung-smartphone-display-onto-any-tv/"><u>1. Seamless Screen Mirroring: Transfer Your Samsung Smartphone Display Onto Any TV</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/7-effective-techniques-to-insert-captions-into-your-reel-videos/"><u>7 Effective Techniques to Insert Captions Into Your Reel Videos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transcribe-videos-top-tools-compared/"><u>Effortlessly Transcribe Videos: Top Tools Compared</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-disk-read-failure-instantly/"><u>Fixing Windows Disk Read Failure Instantly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>In 2024, Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Honor Magic 5 Lite</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-removing-a-white-canvas-backdrop-in-adobe-photoshop/"><u>Step-by-Step Guide: Removing a White Canvas Backdrop in Adobe Photoshop</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-geforce-experience-from-failing-windows-guide/"><u>Stop GeForce Experience From Failing: Windows Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-10-video-calls-software-compared-side-by-side-for-2024/"><u>Top 10 Video Calls Software Compared Side by Side for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-dvd-converter-software-from-imovie-ripper-perfect-tool-for-seamless-dvds-to-imovie-transfers/"><u>Top DVD Converter Software From iMovie Ripper - Perfect Tool for Seamless DVDs-to-iMovie Transfers</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/types-of-merged-projects-an-in-depth-guide/"><u>Types of Merged Projects: An In-Depth Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-audio-archive-a-curated-list-of-top-6-free-music-downloading-apps/"><u>[New] 2024 Approved Android Audio Archive A Curated List of Top 6 Free Music Downloading Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dos-and-donts-in-night-portraits/"><u>2024 Approved Dos and Don'ts in Night Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-impressive-array-of-mobile-text-options/"><u>2024 Approved Impressive Array of Mobile Text Options</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/die-einfachste-methode-pdf-konvertierung-iphone-zu-ipad-uber-vier-ansatze/"><u>Die Einfachste Methode: PDF-Konvertierung iPhone Zu iPad Über Vier Ansätze</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-switching-chats-a-guide-to-relocating-conversations-between-iphone-and-iphone-se/"><u>Effortlessly Switching Chats: A Guide to Relocating Conversations Between iPhone and iPhone SE</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-aerial-photos-a-deep-dive-into-dji-sparks-mini-marvel/"><u>In 2024, Exploring Aerial Photos A Deep Dive Into DJI Spark's Mini Marvel</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728506261130-pc/"><u>PC初期化前のアプリケーション無効化手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/premiere-promp3wav/"><u>Premiere ProでMP3、WAV用に音声のみを書き起こす手段</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-strategies-for-efficiently-backing-up-your-asus-notebook-on-windows-11/"><u>Top Strategies for Efficiently Backing Up Your ASUS Notebook on Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-strategies-for-preserving-past-correspondence-in-microsoft-outlook-the-definitive-walkthrough/"><u>Ultimate Strategies for Preserving Past Correspondence in Microsoft Outlook - The Definitive Walkthrough</u></a></li>
 </ul></div>
 

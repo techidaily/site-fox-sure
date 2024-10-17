@@ -1,7 +1,7 @@
 ---
 title: "Tab Settings for System Initialization: Understanding the Essentials"
-date: 2024-10-07T04:03:27.997Z
-updated: 2024-10-10T22:38:28.409Z
+date: 2024-10-11T19:53:42.238Z
+updated: 2024-10-17T10:44:18.501Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These launch conditions are per build, therefore they must be specified for each defined build. By default when a new build is created there are no launch conditions enabled for it. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Supported Operating Systems
@@ -89,13 +89,6 @@ Predefined conditions that must be fulfilled in order to launch the installation
  Restricts the install package to run only on the selected Operating Systems. If the target operating system version is not equal with the accepted versions, the installation is aborted and an appropriate message is displayed.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows Installer
 
@@ -106,10 +99,10 @@ Edit this field with the minimum [Windows Installer](https://tools.techidaily.co
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Requirements
@@ -132,16 +125,23 @@ Add system-related launch conditions to your package. The available options are:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Package
@@ -183,18 +183,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-adapting-your-favorite-songs-from-spotify-to-youtube-music-service/"><u>[Updated] Adapting Your Favorite Songs From Spotify to YouTube Music Service</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[Updated] In 2024, Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-simplifying-the-process-sharing-tiktok-content-with-facebook-for-2024/"><u>[Updated] Simplifying the Process Sharing TikTok Content with Facebook for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/bespoke-operations-checklist-craft-your-unique-process-flow/"><u>Bespoke Operations Checklist – Craft Your Unique Process Flow</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-the-top-3-free-substitutes-for-itunes-on-ios-devices/"><u>Discover the Top 3 Free Substitutes for iTunes on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-guide-connecting-your-zoom-call-with-smart-tv/"><u>Easy Guide: Connecting Your Zoom Call with Smart TV</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/flac-audio-streaming-a-comprehensive-guide-for-android-users/"><u>FLAC Audio Streaming: A Comprehensive Guide for Android Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-15-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-teamwork-advanced-options-for-joint-file-storage-and-exchange/"><u>Secure Teamwork: Advanced Options for Joint File Storage and Exchange</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-jigsaw-ransomware-identification-and-prevention-tips-cyberguardian/"><u>Understanding Jigsaw Ransomware: Identification & Prevention Tips - CyberGuardian</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-environment-settings-panel/"><u>Understanding the Environment Settings Panel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-tip-8-key-sites-to-harvest-free-eco-friendly-filming-backdrops-for-2024/"><u>[Updated] Pro Tip! 8 Key Sites to Harvest FREE Eco-Friendly Filming Backdrops for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-lighting-tweaks-to-elevate-road-safety-and-performance/"><u>5 Lighting Tweaks to Elevate Road Safety and Performance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/a-quantum-leap-in-photography-meet-the-cutting-edge-photo-restoration-innovation-by-stellarian-enterprises/"><u>A Quantum Leap in Photography: Meet the Cutting-Edge Photo Restoration Innovation by Stellarian Enterprises!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/g-into-mr-beasts-cash-flow/"><u>Diving Into Mr. Beast's Cash Flow</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-and-save-groove3-classes-as-high-quality-mp4-files-instantly/"><u>Download and Save Groove3 Classes as High-Quality MP4 Files Instantly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-file-migration-top-5-methods-for-seamlessly-shifting-data-from-your-vintage-computer-to-a-modern-machine/"><u>Effortless File Migration: Top 5 Methods for Seamlessly Shifting Data From Your Vintage Computer to a Modern Machine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-v27-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo V27 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/insaisissable-les-disques-durs-externes-manquent-a-lappel-sur-votre-pc-avec-windows-1011-decouvrez-ces-8-astuces-de-reparation-pour-le-resoudre/"><u>Insaisissable : Les Disques Durs Externes Manquent À L'appel Sur Votre PC Avec Windows 10/11 - Découvrez Ces 8 Astuces De Réparation Pour Le Résoudre!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-caption-retrieval-discover-four-effective-ways-to-get-subtitles-out-of-mkv-videos/"><u>Master the Art of Caption Retrieval: Discover Four Effective Ways to Get Subtitles Out of MKV Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-saving-your-windows-server-2012-r2s-current-state/"><u>Step-by-Step Guide: Saving Your Windows Server 2012 R2's Current State</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-performance-top-windows-11-strategies-for-2024/"><u>Unlocking Performance Top Windows 11 Strategies for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/msaaadtk-alshfafa-linshala-windoz-11-aal-krs-ssd-gdyd-2-asalyb-koya/"><u>مساعدتك الشفافة لإنشالة Windoz 11 على قرص SSD جديد: 2 أساليب قوية</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728472173143-aomei-backupper/"><u>データ保護：AOMEI Backupperで信頼性の高いディスククローニング方法</u></a></li>
 </ul></div>
 
