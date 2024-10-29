@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Promotion in 2011: Optimal Scheduling & Distribution with MassMail Suite"
-date: 2024-10-17T18:16:43.338Z
-updated: 2024-10-23T03:24:27.959Z
+date: 2024-10-22T17:27:28.416Z
+updated: 2024-10-28T22:17:41.165Z
 tags:
   - product
 categories:
@@ -32,6 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -43,13 +50,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -69,6 +69,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -77,23 +84,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -104,41 +97,47 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,6 +146,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,19 +173,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-make-an-impact-with-these-exceptional-tiktok-font-generators-of-the-year/"><u>[Updated] In 2024, Make an Impact with These Exceptional TikTok Font Generators of the Year</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-revel-in-these-14-enthralling-text-based-movements-for-2024/"><u>[Updated] Revel in These 14 Enthralling Text-Based Movements for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-xtreme-old-phone-photos-the-ultimate-archive-for-2024/"><u>[Updated] Xtreme Old Phone Photos – The Ultimate Archive for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5asx6lmk5pu457gk5zwp6agm55qe56ul5y2z6kej5rg65pa55rov/"><u>失蹤書籤問題的立即解決方法</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-seek-help-fast/"><u>Canon Printer: Unresponsive, Seek Help Fast</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/explorez-les-solutions-de-sauvegarde-parlantes-pour-ssd-samsung-t7-les-options-superieures-et-performantes/"><u>Explorez Les Solutions De Sauvegarde Parlantes Pour SSD Samsung T7 : Les Options Supérieures Et Performantes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/problematische-datentragerwiederherstellung-kein-punkt-moglich-entdecken-sie-hier-die-drei-effektivsten-losungen/"><u>Problematische Datenträgerwiederherstellung: Kein Punkt Möglich! Entdecken Sie Hier Die Drei Effektivsten Lösungen!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-simple-guide-erasing-the-recovery-partition-on-windows-11-using-two-methods/"><u>Quick and Simple Guide: Erasing the Recovery Partition on Windows 11 Using Two Methods</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transform-your-email-ctas-in-4-easy-steps-unlock-successful-strategies-and-tricks-using-massmail/"><u>Transform Your Email CTAs in 4 Easy Steps - Unlock Successful Strategies & Tricks Using Massmail!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-persistent-program-crashes-on-desktop-systems-with-these-n-proven-solutions/"><u>Troubleshoot Persistent Program Crashes on Desktop Systems with These N Proven Solutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/asusf9/"><u>アサスノートパソコンが始動しない? 簡単なAsus回復キーF9の使用ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-quick-video-insights-the-essentials/"><u>[New] 2024 Approved Quick Video Insights The Essentials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>[New] Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/access-device-manager-on-your-windows-11-computer-and-check-if-there-are-any-yellow-exclamation-marks-next-to-universal-serial-bus-controllers-if-present-ri634/"><u>Access Device Manager on Your Windows 11 Computer and Check if There Are Any Yellow Exclamation Marks Next to Universal Serial Bus Controllers. If Present, Right-Click and Choose 'Update Driver' Or 'Uninstall Device,' Then Disconnect/Reconnect the Tozo T6.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/all-in-one-user-friendly-laptop-data-protection-program-perfect-for-any-device/"><u>All-in-One User-Friendly Laptop Data Protection Program - Perfect for Any Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chortle-curators-humor-hunt/"><u>Chortle Curators Humor Hunt</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-steps-for-expanding-storage-on-windows-without-a-full-os-install/"><u>Easy Steps for Expanding Storage on Windows without a Full OS Install</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-fb-video-experience-with-fastest-extensions-and-tools/"><u>Elevate Your FB Video Experience with Fastest Extensions and Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-securely-wiping-data-and-factory-reinitializing-your-windows-11-tablet-by-skipping-passcode/"><u>Guide: Securely Wiping Data and Factory Reinitializing Your Windows 11 Tablet by Skipping Passcode</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 7 Plus</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/page-unavailable-the-ultimate-guide-on-handling-404-errors/"><u>Page Unavailable: The Ultimate Guide on Handling 404 Errors</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/regular-monitoring-is-essential-to-maintain-system-performance-over-time/"><u>Regular Monitoring Is Essential to Maintain System Performance over Time.</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reinitialisation-du-systeme-dexploitation-windows-via-invite-de-commande-pour-les-versions-11-10-8-et-7/"><u>Réinitialisation Du Système D’Exploitation Windows via Invite De Commande Pour Les Versions 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reinitialisation-vraie-du-demarrage-pour-windows-server-2016-2-techniques-efficaces-testees/"><u>Réinitialisation Vraie Du Démarrage Pour Windows Server 2016 | 2 Techniques Efficaces Testées</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/schritt-fur-schritt-anleitung-zum-herunterladen-von-yahoo-emails-auf-deinen-computer-4-methoden/"><u>Schritt-Für-Schritt-Anleitung Zum Herunterladen Von Yahoo Emails Auf Deinen Computer (4 Methoden)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sicherung-von-partitionen-als-bildebene-in-windows-10-8-und-7-zwei-effiziente-methoden/"><u>Sicherung Von Partitionen Als Bildebene in Windows 10, 8 Und 7 - Zwei Effiziente Methoden</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sql-server-2012-express-simple-guide-to-automating-database-backups/"><u>SQL Server 2012 Express: Simple Guide to Automating Database Backups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-star-wars-galaxies-the-old-republic-swtor-initialization-failures/"><u>Successfully Resolving Star Wars Galaxies The Old Republic (SWTOR) Initialization Failures</u></a></li>
 </ul></div>
 
