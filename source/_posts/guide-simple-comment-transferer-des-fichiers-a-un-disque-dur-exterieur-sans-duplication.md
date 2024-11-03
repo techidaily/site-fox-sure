@@ -1,7 +1,7 @@
 ---
 title: "Guide Simple: Comment Transférer Des Fichiers À Un Disque Dur Extérieur Sans Duplication"
-date: 2024-10-25T23:56:54.952Z
-updated: 2024-10-28T21:50:08.507Z
+date: 2024-11-02T19:03:46.048Z
+updated: 2024-11-03T16:06:26.436Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/289e1b59f873ec0dc8305b0281292ab73fb1d9fdd29063def94d2427e3383ad3.jpg
@@ -50,10 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -75,6 +75,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -113,10 +120,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -177,6 +184,13 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -197,13 +211,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -217,6 +224,13 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -238,13 +252,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -255,13 +262,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,14 +270,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,20 +294,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update-for-2024/"><u>[New] How to Use Android Phones in Watching VR or 360 Videos -2023 Update for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-masterclass-uploading-without-complications-on-social-media-for-2024/"><u>[New] Masterclass Uploading Without Complications on Social Media for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-expert-choices-for-terraria/"><u>[Updated] 2024 Approved Top 10 Expert Choices for Terraria</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-installer-et-utiliser-handbrake-sur-windows-7-8-10-ou-vista/"><u>Comment Installer Et Utiliser Handbrake Sur Windows 7, 8, 10 Ou Vista</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/como-borrar-con-seguridad-el-archivo-windowsold-en-windows-11-sin-problemas-tres-estrategias-recomendadas/"><u>Cómo Borrar Con Seguridad El Archivo 'Windows.old' En Windows 11 Sin Problemas: Tres Estrategias Recomendadas</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/den-grund-fur-das-wiederholte-verschwinden-ihres-usb-sticks-erkennen/"><u>Den Grund Für Das Wiederholte Verschwinden Ihres USB-Sticks Erkennen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-steps-for-expanding-storage-on-windows-without-a-full-os-install/"><u>Easy Steps for Expanding Storage on Windows without a Full OS Install</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-oppo-find-x7-ultra-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Find X7 Ultra to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-play-advanced-techniques-to-resolve-sims-4-lags-on-pc-2024-insights/"><u>Mastering Smooth Play: Advanced Techniques to Resolve Sims #4 Lags on PC (2024 Insights)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-g42-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia G42 5G.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/reinitialisation-vraie-du-demarrage-pour-windows-server-2016-2-techniques-efficaces-testees/"><u>Réinitialisation Vraie Du Démarrage Pour Windows Server 2016 | 2 Techniques Efficaces Testées</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-issues-with-creating-server-backup-snap-in-on-windows-server-through-microsoft-management-console/"><u>Resolving Issues with Creating Server Backup Snap-In on Windows Server Through Microsoft Management Console</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schritt-fur-schritt-anleitung-zum-datentransfer-zwischen-zwei-microsd-karten/"><u>Schritt-Für-Schritt-Anleitung Zum Datentransfer Zwischen Zwei MicroSD-Karten</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/sql-server-2012-express-simple-guide-to-automating-database-backups/"><u>SQL Server 2012 Express: Simple Guide to Automating Database Backups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-the-power-of-live-videos-on-facebook/"><u>[New] Unlock the Power of Live Videos on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-your-technique-how-to-on-overwatch-audio-recordings-for-2024/"><u>[Updated] Perfect Your Technique How-To on Overwatch Audio Recordings for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728510298900-pc/"><u>「ブルースクリーンが頻発してPCのリセットが必要な場合、解決策とその手順」</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/automatisches-backup-mit-microsoft-outlook-201n-eine-schritt-fur-schritt-anleitung/"><u>Automatisches Backup Mit Microsoft Outlook 201N: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-strategies-for-safeguarding-your-applications-a-tutorial-on-protecting-installations-in-various-versions-of-windows/"><u>Effective Strategies for Safeguarding Your Applications: A Tutorial on Protecting Installations in Various Versions of Windows</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhanced-traffic-with-cookiebot-technology-boost-your-sites-performance/"><u>Enhanced Traffic with Cookiebot Technology: Boost Your Site's Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-blaming-luck-in-wow-tackle-game-crash-issues-with-these-simple-steps/"><u>Stop Blaming Luck in WOW - Tackle Game Crash Issues with These Simple Steps</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essential-guide-to-user-exclusion-for-businesses-on-facebook/"><u>The Essential Guide to User Exclusion for Businesses on Facebook</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/transferir-datos-de-un-clonico-hd-de-1-tb-a-una-velocizadora-ssd-de-500-gb-con-seguridad-un-proceso-sencillo-en-4-pasos/"><u>Transferir Datos De Un Clónico HD De 1 TB a Una Velocizadora SSD De 500 GB Con Seguridad: Un Proceso Sencillo en 4 Pasos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-2024s-best-gaming-mobos-compared-by-key-sockets-and-processor-support/"><u>Ultimate Selection of 2024'S Best Gaming Mobos: Compared by Key Sockets and Processor Support</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728465893363-windows-114/"><u>Windows 11で消失した画像や写真を4つの手段で回復するコツ</u></a></li>
 </ul></div>
 
