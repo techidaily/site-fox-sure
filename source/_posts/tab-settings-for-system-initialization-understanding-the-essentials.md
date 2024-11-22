@@ -1,7 +1,7 @@
 ---
 title: "Tab Settings for System Initialization: Understanding the Essentials"
-date: 2024-10-17T20:44:49.688Z
-updated: 2024-10-23T05:48:49.943Z
+date: 2024-11-21T10:56:37.600Z
+updated: 2024-11-22T13:02:42.037Z
 tags:
   - user-guide
 categories:
@@ -77,19 +77,24 @@ Predefined conditions that must be fulfilled in order to launch the installation
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These launch conditions are per build, therefore they must be specified for each defined build. By default when a new build is created there are no launch conditions enabled for it. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Supported Operating Systems
 
  Restricts the install package to run only on the selected Operating Systems. If the target operating system version is not equal with the accepted versions, the installation is aborted and an appropriate message is displayed.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Installer
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Minimum version
@@ -99,10 +104,7 @@ Edit this field with the minimum [Windows Installer](https://tools.techidaily.co
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## System Requirements
@@ -123,26 +125,10 @@ Add system-related launch conditions to your package. The available options are:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Prevent running on Virtual Machine" option only targets Virtual Box (Oracle), Hyper-V and VMWare virtual machines
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Package
 
@@ -183,24 +169,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-snapstreak-game-with-savvy-tactics/"><u>[New] In 2024, Elevate Your Snapstreak Game with Savvy Tactics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-dissecting-video-ranking-algorithms-on-youtube-for-2024/"><u>[Updated] Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-dualview-photography-analysis/"><u>[Updated] DualView Photography Analysis</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>[Updated] In 2024, Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free2x-webcam-recorder-software-review-in-depth/"><u>[Updated] In 2024, Free2X Webcam Recorder Software Review in Depth</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-the-art-of-viral-instagram-cinematography/"><u>2024 Approved Mastering the Art of Viral Instagram Cinematography</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/come-riparare-lerrore-nessun-punto-di-ripristino-creato-su-windows-7/"><u>Come Riparare L'errore 'Nessun Punto Di Ripristino Creato' Su Windows 7</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-methods-for-transferring-windows-server-2012-r2-image-onto-another-hard-drive/"><u>Effective Methods for Transferring Windows Server 2012 (R2) Image Onto Another Hard Drive</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-strategies-for-resolving-slow-performance-in-windows-dns-servers/"><u>Effective Strategies for Resolving Slow Performance in Windows DNS Servers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gold-glory-in-gameplay-5-prime-maps-for-riches-for-2024/"><u>Gold Glory in Gameplay 5 Prime Maps for Riches for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/lost-files-recovery-by-date-effective-strategies-for-data-restoration/"><u>Lost Files Recovery by Date: Effective Strategies for Data Restoration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-common-screen-sharing-hurdles-on-zoom-a-2024-guide/"><u>Overcoming Common Screen Sharing Hurdles on Zoom: A 2024 Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/reinstall-windows-10-heres-how-you-can-easily-retrieve-your-lost-files-2-proven-methods/"><u>Reinstall Windows 10? Here's How You Can Easily Retrieve Your Lost Files: 2 Proven Methods</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolved-issues-with-your-hardware-detected-by-windows-now-corrected/"><u>Resolved: Issues with Your Hardware Detected by Windows, Now Corrected</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-strategy-for-overcoming-files-with-unreadable-contents-issues/"><u>Step-by-Step Strategy for Overcoming Files with Unreadable Contents Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/taming-the-tech-beast-a-players-manual-for-fixing-valorant-visual-glitches/"><u>Taming the Tech Beast: A Player's Manual for Fixing Valorant Visual Glitches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-persistent-firefox-lag-issues/"><u>Troubleshooting & Resolving Persistent Firefox Lag Issues</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/win10-excel/"><u>Win10 Excel 桌面上移動鍵盤功能 - 如何恢復已删除的工作表</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728464627797-windows-11/"><u>Windows 11 資料夾備份指南：使用外接硬碟的兩種方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[Updated] 2024 Approved The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[Updated] In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-brands-presence-in-spotify-advertising/"><u>[Updated] Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728479485434-windows-10/"><u>解決方法: Windows 10 桌面上缺少文件的迷思</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/como-hacer-mas-de-una-copia-de-seguridad-con-exito-en-windows-10-metodos-practicos-y-eficientes/"><u>Cómo Hacer Más De Una Copia De Seguridad Con Éxito en Windows 10 – Métodos Prácticos Y Eficientes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-your-pcs-speed-essential-steps-to-install-the-latest-intel-optane-drivers-on-windows/"><u>Enhancing Your PC's Speed: Essential Steps to Install the Latest Intel Optane Drivers on Windows</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/facile-transition-vers-windows-11-sans-perdre-vos-donnees-guide-complet/"><u>Facile Transition Vers Windows 11 Sans Perdre Vos Données: Guide Complet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30 5G Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-solving-your-pcs-sound-stuttering-on-windows-107-with-simple-steps/"><u>Master the Art of Solving Your PC's Sound Stuttering on Windows 10/7 with Simple Steps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728503727570-missing-page-alert-content-cannot-be-displayed/"><u>Missing Page Alert: Content Cannot Be Displayed</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-fixes-restoring-missing-sticky-notes-on-your-windows-11-pc/"><u>Quick Fixes: Restoring Missing Sticky Notes on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reviving-lost-data-a-guide-to-restoring-files-based-on-naming-convention/"><u>Reviving Lost Data: A Guide to Restoring Files Based on Naming Convention</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-advrcntr2dll-is-missing-error-in-nero-software/"><u>Troubleshooting the 'Advrcntr2.dll Is Missing' Error in Nero Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog"
-date: 2024-10-17T04:51:01.632Z
-updated: 2024-10-23T05:45:08.854Z
+date: 2024-11-19T19:39:50.343Z
+updated: 2024-11-21T20:18:37.356Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,7 @@ Table of Contents
 ![Task Schedule](https://cdn.advancedinstaller.com/img/dialog/edit-trigger-dialog.png "Task Schedule")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Schedule Task
@@ -111,35 +108,26 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 Configure custom settings for each of the above condition types.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced Settings
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Repeat task.
 
 Enable the repeat settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Every
 
 The task will run, wait for the time interval specified, and then run again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Duration
 
@@ -148,6 +136,10 @@ This cycle will continue until the duration time is met.
 ### Indefinitely
 
 The task will run for an indefinite duration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Stop running task at end of the repetition interval
 
@@ -192,22 +184,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-compre-written-essentials-google-voice-call-records-for-2024/"><u>[Updated] Compre Written Essentials Google Voice Call Records for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/aomei-data-keeper-free-complete-solution-for-hyper-v-snapshots-restore-and-recovery/"><u>AOMEI Data Keeper: Free Complete Solution for Hyper-V Snapshots, Restore & Recovery</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/best-solutions-overcoming-cannot-connect-to-apple-id-server-issue/"><u>Best Solutions: Overcoming 'Cannot Connect to Apple ID Server' Issue</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-optimiser-le-processus-de-sauvegarde-des-donnees-apres-creation-dun-nouveau-disque-dur/"><u>Comment Optimiser Le Processus De Sauvegarde Des Données Après Création D'un Nouveau Disque Dur</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effizientes-einrichten-von-onedrive-in-windows-11-eine-detaillierte-anleitung-zur-datenubertragung/"><u>Effizientes Einrichten Von OneDrive in Windows 11 - Eine Detaillierte Anleitung Zur Datenübertragung</u></a></li>
-<li><a href="https://media-tips.techidaily.com/firefox-126-collaborates-with-nvidia-rtx-to-supercharge-youtube-viewing-experience/"><u>Firefox 126 Collaborates with NVIDIA RTX to Supercharge YouTube Viewing Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/get-your-video-dimensions-spot-on-for-instagram-sharing-for-2024/"><u>Get Your Video Dimensions Spot-On for Instagram Sharing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-0x8024002e-on-your-windows-pc-a-complete-troubleshooting-manual/"><u>How to Fix Error 0X8024002E on Your Windows PC: A Complete Troubleshooting Manual</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-quickly-access-newly-downloaded-files-in-various-versions-of-windows/"><u>How to Quickly Access Newly Downloaded Files in Various Versions of Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-moto-g13-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Moto G13 Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Mix Fold 3 Device</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimale-techniken-fur-das-klonen-von-computern-uber-ein-netzwerk-eine-umfassende-anleitung/"><u>Optimale Techniken Für Das Klonen Von Computern Über Ein Netzwerk: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/risolvi-il-conflitto-di-funzionamento-del-software-wd-smartware-su-sistemi-windows-10-e-11/"><u>Risolvi Il Conflitto Di Funzionamento Del Software WD SmartWare Su Sistemi Windows 10 E 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutoriel-complet-utiliser-uefi-avec-cloner-disque-pour-ameliorer-les-performances-du-ssd-sous-windows-7-a-11/"><u>Tutoriel Complet : Utiliser UEFI Avec Cloner Disque Pour Améliorer Les Performances Du SSD Sous Windows (7 À 11)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-twits-visuals-to-fhd-standards/"><u>[New] 2024 Approved Enhancing Twit's Visuals to FHD Standards</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-methods-for-streaming-and-preserving-sports-action-for-2024/"><u>[Updated] Elite Methods for Streaming and Preserving Sports Action for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-echoesexaminer-reviewing-recorded-voices/"><u>[Updated] In 2024, EchoesExaminer Reviewing Recorded Voices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetary-gains-mr-beast-in-focus/"><u>2024 Approved Monetary Gains Mr. Beast in Focus</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/5aac5l2v5zue5asn5lin5bcp5bplusd5yig6zmk55qe5b6u5lplush576k6igk5asp6k6w5b2v77yf/"><u>如何回复不小心删除的微信群聊天记录？</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/basicwin10grabber-free-software-download/"><u>BasicWin10Grabber - Free Software Download</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-tutorial-exporting-edb-file-contents-to-functioning-exchange-servers/"><u>Comprehensive Tutorial: Exporting EDB File Contents to Functioning Exchange Servers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demystifying-black-lore-wukongs-guarded-secrets-on-steam-and-playstation-5-platforms/"><u>Demystifying Black Lore: Wukong's Guarded Secrets on Steam & PlayStation 5 Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-characteristics-apple-must-embrace-in-its-intelligence-efforts-to-contend-with-tech-giants-like-google-and-openai/"><u>Essential Characteristics Apple Must Embrace in Its Intelligence Efforts to Contend with Tech Giants Like Google and OpenAI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-12-mini-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 12 mini Lock Screen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimieren-sie-ihr-betriebssystem-drei-moglichkeiten-windows-11-auf-werkseinstellung-zuruckzusetzen-start-mit-dem-bootmenu/"><u>Optimieren Sie Ihr Betriebssystem: Drei Möglichkeiten, Windows 11 Auf Werkseinstellung Zurückzusetzen – Start Mit Dem Bootmenü</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-guide-to-video-extraction-from-youtube-for-2024/"><u>Quick Guide to Video Extraction From YouTube for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/seagate-ext-hdd6/"><u>Seagate EXT HDDにあるデータを取り戻すための6コツ:ステップバイステップガイド</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tutto-su-ripristino-universale-passaggi-essenziali-per-unoperazione-senza-errori/"><u>Tutto Su Ripristino Universale: Passaggi Essenziali per Un'operazione Senza Errori</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-wechselst-du-deine-apple-id-fur-die-meldungsubertragung-zwischen-geraten/"><u>Wie Wechselst Du Deine Apple-ID Für Die Meldungsübertragung Zwischen Geräten?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellungsmethode-fur-partitionierte-datentrager-mit-windows-cmd/"><u>Wiederherstellungsmethode Für Partitionierte Datenträger Mit Windows CMD</u></a></li>
 </ul></div>
 

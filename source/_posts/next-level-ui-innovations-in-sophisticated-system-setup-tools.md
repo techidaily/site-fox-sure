@@ -1,7 +1,7 @@
 ---
 title: Next-Level UI Innovations in Sophisticated System Setup Tools
-date: 2024-10-13T21:24:12.398Z
-updated: 2024-10-16T23:54:58.803Z
+date: 2024-11-15T17:07:38.514Z
+updated: 2024-11-22T09:51:39.700Z
 tags:
   - user-guide
 categories:
@@ -61,9 +61,17 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Advanced Installer Graphical User Interface
 
 The Advanced Installer main window is organized into four sections: [Ribbon](https://tools.techidaily.com/advancedinstaller/products/) (or [Main Menu](https://tools.techidaily.com/advancedinstaller/products/) plus toolbar), left pane, page display and info pane. Each page may in turn be organized in multiple tabs and/or dialog boxes. Most dialog boxes can be resized by dragging their bottom-right corner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ribbon
 
@@ -72,10 +80,7 @@ Starting with Advanced Installer 9 on _Windows Vista SP2 with Platform Update_ o
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Toolbar
@@ -85,16 +90,7 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Left Pane
@@ -103,28 +99,12 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Page Display
@@ -183,15 +163,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-youtubes-power-for-free-educational-sessions/"><u>[New] 2024 Approved Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-approach-to-crafting-youtube-intros/"><u>[New] Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-video-trendsetters-top-likers-and-viewers-on-twitter/"><u>[Updated] 2024 Approved Prime Video Trendsetters Top Likers & Viewers on Twitter</u></a></li>
-<li><a href="https://article-tips.techidaily.com/constructing-emotional-resonance-trailer-sound-selection-guide-for-2024/"><u>Constructing Emotional Resonance Trailer Sound Selection Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/die-innovative-losung-fur-die-konvertierung-von-dvds-in-digitale-formate-erfahren-sie-mehr-uber-das-unternehmen-digiarty-software/"><u>Die Innovative Lösung Für Die Konvertierung Von DVDs in Digitale Formate - Erfahren Sie Mehr Über Das Unternehmen Digiarty Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-restauracion-de-archivos-antiguos-desde-windowsold/"><u>Guía Paso a Paso: Restauración De Archivos Antiguos Desde 'Windows.old'</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-creating-a-quick-and-easy-system-backup-on-windows-11-8-or-7-using-free-software/"><u>Simple Steps: Creating a Quick & Easy System Backup on Windows 11, 8 or 7 Using Free Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-on-fixing-boot-issues-in-windows-tenth-via-the-power-of-command-prompt/"><u>Step-by-Step Tutorial on Fixing Boot Issues in Windows Tenth via the Power of Command Prompt</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wie-importiere-ich-bilder-und-videos-vom-iphone-14-auf-einen-windows-pc/"><u>Wie Importiere Ich Bilder Und Videos Vom iPhone 14 Auf Einen Windows-PC?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-art-of-influential-hashtags-on-ig/"><u>[New] 2024 Approved Mastering the Art of Influential Hashtags on IG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-off-switch-for-instagrams-igtv/"><u>[New] Off Switch for Instagram's IGTV</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-click-to-convert-a-guide-to-effective-social-media-sales-techniques/"><u>[Updated] From Click to Convert A Guide to Effective Social Media Sales Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-caricature-craft-design-your-distinctive-avatar-for-2024/"><u>[Updated] Social Caricature Craft Design Your Distinctive Avatar for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-chapters-essentials-for-seamless-cutting/"><u>2024 Approved Vimeo Chapters Essentials for Seamless Cutting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-11-screen-tick/"><u>Addressing Window's 11 Screen Tick</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprendere-i-requisiti-di-funzionamento-del-tuo-software-linee-guida-seo/"><u>Comprendere I Requisiti Di Funzionamento Del Tuo Software: Linee Guida SEO</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/das-fuhrende-clonierungsprogramm-fur-verschiedene-segmente-von-aomei-backupper/"><u>Das Führende Clonierungsprogramm Für Verschiedene Segmente Von AOMEI Backupper</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-solo-marketing-in-2008-boosting-ad-performance-through-massmail-solutions/"><u>Effective Solo Marketing in 2008: Boosting Ad Performance Through MassMail Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fehlerfrei-offnen-sie-ihre-geloschten-ordner-und-dateien-auf-dem-desktop-in-windows-10/"><u>Fehlerfrei Öffnen Sie Ihre Gelöschten Ordner Und Dateien Auf Dem Desktop in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/impact-of-doj-litigation-against-apple-on-consumers-and-app-creators-insights-from-zdnet/"><u>Impact of DOJ Litigation Against Apple on Consumers & App Creators - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-guide-clearing-up-youtube-watchlater-stored-list/"><u>In 2024, Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/les-tactiques-efficaces-pour-le-migration-de-lactive-directory-sur-un-autre-equipement-serveur-guide-complet/"><u>Les Tactiques Efficaces Pour Le Migration De L'Active Directory Sur Un Autre Équipement Serveur: Guide Complet</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-guide-restore-lost-data-from-sd-card-swiftly/"><u>Simple Guide: Restore Lost Data From SD Card Swiftly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-tips-resolving-the-issue-of-invisible-shared-albums-on-iphones/"><u>Troubleshooting Tips: Resolving the Issue of Invisible Shared Albums on iPhones</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tutti-i-segreti-per-eseguire-il-backup-delle-tue-e-mail-imap-in-formato-pst-con-questa-guida-dettagliata/"><u>Tutti I Segreti per Eseguire Il Backup Delle Tue E-Mail IMAP in Formato PST Con Questa Guida Dettagliata</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/usblenovo/"><u>USBドライブを使用したLenovoパソコン起動ガイド：ステップバイステップツール</u></a></li>
+<li><a href="https://media-tips.techidaily.com/windows10-windows11/"><u>Windows10 ブルーレイプレーヤーが使えない時の解決策 - Windows11へ移行し、高画質で効果的に再生する方法</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1725284570788-dvd/"><u>パソコンで簡単に動画DVD化 - 無料ガイド</u></a></li>
 </ul></div>
 

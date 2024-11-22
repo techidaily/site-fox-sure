@@ -1,7 +1,7 @@
 ---
 title: Understanding the Environment Settings Panel
-date: 2024-10-12T22:33:25.499Z
-updated: 2024-10-17T08:04:27.337Z
+date: 2024-11-18T03:22:33.650Z
+updated: 2024-11-21T16:22:53.159Z
 tags:
   - user-guide
 categories:
@@ -95,6 +95,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Environment Variables Tab
 
 This tab can be used to configure FastCGI environment variables.
@@ -102,10 +106,11 @@ This tab can be used to configure FastCGI environment variables.
 ![Environment Variables](https://cdn.advancedinstaller.com/img/dialog/fastcgi-env-vars.png "Environment Variables")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding a new environment variable
@@ -113,10 +118,7 @@ This tab can be used to configure FastCGI environment variables.
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing an environment variable
@@ -124,10 +126,7 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item, double click or press the Space key while an element from the list control is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Removing an environment variable
@@ -167,24 +166,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-foremost-suggestions-premium-iphone-tone-makers/"><u>[New] Foremost Suggestions Premium iPhone Tone Makers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-redefining-your-twitter-vibe-with-dynamic-video-thumbnails/"><u>[Updated] In 2024, Redefining Your Twitter Vibe with Dynamic Video Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>[Updated] Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/3-estrategias-plus-1-guia-para-reparar-la-barra-de-tareas-en-windows-11/"><u>3 Estrategias + 1 Guía Para Reparar La Barra De Tareas en Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/aomei-data-keeper-free-complete-solution-for-hyper-v-snapshots-restore-and-recovery/"><u>AOMEI Data Keeper: Free Complete Solution for Hyper-V Snapshots, Restore & Recovery</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/best-solutions-overcoming-cannot-connect-to-apple-id-server-issue/"><u>Best Solutions: Overcoming 'Cannot Connect to Apple ID Server' Issue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/chargepoint-upgrades-ev-infrastructure-by-integrating-nationwide-autonomous-convenience-service-units/"><u>ChargePoint Upgrades EV Infrastructure by Integrating Nationwide Autonomous Convenience Service Units</u></a></li>
-<li><a href="https://facebook.techidaily.com/direct-access-to-spotify-features-within-facebook/"><u>Direct Access to Spotify Features Within Facebook</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effizientes-einrichten-von-onedrive-in-windows-11-eine-detaillierte-anleitung-zur-datenubertragung/"><u>Effizientes Einrichten Von OneDrive in Windows 11 - Eine Detaillierte Anleitung Zur Datenübertragung</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-balance-your-shots-best-camera-stabilizers-reviewed/"><u>In 2024, Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-pro-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 Pro to iPad? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/notice-unable-to-retrieve-content-404-error-occurred/"><u>Notice: Unable to Retrieve Content - 404 Error Occurred</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimale-techniken-fur-das-klonen-von-computern-uber-ein-netzwerk-eine-umfassende-anleitung/"><u>Optimale Techniken Für Das Klonen Von Computern Über Ein Netzwerk: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-phone-series-expansion-continues-discover-projected-specs-release-timing-and-price-for-model-10/"><u>Pixel Phone Series Expansion Continues - Discover Projected Specs, Release Timing & Price for Model 10!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/proven-methods-for-swift-iphone-call-failure-repairs/"><u>Proven Methods for Swift iPhone Call Failure Repairs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/risolvi-il-conflitto-di-funzionamento-del-software-wd-smartware-su-sistemi-windows-10-e-11/"><u>Risolvi Il Conflitto Di Funzionamento Del Software WD SmartWare Su Sistemi Windows 10 E 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schutz-ihres-iphone-14-lose-abhangigkeit-von-itunes-und-icloud/"><u>Schutz Ihres iPhone 14: Lose Abhängigkeit Von iTunes Und iCloud!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutoriel-complet-utiliser-uefi-avec-cloner-disque-pour-ameliorer-les-performances-du-ssd-sous-windows-7-a-11/"><u>Tutoriel Complet : Utiliser UEFI Avec Cloner Disque Pour Améliorer Les Performances Du SSD Sous Windows (7 À 11)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc/"><u>Updated In 2024, The Ultimate List of Stop Motion Animation Programs for Mac and PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording/"><u>[New] 2024 Approved Snapchat Mastery The Essential Guide to Smartphone Screen Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-of-monetizing-instagram-successfully-for-2024/"><u>[New] Unveiling the Secrets of Monetizing Instagram Successfully for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-tips-for-capturing-and-storing-desktop-content/"><u>[Updated] Advanced Tips for Capturing and Storing Desktop Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam-for-2024/"><u>[Updated] In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-striking-a-balance-in-youtube-thumbnail-sizing-for-2024/"><u>[Updated] Striking a Balance in YouTube Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-samsungs-new-marvel-the-galaxy-z-fold-6-specs-and-release-insights/"><u>All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-conversions-by-turning-pdf-brochures-into-engaging-digital-flipbooks-with-flipbuildercom/"><u>Boost Your Conversions by Turning PDF Brochures Into Engaging Digital Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/can-you-position-your-brands-emblem-above-the-main-content-area-learn-how-at-flipbuildercom/"><u>Can You Position Your Brand's Emblem Above the Main Content Area? Learn How at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-apps-to-backup-and-share-your-chatgpt-dialogue-history/"><u>Easy Apps to Backup and Share Your ChatGPT Dialogue History</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maintaining-the-right-video-aspect-on-twitters/"><u>In 2024, Maintaining the Right Video Aspect on Twitters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-path-to-profitable-fb-animation-ad-success-stories/"><u>In 2024, The Path to Profitable FB Animation Ad Success Stories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-issues-with-immortals-fenyx-rising-freezes-and-crashes/"><u>Troubleshooting Continuous Issues with Immortals: Fenyx Rising Freezes and Crashes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-command-line-conversion-feature-a-deep-dive-into-flipbuilders-tools/"><u>Understanding Command Line Conversion Feature - A Deep Dive Into FlipBuilder's Tools</u></a></li>
 </ul></div>
 

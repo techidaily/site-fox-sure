@@ -1,7 +1,7 @@
 ---
 title: Interactive Feature Selection Popup
-date: 2024-10-16T19:40:01.550Z
-updated: 2024-10-22T19:16:39.069Z
+date: 2024-11-15T07:35:20.996Z
+updated: 2024-11-21T23:02:22.174Z
 tags:
   - user-guide
 categories:
@@ -68,6 +68,10 @@ Table of Contents
 * [Advanced Installer Blog](https://tools.techidaily.com/advancedinstaller/products/)
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Feature Picker Dialog
 
  This dialog allows you to select a certain feature from the existing features in your project. 
@@ -75,6 +79,10 @@ Table of Contents
 A tree with all the available features will be presented. This tree has the same structure as the features tree from the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 ![Feature Picker Dialog](https://cdn.advancedinstaller.com/img/dialog/feature-picker.png "Feature Picker Dialog")  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -109,24 +117,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-above-and-beyond-perfecting-your-drone-video-craft/"><u>[New] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>[Updated] The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-instagrams-voice-customization-features/"><u>2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728465299035-sd/"><u>終了する前に停止したSDカードのデータ複製 - 回避方法</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/an-examination-of-photoshops-anti-shake-capabilities/"><u>An Examination of Photoshop’s Anti-Shake Capabilities</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ccleaner/"><u>CCleaner錯誤清理後的恢復指南：維持全面整合性解決方案</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-techkey-bluetooth-adapter-software-compatible-with-windows-11-7-and-8/"><u>Free Techkey Bluetooth Adapter Software Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/migrating-from-windows-11-10-8-or-7-discover-paragon-drive-copy-solutions/"><u>Migrating From Windows 11, 10, 8, or 7? Discover Paragon Drive Copy Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-enhanced-security-extending-windows-pins/"><u>Navigating to Enhanced Security: Extending Windows PINs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seamless-pc-to-netgear-readynas-data-sync-tutorial-quick-and-effective-strategies/"><u>Seamless PC to NetGear ReadyNAS Data Sync Tutorial - Quick and Effective Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-reducing-or-removing-subwoofer-hum-issues/"><u>The Ultimate Fix for Reducing or Removing Subwoofer Hum Issues</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transferer-des-donnees-entre-deux-serveurs-nas-sans-probleme-techniques-simplifiees/"><u>Transférer Des Données Entre Deux Serveurs NAS Sans Problème: Techniques Simplifiées</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-innovative-hubs-of-affordable-visual-content-sources/"><u>[New] In 2024, Innovative Hubs of Affordable Visual Content Sources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>2024 Approved The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/aomei-backupper-schritt-fur-schritt-anleitung-zur-befehlszeilensicherungserstellung/"><u>AOMEI Backupper: Schritt-Für-Schritt Anleitung Zur Befehlszeilensicherungserstellung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-lg-electronics-device-recognition-problems-with-usb-on-windows-versions/"><u>Fixing LG Electronics Device Recognition Problems with USB on Windows Versions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-como-hacer-que-una-carpeta-de-red-se-mueva-automaticamente-a-google-drive-gratuito/"><u>Guía Paso a Paso: Cómo Hacer Que Una Carpeta De Red Se Mueva Automáticamente a Google Drive Gratuito</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guida-pratica-come-spostare-i-file-fotografici-da-un-mac-a-un-disco-rigido-senza-problemi-in-2-modi-efficaci/"><u>Guida Pratica: Come Spostare I File Fotografici Da Un Mac a Un Disco Rigido Senza Problemi in 2 Modi Efficaci</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compile-list-of-cost-efficient-vecto-art-sites/"><u>In 2024, Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-12-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus 12? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unveiling-the-ultimate-pick-of-15-premium-pc-video-encoders-for-efficient-compression/"><u>Unveiling the Ultimate Pick of 15 Premium PC Video Encoders for Efficient Compression</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
