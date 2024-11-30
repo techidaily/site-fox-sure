@@ -1,7 +1,7 @@
 ---
 title: Interactive Feature Selection Popup
-date: 2024-11-15T07:35:20.996Z
-updated: 2024-11-21T23:02:22.174Z
+date: 2024-11-26T17:14:50.615Z
+updated: 2024-11-30T18:30:15.415Z
 tags:
   - user-guide
 categories:
@@ -69,7 +69,7 @@ Table of Contents
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Feature Picker Dialog
@@ -81,7 +81,7 @@ A tree with all the available features will be presented. This tree has the same
 ![Feature Picker Dialog](https://cdn.advancedinstaller.com/img/dialog/feature-picker.png "Feature Picker Dialog")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -117,16 +117,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-innovative-hubs-of-affordable-visual-content-sources/"><u>[New] In 2024, Innovative Hubs of Affordable Visual Content Sources</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-camera-features-for-dynamic-range-mastery/"><u>2024 Approved The Evolution of Camera Features for Dynamic Range Mastery</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/aomei-backupper-schritt-fur-schritt-anleitung-zur-befehlszeilensicherungserstellung/"><u>AOMEI Backupper: Schritt-Für-Schritt Anleitung Zur Befehlszeilensicherungserstellung</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-lg-electronics-device-recognition-problems-with-usb-on-windows-versions/"><u>Fixing LG Electronics Device Recognition Problems with USB on Windows Versions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-como-hacer-que-una-carpeta-de-red-se-mueva-automaticamente-a-google-drive-gratuito/"><u>Guía Paso a Paso: Cómo Hacer Que Una Carpeta De Red Se Mueva Automáticamente a Google Drive Gratuito</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guida-pratica-come-spostare-i-file-fotografici-da-un-mac-a-un-disco-rigido-senza-problemi-in-2-modi-efficaci/"><u>Guida Pratica: Come Spostare I File Fotografici Da Un Mac a Un Disco Rigido Senza Problemi in 2 Modi Efficaci</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-compile-list-of-cost-efficient-vecto-art-sites/"><u>In 2024, Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-12-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus 12? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unveiling-the-ultimate-pick-of-15-premium-pc-video-encoders-for-efficient-compression/"><u>Unveiling the Ultimate Pick of 15 Premium PC Video Encoders for Efficient Compression</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-orchestrate-instagram-reel-magic-with-music-and-voiceovers/"><u>[New] 2024 Approved Orchestrate Instagram Reel Magic with Music & Voiceovers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dialogue-and-direction-crafting-a-screenplay-art-for-2024/"><u>[New] Dialogue and Direction Crafting a Screenplay Art for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-professional-guide-ensuring-imovie-content-shines-on-vimeo-for-2024/"><u>[New] Professional Guide Ensuring iMovie Content Shines on Vimeo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigglygraphics-mememakers-haven/"><u>[Updated] GigglyGraphics MemeMaker's Haven</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2023-complete-guide-twitter-reaction-videos-for-2024/"><u>2023 Complete Guide | Twitter Reaction Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-distinctions-between-metaverse-and-multimeva/"><u>2024 Approved The Essential Distinctions Between Metaverse and Multimeva</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/award-winning-cost-free-applications-for-seamless-video-conversion-on-windows-phones/"><u>Award-Winning, Cost-Free Applications for Seamless Video Conversion on Windows Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-text-to-life-dynamic-animated-content-on-ig-stories-for-2024/"><u>Bringing Text to Life Dynamic Animated Content on IG Stories for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/complete-guide-steps-to-irreversibly-erase-all-messages-from-your-iphone/"><u>Complete Guide: Steps to Irreversibly Erase All Messages From Your iPhone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-ifileattributes-an-insightful-overview/"><u>Exploring IFileAttributes: An Insightful Overview</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-steps-to-post-music-on-social-media-stories/"><u>In 2024, Steps to Post Music on Social Media Stories</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-free-transform-your-mov-files-into-wmv-format-with-our-simple-converter/"><u>Quick & Free: Transform Your MOV Files Into WMV Format with Our Simple Converter</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-quickly-adorning-pics-with-festive-santa-caps/"><u>Step-by-Step Tutorial: Quickly Adorning Pics with Festive Santa Caps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/tab-settings-for-system-initialization-understanding-the-essentials/"><u>Tab Settings for System Initialization: Understanding the Essentials</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-software-release-criteria-navigating-the-launch-specifications-tab/"><u>Understanding Software Release Criteria: Navigating the Launch Specifications Tab</u></a></li>
 </ul></div>
 

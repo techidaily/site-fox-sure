@@ -1,7 +1,7 @@
 ---
 title: "Essential MST Framework Varieties: Uncovering Different Approaches"
-date: 2024-11-18T03:25:57.263Z
-updated: 2024-11-22T13:59:43.880Z
+date: 2024-11-28T21:30:16.220Z
+updated: 2024-11-30T16:49:18.268Z
 tags:
   - user-guide
 categories:
@@ -77,34 +77,34 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MST Project Types
 
 ## Installer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Transform
 
 ![New_transform](https://cdn.advancedinstaller.com/img/project/new_transform.png "New_transform")Easily perform installation changes and store them as a transform of the initial MSI. The selected MSI file will be opened in [MSI Quick Edit mode](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Response Transform
 
 ![Response transform](https://cdn.advancedinstaller.com/img/project/response-transform.png "Response transform")Capture an installation scenario by executing the user interface installation stage and save the responses into a transform file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Delta Transform
@@ -112,7 +112,7 @@ Table of Contents
 ![Delta transform](https://cdn.advancedinstaller.com/img/project/delta-transform.png "Delta transform")Save the difference between two MSI files into a transform file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -148,24 +148,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-record-video-calls-on-facebook-4-methods-for-2024/"><u>[New] How to Record Video Calls on Facebook [4 Methods] for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-craft-the-perfect-snaps-top-ideas-unveiled/"><u>[New] In 2024, Craft the Perfect Snaps Top Ideas Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[Updated] 2024 Approved Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-recommended-frame-rates-for-professional-slow-motion-videos-for-2024/"><u>[Updated] Recommended Frame Rates for Professional Slow-Motion Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>2024 Approved Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5-simple-steps-to-recover-accidentally-deleted-files-from-eclipse/"><u>5 Simple Steps to Recover Accidentally Deleted Files From Eclipse</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728507317598-nas/"><u>三种转移NAS台贴雲存储中文档案至外置硬盘的最佳方式</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-dying-lights-lag-problem-tips-and-tricks-for-smoother-play/"><u>Beat Dying Light's Lag Problem - Tips and Tricks for Smoother Play</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-installer-windows-11-sur-des-ordinateurs-multiples-en-un-coup-guide-facile/"><u>Comment Installer Windows 11 Sur Des Ordinateurs Multiples en Un Coup - Guide Facile</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-troubleshooting-and-overcoming-graphical-gaffes-in-rust/"><u>Expert Guide to Troubleshooting & Overcoming Graphical Gaffes in Rust</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-11-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 11 Pro Data Completely | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-simple-comment-transferer-des-fichiers-a-un-disque-dur-exterieur-sans-duplication/"><u>Guide Simple: Comment Transférer Des Fichiers À Un Disque Dur Extérieur Sans Duplication</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-restore-information-on-an-xqd-card-after-re-formatting-the-leading-solutions/"><u>How to Restore Information on an XQD Card After Re-Formatting: The Leading Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-12-proplus-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 12 Pro+ 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728482563319-ipaditunes/"><u>IPad音乐传输到电脑:使用ITunes与其他方法</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-data-sync-made-easy-the-ultimate-step-by-step-guide/"><u>Mac Data Sync Made Easy: The Ultimate Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiedergutmachung-auf-ios-vollstandiges-loschen-von-inhalten-und-einstellungen/"><u>Wiedergutmachung Auf iOS: Vollständiges Löschen Von Inhalten Und Einstellungen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504960706-windows-11-plus/"><u>Windows 11處理停用或開啟最近使用過的文件 - 兩種有效解決方式+一項建議</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-crafting-facebook-videos-a-step-by-step-guide-for-2024/"><u>[New] Crafting Facebook Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-do-we-experience-realities-in-a-virtual-sense/"><u>[New] How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-boost-production-with-final-cut-pros-top-10-tools/"><u>[Updated] 2024 Approved Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-apowersoft-reviewed-a-guide-to-pc-screen-capture-for-2024/"><u>[Updated] Apowersoft Reviewed A Guide to PC Screen Capture for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>2024 Approved Conquer the Clouds Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-10-apps-to-boost-audio-velocity/"><u>2024 Approved Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effizientes-autosave-system-fur-windows-server-2003-2008-and-2012-sichere-daten-ohne-stress/"><u>Effizientes Autosave-System Für Windows Server 2003, 2008 & 2012 – Sichere Daten Ohne Stress</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-moving-multimedia-on-apple-gear/"><u>Expert Advice Moving Multimedia on Apple Gear</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-para-hacer-una-copia-de-seguridad-de-imagenes-con-norton-ghost/"><u>Guía Paso a Paso Para Hacer Una Copia De Seguridad De Imágenes Con Norton Ghost</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/offline-mastery-essential-techniques-for-activating-windows-server-2019-without-an-internet-connection/"><u>Offline Mastery: Essential Techniques for Activating Windows Server 2019 Without an Internet Connection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a05-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A05</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reviving-your-lost-blinks-a-step-by-step-guide-to-restoring-deleted-video-content/"><u>Reviving Your Lost Blinks: A Step-by-Step Guide to Restoring Deleted Video Content</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-procedures-for-regularly-updating-amd-drivers/"><u>Simplified Procedures for Regularly Updating AMD Drivers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-windows-11-fix-file-history-issues-now/"><u>Troubleshooting Windows 11 - Fix File History Issues Now</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellung-verlorener-dateien-unter-windows-eine-umfassende-anleitung/"><u>Wiederherstellung Verlorener Dateien Unter Windows: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-11ghost-windows-4/"><u>Windows 11中Ghost Windows修复的基礎方法解析 | 4个简单技巧</u></a></li>
 </ul></div>
 

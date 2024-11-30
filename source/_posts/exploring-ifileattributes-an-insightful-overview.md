@@ -1,7 +1,7 @@
 ---
 title: "Exploring IFileAttributes: An Insightful Overview"
-date: 2024-11-20T21:35:50.831Z
-updated: 2024-11-22T12:58:37.775Z
+date: 2024-11-28T19:55:37.208Z
+updated: 2024-11-30T22:58:13.184Z
 tags:
   - user-guide
 categories:
@@ -112,7 +112,7 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## IFileAttributes
@@ -120,7 +120,7 @@ Table of Contents
 The interface is designed to set or get attributes on a specified file. You can obtain this interface from an object by using the IFile::Attributes property. The functionality is meant to replicate the graphical interface form Advanced Installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -128,7 +128,7 @@ The interface is designed to set or get attributes on a specified file. You can 
 IFileAttributes : IDispatch
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -144,11 +144,11 @@ IFileAttributes : IDispatch
 ![Ifileattributes](https://cdn.advancedinstaller.com/img/powershell-automation/ifileattributes.png "Ifileattributes")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -192,16 +192,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] In 2024, Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-20-most-memorable-anime-series-intros-for-2024/"><u>[Updated] 20 Most Memorable Anime Series Intros for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-ai-graphic-editor-tools-for-2024/"><u>[Updated] Prime AI Graphic Editor Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-methods-to-adapt-track-paceplay-in-spotify-app/"><u>[Updated] Prime Methods to Adapt Track Paceplay in Spotify App</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-6-unique-sources-for-premium-youtube-imagery/"><u>[Updated] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-securely-logging-live-radio-over-the-web-an-instructional-guide/"><u>In 2024, Securely Logging Live Radio Over the Web An Instructional Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/problem-solving-strategies-key-techniques-for-effective-resolution/"><u>Problem-Solving Strategies: Key Techniques for Effective Resolution</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/recuperacion-de-archivos-eliminados-desde-la-papelera-de-reciclaje-en-windows-10-despues-del-vaciado/"><u>Recuperación De Archivos Eliminados Desde La Papelera De Reciclaje en Windows 10 Después Del Vaciado</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-best-top-10-sd-card-repair-programs-of-the-year/"><u>The Best Top 10 SD Card Repair Programs of the Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-baldurs-gate-3-continuous-pc-shutdowns-easy-steps-inside/"><u>Ultimate Fix for Baldur's Gate 3 Continuous PC Shutdowns – Easy Steps Inside</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-server-2012-r2-ein-spiegelbild-der-leistung-effiziente-implementierungstechniken-erklart/"><u>Windows Server 2012 (R2): Ein Spiegelbild Der Leistung - Effiziente Implementierungstechniken Erklärt</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[Updated] 2024 Approved Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-choice-top-16-no-cost-viewers/"><u>[Updated] Expert's Choice Top 16 No-Cost Viewers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-investigating-whether-sns-hdr-offers-superior-ux/"><u>[Updated] In 2024, Investigating Whether SNS HDR Offers Superior UX</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>[Updated] Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>2024 Approved 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/6-effektive-wege-um-automatische-windows-11-updates-zu-deaktivieren-schritt-fur-schritt-anleitung/"><u>6 Effektive Wege, Um Automatische Windows 11-Updates Zu Deaktivieren: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/rsyncwindows-11/"><u>最新バージョンのRsyncでWindows 11ファイルをスムーズに移動する - 実践ガイド</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/descargue-la-herramienta-de-recuperacion-gratuita-para-archivos-de-windows-10-sin-costo-ni-limitaciones/"><u>Descargue La Herramienta De Recuperación Gratuita Para Archivos De Windows 10 Sin Costo Ni Limitaciones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-fixing-missing-mfc42ddll-files-on-your-windows-pc/"><u>Expert Strategies for Fixing Missing mfc42d.dll Files on Your Windows PC</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fehlerbehebung-windows-file-recovery-kann-nicht-den-zieldirectory-erstellen/"><u>Fehlerbehebung: Windows File Recovery Kann Nicht Den Zieldirectory Erstellen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-complet-pour-faire-une-copie-de-sauvegarde-en-windows-11/"><u>Guide Complet Pour Faire Une Copie De Sauvegarde en Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-set-up-email-alerts-with-aomei-cyberback-defender/"><u>How to Set Up Email Alerts with AOMEI CyberBack Defender</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-class-review-of-the-xbox-one-elite-series-ii-controller-why-it-reigns-supreme/"><u>Master Class Review of the Xbox One Elite Series II Controller - Why It Reigns Supreme</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reviving-asus-devices-overcoming-asus-lactation-problems-for-a-smooth-restart/"><u>Reviving Asus Devices: Overcoming ASUS Lactation Problems for a Smooth Restart</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unlock-hidden-mailbox-mysteries-in-outlook-365-solve-vanishing-old-emails-with-these-6-strategies/"><u>Unlock Hidden Mailbox Mysteries in Outlook 365 - Solve Vanishing Old Emails with These 6 Strategies</u></a></li>
 </ul></div>
 

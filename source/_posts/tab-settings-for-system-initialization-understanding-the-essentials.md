@@ -1,7 +1,7 @@
 ---
 title: "Tab Settings for System Initialization: Understanding the Essentials"
-date: 2024-11-21T10:56:37.600Z
-updated: 2024-11-22T13:02:42.037Z
+date: 2024-11-27T20:57:46.298Z
+updated: 2024-11-30T22:53:45.829Z
 tags:
   - user-guide
 categories:
@@ -69,6 +69,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System Launch Conditions Tab
 
 Predefined conditions that must be fulfilled in order to launch the installation package.
@@ -78,7 +82,11 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)These launch conditions are per build, therefore they must be specified for each defined build. By default when a new build is created there are no launch conditions enabled for it. You can select the desired build in the toolbar builds combo. This option is enabled only if several build are defined.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Supported Operating Systems
@@ -88,24 +96,16 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Installer
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Minimum version
 
 Edit this field with the minimum [Windows Installer](https://tools.techidaily.com/advancedinstaller/products/) version required.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## System Requirements
 
@@ -125,7 +125,7 @@ Add system-related launch conditions to your package. The available options are:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Prevent running on Virtual Machine" option only targets Virtual Box (Oracle), Hyper-V and VMWare virtual machines
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
@@ -169,20 +169,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[Updated] 2024 Approved The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[Updated] In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-brands-presence-in-spotify-advertising/"><u>[Updated] Optimizing Your Brand's Presence in Spotify Advertising</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728479485434-windows-10/"><u>解決方法: Windows 10 桌面上缺少文件的迷思</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/como-hacer-mas-de-una-copia-de-seguridad-con-exito-en-windows-10-metodos-practicos-y-eficientes/"><u>Cómo Hacer Más De Una Copia De Seguridad Con Éxito en Windows 10 – Métodos Prácticos Y Eficientes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-your-pcs-speed-essential-steps-to-install-the-latest-intel-optane-drivers-on-windows/"><u>Enhancing Your PC's Speed: Essential Steps to Install the Latest Intel Optane Drivers on Windows</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/facile-transition-vers-windows-11-sans-perdre-vos-donnees-guide-complet/"><u>Facile Transition Vers Windows 11 Sans Perdre Vos Données: Guide Complet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30 5G Lock Screen Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-art-of-solving-your-pcs-sound-stuttering-on-windows-107-with-simple-steps/"><u>Master the Art of Solving Your PC's Sound Stuttering on Windows 10/7 with Simple Steps</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728503727570-missing-page-alert-content-cannot-be-displayed/"><u>Missing Page Alert: Content Cannot Be Displayed</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-fixes-restoring-missing-sticky-notes-on-your-windows-11-pc/"><u>Quick Fixes: Restoring Missing Sticky Notes on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/reviving-lost-data-a-guide-to-restoring-files-based-on-naming-convention/"><u>Reviving Lost Data: A Guide to Restoring Files Based on Naming Convention</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-advrcntr2dll-is-missing-error-in-nero-software/"><u>Troubleshooting the 'Advrcntr2.dll Is Missing' Error in Nero Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-fbs-buzz-essential-strategies-revealed/"><u>[New] In 2024, Mastering FB's Buzz Essential Strategies Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-freecam-x-an-in-depth-webcam-capture-analysis/"><u>[Updated] 2024 Approved FreeCam X An In-Depth Webcam Capture Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-video-editing-for-virality-a-comprehensive-guide-to-instagram-success/"><u>[Updated] 2024 Approved Video Editing for Virality A Comprehensive Guide to Instagram Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>[Updated] Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/7-ultimate-tips-for-boosting-your-pcs-speed-enhance-windows-11-efficiency/"><u>7 Ultimate Tips for Boosting Your PC's Speed: Enhance Windows 11 Efficiency!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ssdnas/"><u>安全で快適な移行方法：外付けSSDをNASに簡単にアップロードするポイント</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211436143-9780990363156-calamitys-compass/"><u>Calamity's Compass | Free Book</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/come-scegliere-lapplicazione-migliore-per-backup-automatici-hard-disk-externo-in-italia/"><u>Come Scegliere L'applicazione Migliore per Backup Automatici Hard Disk Externo in Italia</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comment-effacer-en-toute-securite-le-contenu-dune-carte-micro-sd-etapes-de-suppression-et-formatage/"><u>Comment Effacer en Toute Sécurité Le Contenu D'une Carte Micro-SD: Étapes De Suppression Et Formatage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-of-wacom-graphics-tablets-for-pcs-running-windows-1087-download-drivers-and-enhance-digital-creativity/"><u>Complete Setup of Wacom Graphics Tablets for PCs Running Windows 10/8/7, Download Drivers & Enhance Digital Creativity</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-recover-your-vanished-iphones-dcim-pictures-on-windows-1011-top-7-solutions-explored/"><u>How to Recover Your Vanished iPhones' DCIM Pictures on Windows 10/11: Top 7 Solutions Explored</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-and-fabulous-the-top-online-video-stabilizers-for-a-professional-finish-for-2024/"><u>New Free and Fabulous The Top Online Video Stabilizers for a Professional Finish for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-up-your-league-of-legends-installation/"><u>Quick Guide: Speeding Up Your League of Legends Installation</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resmi-tutorial-membangun-akhbar-file-repaired-dalam-snap-back-data-pada-alat-perekam-suara-olympus-dan-sony/"><u>Resmi: Tutorial Membangun Akhbar File Repaired Dalam Snap Back Data Pada Alat Perekam Suara Olympus Dan Sony</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-extracting-the-main-subject-from-any-photo/"><u>Step-by-Step Guide: Extracting the Main Subject From Any Photo</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-retrieve-lost-information-from-sandisk-sd-cards-using-windows-tools/"><u>Step-by-Step Guide: Retrieve Lost Information From Sandisk SD Cards Using Windows Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/uitlegwijzer-voor-het-uithalen-van-windows-10-op-een-nieuwe-schijf-twaalf-verslatend-vragenbeantwoord/"><u>Uitlegwijzer Voor Het Uithalen Van Windows 10 Op Een Nieuwe Schijf: Twaalf Verslatend Vragenbeantwoord</u></a></li>
 </ul></div>
 

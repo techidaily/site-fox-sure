@@ -1,7 +1,7 @@
 ---
 title: "How to Modify a Conditional Formatting Rule: Mastering the Edit Trigger Dialog"
-date: 2024-11-19T19:39:50.343Z
-updated: 2024-11-21T20:18:37.356Z
+date: 2024-11-28T18:15:07.430Z
+updated: 2024-11-30T21:43:52.922Z
 tags:
   - user-guide
 categories:
@@ -83,7 +83,11 @@ Table of Contents
 ![Task Schedule](https://cdn.advancedinstaller.com/img/dialog/edit-trigger-dialog.png "Task Schedule")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Schedule Task
@@ -103,26 +107,22 @@ Specify conditions that will trigger the task. Multiple conditions can be used. 
 * On workstation lock
 * On workstation unlock
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Settins
 
 Configure custom settings for each of the above condition types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Advanced Settings
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Repeat task.
 
 Enable the repeat settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Every
@@ -138,7 +138,7 @@ This cycle will continue until the duration time is met.
 The task will run for an indefinite duration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stop running task at end of the repetition interval
@@ -184,21 +184,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-twits-visuals-to-fhd-standards/"><u>[New] 2024 Approved Enhancing Twit's Visuals to FHD Standards</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-methods-for-streaming-and-preserving-sports-action-for-2024/"><u>[Updated] Elite Methods for Streaming and Preserving Sports Action for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-echoesexaminer-reviewing-recorded-voices/"><u>[Updated] In 2024, EchoesExaminer Reviewing Recorded Voices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetary-gains-mr-beast-in-focus/"><u>2024 Approved Monetary Gains Mr. Beast in Focus</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5aac5l2v5zue5asn5lin5bcp5bplusd5yig6zmk55qe5b6u5lplush576k6igk5asp6k6w5b2v77yf/"><u>如何回复不小心删除的微信群聊天记录？</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/basicwin10grabber-free-software-download/"><u>BasicWin10Grabber - Free Software Download</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehensive-tutorial-exporting-edb-file-contents-to-functioning-exchange-servers/"><u>Comprehensive Tutorial: Exporting EDB File Contents to Functioning Exchange Servers</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/demystifying-black-lore-wukongs-guarded-secrets-on-steam-and-playstation-5-platforms/"><u>Demystifying Black Lore: Wukong's Guarded Secrets on Steam & PlayStation 5 Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-characteristics-apple-must-embrace-in-its-intelligence-efforts-to-contend-with-tech-giants-like-google-and-openai/"><u>Essential Characteristics Apple Must Embrace in Its Intelligence Efforts to Contend with Tech Giants Like Google and OpenAI</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-12-mini-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 12 mini Lock Screen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimieren-sie-ihr-betriebssystem-drei-moglichkeiten-windows-11-auf-werkseinstellung-zuruckzusetzen-start-mit-dem-bootmenu/"><u>Optimieren Sie Ihr Betriebssystem: Drei Möglichkeiten, Windows 11 Auf Werkseinstellung Zurückzusetzen – Start Mit Dem Bootmenü</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-guide-to-video-extraction-from-youtube-for-2024/"><u>Quick Guide to Video Extraction From YouTube for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seagate-ext-hdd6/"><u>Seagate EXT HDDにあるデータを取り戻すための6コツ:ステップバイステップガイド</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutto-su-ripristino-universale-passaggi-essenziali-per-unoperazione-senza-errori/"><u>Tutto Su Ripristino Universale: Passaggi Essenziali per Un'operazione Senza Errori</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wie-wechselst-du-deine-apple-id-fur-die-meldungsubertragung-zwischen-geraten/"><u>Wie Wechselst Du Deine Apple-ID Für Die Meldungsübertragung Zwischen Geräten?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiederherstellungsmethode-fur-partitionierte-datentrager-mit-windows-cmd/"><u>Wiederherstellungsmethode Für Partitionierte Datenträger Mit Windows CMD</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hannel-identity-visualization-the-ultimate-toolkit-of-10/"><u>[New] Channel Identity Visualization The Ultimate Toolkit of 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-divergent-paths-in-video-sharing-comparing-igtv-and-youtube/"><u>[New] In 2024, Divergent Paths in Video Sharing Comparing IGTV & YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-aerial-cameras-unleashing-creative-potential/"><u>2024 Approved Top 10 Aerial Cameras Unleashing Creative Potential</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/az-screen-logger-full-review-backup-selection/"><u>AZ Screen Logger Full Review, Backup Selection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-live-streaming-app-manycam-virtual-camera-and-software-solutions/"><u>Best Live Streaming App: ManyCam - Virtual Camera & Software Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/best-practices-for-enhancing-your-installed-reg-detector-software/"><u>Best Practices for Enhancing Your Installed Reg Detector Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-integration-how-to-incorporate-pdf-files-into-your-ibook-collection/"><u>Effortless Integration: How to Incorporate PDF Files Into Your iBook Collection</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-different-approaches-to-virtualization-strategies/"><u>Exploring Different Approaches to Virtualization Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-galaxy-ford-f150-rc-truck-assessment-the-ultimate-guide/"><u>In-Depth Galaxy Ford F150 RC Truck Assessment - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-your-web-app-with-advanced-techniques-in-aspnet-settings/"><u>Optimizing Your Web App with Advanced Techniques in ASP.NET Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-mp4-to-mp3-converters-best-software-and-apps-for-media-format-transformation/"><u>Top 16 MP4 to MP3 Converters : Best Software and Apps for Media Format Transformation</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-chromebook-video-editing-software-the-ultimate-guide/"><u>Top-Rated Chromebook Video Editing Software: The Ultimate Guide</u></a></li>
 </ul></div>
 
