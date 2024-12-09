@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Promotion in 2011: Optimal Scheduling & Distribution with MassMail Suite"
-date: 2024-11-24T22:27:22.914Z
-updated: 2024-11-30T21:38:08.246Z
+date: 2024-12-02T04:34:34.231Z
+updated: 2024-12-08T20:43:35.191Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,10 +36,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -47,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,37 +70,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-secrets-creating-powerful-fb-cover-videos/"><u>[New] 2024 Approved Unlocking Secrets Creating Powerful FB Cover Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boosting-snapchat-impact-select-6-excellent-video-editors/"><u>[New] In 2024, Boosting Snapchat Impact Select 6 Excellent Video Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perspectives-perfected-top-11-bridging-camera-reviews/"><u>[New] Perspectives Perfected Top 11 Bridging Camera Reviews</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728507317598-nas/"><u>三种转移NAS台贴雲存储中文档案至外置硬盘的最佳方式</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209923678-9781946764690-being-peace/"><u>Being Peace | Free Book</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/best-binge-worthy-tv-streaming-options-available-in-2024/"><u>Best Binge-Worthy TV Streaming Options Available in 202^4</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-installer-windows-11-sur-des-ordinateurs-multiples-en-un-coup-guide-facile/"><u>Comment Installer Windows 11 Sur Des Ordinateurs Multiples en Un Coup - Guide Facile</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/demarrer-sans-probleme-un-dell-sur-windows-11-guide-dinstallation-simple/"><u>Demarrer Sans Problème Un Dell Sur Windows 11 - Guide D'Installation Simple</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/der-computer-startet-selbststandig-verstehen-sie-die-ursachen-und-ergreifen-sie-geeignete-massnahmen-zur-behebung-des-problems/"><u>Der Computer Startet Selbstständig: Verstehen Sie Die Ursachen Und Ergreifen Sie Geeignete Maßnahmen Zur Behebung Des Problems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-restore-information-on-an-xqd-card-after-re-formatting-the-leading-solutions/"><u>How to Restore Information on an XQD Card After Re-Formatting: The Leading Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>In 2024, From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-googles-new-breakthrough-an-in-depth-look-at-the-palm-2-system/"><u>Inside Google's New Breakthrough: An In-Depth Look at the PaLM 2 System</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728482563319-ipaditunes/"><u>IPad音乐传输到电脑:使用ITunes与其他方法</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-tecno-phantom-v-flip-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Phantom V Flip Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiedergutmachung-auf-ios-vollstandiges-loschen-von-inhalten-und-einstellungen/"><u>Wiedergutmachung Auf iOS: Vollständiges Löschen Von Inhalten Und Einstellungen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504960706-windows-11-plus/"><u>Windows 11處理停用或開啟最近使用過的文件 - 兩種有效解決方式+一項建議</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams-for-2024/"><u>[New] Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevating-designs-with-illustrators-3d-text-tools/"><u>[New] In 2024, Elevating Designs with Illustrator's 3D Text Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-gamers-choice-best-alternatives-to-official-recorder/"><u>[Updated] In 2024, Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-art-of-backdrop-blurring-on-windows-11-photos/"><u>Decoding the Art of Backdrop Blurring on Windows 11 Photos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easily-transform-powerpoint-decks-to-pdf-files-with-our-simple-tricks-guidance-by-yl-software-experts/"><u>Easily Transform PowerPoint Decks to PDF Files with Our Simple Tricks - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-strategies-for-enhancing-your-pcs-efficiency-insights-from-yl-tech/"><u>Expert Strategies for Enhancing Your PC's Efficiency - Insights From YL Tech</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-new-functionality-with-the-updated-pcdj-dex-35-software/"><u>Exploring New Functionality with the Updated PCDJ DEX 3.5 Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/file-renaming-techniques-expert-guide-by-yl-computings-software-solutions/"><u>File Renaming Techniques: Expert Guide by YL Computing's Software Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g13-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G13</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-phantoms-time-recapture/"><u>Mastering the Art of Phantom's Time Recapture</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/outcome-of-the-boxer-uprising-in-china-a-comprehensive-analysis-by-yl-computing/"><u>Outcome of the Boxer Uprising in China: A Comprehensive Analysis by YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-software-presents-stunning-black-wolves-high-res-wallpaper-collection-for-dynamic-desktops-and-devices/"><u>YL Software Presents: Stunning Black Wolves High-Res Wallpaper Collection for Dynamic Desktops and Devices</u></a></li>
 </ul></div>
 

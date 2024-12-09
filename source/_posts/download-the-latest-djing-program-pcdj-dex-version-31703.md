@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2024-11-23T18:49:08.867Z
-updated: 2024-11-30T20:38:54.897Z
+date: 2024-12-02T02:04:18.033Z
+updated: 2024-12-09T04:36:44.577Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tints-and-tonality-applying-theoretical-insight/"><u>[New] Tints & Tonality Applying Theoretical Insight</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-visualize-images-mastering-photo-editing-tools/"><u>[New] Visualize Images Mastering Photo Editing Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-skyrocket-viewer-count-efficient-templated-content-creation-in-youtube-descs/"><u>[Updated] 2024 Approved Skyrocket Viewer Count Efficient Templated Content Creation in YouTube Descs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-seamless-mp3-transfer-from-pc-to-iphone-no-itunes-required/"><u>1. Seamless MP3 Transfer From PC to iPhone - No iTunes Required</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-15-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 15 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504965122-windows-11windows-10/"><u>轻松指南：两种方法将电脑从Windows 11升格为Windows 10。</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/beide-ansatze-zur-ubertragung-und-schutz-neuer-daten-auf-einen-externen-speicherplatz/"><u>Beide Ansätze Zur Übertragung Und Schutz Neuer Daten Auf Einen Externen Speicherplatz</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-arreter-la-reinitialisation-automatique-et-le-redemarrage-incessant-sur-votre-ordinateur-avec-windows-10-guideline-rapide/"><u>Comment Arrêter La Réinitialisation Automatique Et Le Redémarrage Incessant Sur Votre Ordinateur Avec Windows 10 - Guideline Rapide!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-pratique-pour-la-creation-dune-image-iso-de-windows-sur-mesure/"><u>Guide Pratique Pour La Création D'une Image ISO De Windows Sur Mesure</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-keeping-your-imessages-confidential-on-iphone-across-three-scenarios/"><u>Guide: Keeping Your iMessages Confidential on iPhone Across Three Scenarios</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-effortlessly-recover-deleted-data-from-your-hard-disk-using-windows-versions-11-10-8-and-7-techniques/"><u>How to Effortlessly Recover Deleted Data From Your Hard Disk Using Windows Versions 11, 10, 8, and 7 Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Reno 10 Pro+ 5G?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagrams-essential-edits-the-definitive-list-of-apps-for-2024/"><u>Instagram's Essential Edits The Definitive List of Apps for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-combine-videos-online-without-spending-a-dime-top-5-tools/"><u>New Combine Videos Online Without Spending a Dime Top 5 Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premium-live-screenbackscapes-2023/"><u>Premium Live Screenbackscapes 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-navigating-through-ez-grabbers-features/"><u>2024 Approved Navigating Through EZ Grabber's Features</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1732511747520-ylyl/"><u>武则天之所以成为民间仰慕圣女 - YL技术洞察：YL软件专题</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deeper-look-into-magix-visual-processing/"><u>A Deeper Look Into MAGIX Visual Processing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/adapting-your-computers-operating-languages-control-panel-edition-instructions-from-yl-computing-experts/"><u>Adapting Your Computer’s Operating Languages: Control Panel Edition – Instructions From YL Computing Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-france-through-its-language-top-expressions/"><u>Discovering France Through Its Language: Top Expressions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/excel-made-easy-beginners-blueprint-for-building-a-spreadsheet-with-yl-software-assistance/"><u>Excel Made Easy: Beginner's Blueprint for Building a Spreadsheet with YL Software Assistance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/hd-audi-r18-le-mans-racing-posters-high-resolution-wallpapers-and-desktop-icons-for-enthusiasts/"><u>HD Audi R18 Le Mans Racing Posters - High-Resolution Wallpapers & Desktop Icons for Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-2v-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 2V Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-one-from-keeping-your-pc-in-crisis/"><u>How to Stop Thunder Tier One From Keeping Your PC in Crisis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insight-into-facebook-understanding-its-beginnings-appeal-factors-and-core-components/"><u>Insight Into Facebook: Understanding Its Beginnings, Appeal Factors, and Core Components</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-print-issues-after-modifying-your-printer-configuration-a-guide-yl-computing/"><u>Resolving Print Issues After Modifying Your Printer Configuration: A Guide - YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-tips-how-to-fix-the-graphics-card-installation-failed-error-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How to Fix the 'Graphics Card Installation Failed' Error - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-chrome-stuck-in-w11-quick-fixes/"><u>Troubleshooting: Chrome Stuck in W11? Quick Fixes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-computings-visual-treat-high-res-wallpaper-and-splash-images-library/"><u>YL Computing's Visual Treat - High-Res Wallpaper & Splash Images Library</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Your Campaigns: The Updated Foundations of Email Marketing in 2010 | Part Two, Featuring Massmail Insights"
-date: 2024-11-25T16:25:21.377Z
-updated: 2024-11-30T16:02:15.862Z
+date: 2024-12-07T19:54:15.488Z
+updated: 2024-12-08T16:39:42.815Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,10 +36,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -47,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,13 +70,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,9 +90,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -98,24 +110,16 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-in-depth-app-assessment-vlles-view/"><u>[Updated] 2024 Approved In-Depth App Assessment VLLE's View</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovative-10-plugin-upgrades-for-fcp-users/"><u>[Updated] 2024 Approved Innovative 10 Plugin Upgrades for FCP Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dial-up-your-digital-presence-tips-for-confident-video-creators-for-2024/"><u>[Updated] Dial Up Your Digital Presence Tips for Confident Video Creators for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comprendre-limportance-de-la-sauvegarde-block-par-block-et-comment-cela-ameliore-la-securite-de-vos-donnees/"><u>Comprendre L'importance De La Sauvegarde Block Par Block Et Comment Cela Améliore La Sécurité De Vos Données</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/dicas-estrategicas-para-backup-eficiente-de-pcs-e-servidores-nas-pequenas-and-grandes-empresas/"><u>Dicas Estratégicas Para Backup Eficiente De PCs E Servidores Nas Pequenas & Grandes Empresas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhance-audio-visual-sync-with-wmp-subtitle-integration/"><u>Enhance Audio-Visual Sync with WMP Subtitle Integration</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/fixing-lenovo-onekey-recovery-issues-a-complete-guide/"><u>Fixing Lenovo OneKey Recovery Issues: A Complete Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-chatbot-prompts-to-podcast-echoes/"><u>From ChatBot Prompts to Podcast Echoes</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/gestion-de-migration-des-disques-detat-samsung-m2-ssd-pour-systeme-optimise-logiciel-gratuit/"><u>Gestion De Migration Des Disques D'état Samsung M.2 SSD Pour Système Optimisé - Logiciel Gratuit</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/google-worker-reveals-preference-finding-happiness-in-macbooks-not-windows-laptops-an-in-depth-look-by-zdnet/"><u>Google Worker Reveals Preference: Finding Happiness in MacBooks, Not Windows Laptops – An In-Depth Look by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-accidental-keyboard-hotkeys-at-desktop/"><u>Overcoming Accidental Keyboard Hotkeys at Desktop</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pro-editors-top-list-best-portable-devices-for-visual-storytelling-for-2024/"><u>Pro-Editors' Top List Best Portable Devices for Visual Storytelling for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schritt-fur-schritt-guide-aktivierung-des-recycle-bins-in-windows-11-vollstandiger-leitfaden/"><u>Schritt-Für-Schritt-Guide: Aktivierung Des Recycle Bins in Windows 11 - Vollständiger Leitfaden</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/setting-up-automated-data-transfer-using-aomei-backupper-on-macos/"><u>Setting Up Automated Data Transfer: Using AOMEI Backupper on macOS</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/sicherung-und-wiederherstellung-verlorener-dateien-auf-externen-datentragern-ohne-verwendung-des-papierkorbs/"><u>Sicherung Und Wiederherstellung Verlorener Dateien Auf Externen Datenträgern Ohne Verwendung Des Papierkorbs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/solution-simple-et-facile-pour-forcer-la-fermeture-dun-fichier-ouvert-dans-un-programme-concurrent/"><u>Solution Simple Et Facile Pour Forcer La Fermeture D’Un Fichier Ouvert Dans Un Programme Concurrent</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-source-links-missing-on-your-new-macos-a-comprehensive-guide/"><u>Troubleshooting Source Links Missing on Your New macOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-9-must-play-screen-free-apps-for-offline-android-enthusiasts-for-2024/"><u>[Updated] 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-tesla-inaugurates-revolutionary-electric-power-service/"><u>1. Tesla Inaugurates Revolutionary Electric Power Service</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-digital-diary-top-picks-for-personal-video-devices/"><u>2024 Approved Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compatibilidad-de-av1-con-plex-como-empezar/"><u>Compatibilidad De AV1 Con Plex - Cómo Empezar</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-causes-of-reduced-image-clarity-in-your-scanners-insights-from-yl-computings-guide/"><u>Exploring the Causes of Reduced Image Clarity in Your Scanners - Insights From YL Computing's Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-how-to-fix-persistent-crashes-in-manor-lords-when-played-on-a-desktop-computer/"><u>Guide: How to Fix Persistent Crashes in Manor Lords When Played on a Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-connectivity-issues-with-corsair-icue-on-latest-windows-versions/"><u>How to Solve Connectivity Issues with Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y36-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y36 Without PUK Codes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/realistic-orange-hexagon-with-sunlight-glow-hd-wallpaper-by-yl-computing/"><u>Realistic Orange Hexagon with Sunlight Glow HD Wallpaper by YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/solving-scanner-issues-quickly-step-by-step-guide-by-yl-software-professionals/"><u>Solving Scanner Issues Quickly: Step-by-Step Guide by YL Software Professionals</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/solving-windows-registry-problems-expert-tips-from-yl-computing/"><u>Solving Windows Registry Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/successful-techniques-in-designing-a-professional-dj-emblem/"><u>Successful Techniques in Designing a Professional DJ Emblem</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-unexpected-system-shutdowns-expert-advice-from-yl-computing/"><u>Troubleshooting Unexpected System Shutdowns: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/uncovering-typical-reasons-behind-gpu-malfunctions-insights-from-yl-computings-experts/"><u>Uncovering Typical Reasons Behind GPU Malfunctions: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-computing-tutorial-diagnosing-and-repairing-external-hdd-recognition-problems/"><u>YL Computing Tutorial: Diagnosing and Repairing External HDD Recognition Problems</u></a></li>
 </ul></div>
 

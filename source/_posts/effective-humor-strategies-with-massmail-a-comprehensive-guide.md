@@ -1,7 +1,7 @@
 ---
 title: "Effective Humor Strategies with MassMail: A Comprehensive Guide"
-date: 2024-11-28T21:51:09.381Z
-updated: 2024-11-30T20:50:35.373Z
+date: 2024-12-04T18:09:00.333Z
+updated: 2024-12-08T19:08:26.897Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,17 +36,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -74,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,13 +82,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,6 +98,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -106,17 +110,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-roadmap-to-yotube-stardom-with-best-selling-music-videos/"><u>[New] 2024 Approved The Ultimate Roadmap to YoTube Stardom with Best-Selling Music Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-write-striking-introductions-insights-and-demonstrations/"><u>[New] 2024 Approved Write Striking Introductions Insights & Demonstrations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneering-macstreaming-avoiding-common-pitfalls-in-mixer/"><u>[Updated] Pioneering MacStreaming Avoiding Common Pitfalls in Mixer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-google-pixel-8-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Google Pixel 8 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-gaming-an-in-depth-look-at-the-nintendo-switch-lite-the-portable-alternative/"><u>Budget-Friendly Gaming: An In-Depth Look at the Nintendo Switch Lite - The Portable Alternative</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creative-canvas-best-sites-for-tailored-wallpapers-on-your-pc/"><u>Creative Canvas Best Sites for Tailored Wallpapers on Your PC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/den-grund-fur-das-wiederholte-verschwinden-ihres-usb-sticks-erkennen/"><u>Den Grund Für Das Wiederholte Verschwinden Ihres USB-Sticks Erkennen</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-steps-for-expanding-storage-on-windows-without-a-full-os-install/"><u>Easy Steps for Expanding Storage on Windows without a Full OS Install</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-largest-collection-of-free-vector-graphics-portals/"><u>Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-securely-wiping-data-and-factory-reinitializing-your-windows-11-tablet-by-skipping-passcode/"><u>Guide: Securely Wiping Data and Factory Reinitializing Your Windows 11 Tablet by Skipping Passcode</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/reinitialisation-vraie-du-demarrage-pour-windows-server-2016-2-techniques-efficaces-testees/"><u>Réinitialisation Vraie Du Démarrage Pour Windows Server 2016 | 2 Techniques Efficaces Testées</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/resolve-your-airplay-dilemmas-expert-tips-and-tricks/"><u>Resolve Your AirPlay Dilemmas: Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-issues-with-creating-server-backup-snap-in-on-windows-server-through-microsoft-management-console/"><u>Resolving Issues with Creating Server Backup Snap-In on Windows Server Through Microsoft Management Console</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schritt-fur-schritt-anleitung-zum-datentransfer-zwischen-zwei-microsd-karten/"><u>Schritt-Für-Schritt-Anleitung Zum Datentransfer Zwischen Zwei MicroSD-Karten</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/sql-server-2012-express-simple-guide-to-automating-database-backups/"><u>SQL Server 2012 Express: Simple Guide to Automating Database Backups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-fine-line-at-work-analyzing-10-scenarios-where-chatgpt-might-cost-you-your-job/"><u>The Fine Line at Work: Analyzing 10 Scenarios Where ChatGPT Might Cost You Your Job</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-clear-sky-route-to-free-unmarked-tiktok-videos/"><u>[New] The Clear-Sky Route to Free, Unmarked TikTok Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-banner-bliss-get-a-peek-at-our-library-of-50-free-youtube-banners/"><u>2024 Approved Banner Bliss Get a Peek at Our Library of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unleashing-potential-in-your-channel-through-studio/"><u>2024 Approved Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-how-the-cubefit-terramat-enables-exercise-while-working/"><u>Comprehensive Review: How the CubeFit TerraMat Enables Exercise While Working</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/impact-of-the-sino-japanese-conflict-on-contemporary-china-insights-from-yl-computing-and-yl-software/"><u>Impact of the Sino-Japanese Conflict on Contemporary China: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-hardware-troubleshooting-with-expert-diagnostic-solutions-for-optimal-system-performance/"><u>Mastering Hardware Troubleshooting with Expert Diagnostic Solutions for Optimal System Performance</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/secure-your-blogging-space-the-importance-of-2fa-in-protecting-your-wordpress-site-by-yl-software-experts/"><u>Secure Your Blogging Space: The Importance of 2FA in Protecting Your WordPress Site - By YL Software Experts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-essentials-correcting-windows-program-errors-with-expert-tips-from-yl-computing/"><u>Troubleshooting Essentials: Correcting Windows Program Errors with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1732518883237-uyl-computing/"><u>U兄领路：从明道御术到跨越万亿孤独之旅—YL Computing专栏文章解密</u></a></li>
 </ul></div>
 
