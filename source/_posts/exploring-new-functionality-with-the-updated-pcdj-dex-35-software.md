@@ -1,7 +1,7 @@
 ---
 title: Exploring New Functionality with the Updated PCDJ DEX 3.5 Software
-date: 2024-12-06T02:55:50.003Z
-updated: 2024-12-08T18:01:27.923Z
+date: 2024-12-08T20:59:23.477Z
+updated: 2024-12-14T23:46:50.476Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ Many times the standard, bullet-point-style lists that are included with our ema
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features Included With The DEX 3.5 Upgrade
@@ -55,7 +55,7 @@ Many times the standard, bullet-point-style lists that are included with our ema
 If you’re an existing DEX 3 user you can find the free update [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/11/newindex35-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-video-privacy-techniques-for-obscuring-details/"><u>[New] In 2024, Mastering Video Privacy Techniques for Obscuring Details</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[New] Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simplified-guide-to-stories-mechanics/"><u>[Updated] Simplified Guide to Stories' Mechanics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-gopro-footage-in-3-simple-steps/"><u>2024 Approved Professional Gopro Footage in 3 Simple Steps</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/a-beginners-guide-mastering-your-system-with-windows-defender-firewall-tips-from-yl-computing/"><u>A Beginner's Guide: Mastering Your System with Windows Defender Firewall - Tips From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-v27e-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on V27e.</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-improve-a-feeble-wi-fi-connection-insights-from-yl-computing/"><u>How Can I Improve a Feeble Wi-Fi Connection? - Insights From YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-d3dgear-screen-recorder-review/"><u>In 2024, D3DGear Screen Recorder Review</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/new-melodies-await-protect-your-playlist-freedom-on-karaoke-cloud-pro/"><u>New Melodies Await! Protect Your Playlist Freedom on Karaoke Cloud Pro!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Wireless Charging Pads : Comprehensive Review by Tech Experts | PCMag</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-a-non-booting-hard-drive-steps-from-yl-computings-guide/"><u>Troubleshooting a Non-Booting Hard Drive: Steps From YL Computing's Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/yl-software-tutorial-easy-font-installation-with-control-panel-in-windows/"><u>YL Software Tutorial: Easy Font Installation with Control Panel in Windows</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/yl-softwares-solutions-for-dealing-with-dysfunctional-sound-cards/"><u>YL Software's Solutions for Dealing with Dysfunctional Sound Cards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-free-premiere-pro-templates/"><u>[New] Best Free Premiere Pro Templates</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-channel-conversion-secrets-yt-vs-igtv/"><u>[Updated] Channel Conversion Secrets YT Vs IGTV</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-non-athletic-games-the-best-10-front-rows/"><u>[Updated] Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-samsung-ue590-4k-freesync-gaming-monitor-review-for-2024/"><u>[Updated] Samsung UE590 4K FreeSync Gaming Monitor Review for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-mkv-player-for-pc-and-mobile/"><u>2024 Approved Best Mkv Player for PC and Mobile</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro with/without SIM Card</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-well-does-windows-defender-shield-against-online-threats-including-malware-expert-analysis-by-yl-computing-yl-software/"><u>How Well Does Windows Defender Shield Against Online Threats, Including Malware? – Expert Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximize-efficiency-with-wmp-for-audio-conversion/"><u>Maximize Efficiency with WMP for Audio Conversion</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/modifying-display-preferences-in-windows-control-panel-methods-explained-by-experts-at-yl-computing-innovations/"><u>Modifying Display Preferences in Windows: Control Panel Methods Explained by Experts at YL Computing Innovations</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-adjusting-audio-preferences-through-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Audio Preferences Through the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-strategies-for-efficient-video-compression-before-sending-via-email/"><u>Top 9 Strategies for Efficient Video Compression Before Sending via Email</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unexpected-pc-freezes-and-restarts-diagnosis-and-solutions-with-yl-software-guidance/"><u>Unexpected PC Freezes and Restarts: Diagnosis & Solutions with YL Software Guidance</u></a></li>
 </ul></div>
 
