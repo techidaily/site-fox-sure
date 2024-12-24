@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2024-12-13T23:13:50.374Z
-updated: 2024-12-15T04:21:40.187Z
+date: 2024-12-21T06:03:34.341Z
+updated: 2024-12-23T23:03:20.242Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-popular.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-ntbackup-on-windows-10-8-and-7/"><u>A Comprehensive Guide to Understanding & Utilizing NTBackup on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-laptop-efficiency-instantly-no-extra-apps-required-expert-advice-from-yl-software/"><u>Boost Your Laptop Efficiency Instantly: No Extra Apps Required – Expert Advice From YL Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-productivity-with-zoom-and-a-chromebook-for-2024/"><u>Boosting Productivity with Zoom and a Chromebook for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/diy-guide-resolving-your-own-windows-pc-hardware-problems-with-simple-steps-expert-tips-from-yl-computing/"><u>DIY Guide: Resolving Your Own Windows PC Hardware Problems with Simple Steps - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/identifying-reasons-behind-frequent-paper-jams-in-scanners-insights-by-yl-computing/"><u>Identifying Reasons Behind Frequent Paper Jams in Scanners - Insights by YL Computing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-solution-resolve-bsod-error-code-0x00000116-without-hitches/"><u>Quick Solution: Resolve BSOD Error Code 0X00000116 Without Hitches</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/restoring-system-stability-fixing-a-damaged-driver-on-windows-expert-advice-from-yl-computing/"><u>Restoring System Stability: Fixing a Damaged Driver on Windows - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-restoring-lost-images-on-windows-pcs-iphones-and-android-devices/"><u>Step-by-Step Guide: Restoring Lost Images on Windows PCs, iPhones, and Android Devices</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/yl-software-unveils-why-the-great-wall-of-china-holds-historical-importance/"><u>YL Software Unveils Why the Great Wall of China Holds Historical Importance</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-color-grading-strategies-using-luts-for-professional-videos-in-obs/"><u>[Updated] Advanced Color Grading Strategies Using LUTs for Professional Videos in OBS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-process-of-streaming-on-facebook-live/"><u>[Updated] In 2024, Seamless Process of Streaming on Facebook Live</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leveraging-visuals-for-profile-dominance/"><u>2024 Approved Leveraging Visuals for Profile Dominance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-electronics-the-ultimate-guide-from-toms-hardware-experts/"><u>Deciphering Electronics: The Ultimate Guide From Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diagnosing-non-responsive-computers-an-in-depth-guide-by-yl-computing-solutions/"><u>Diagnosing Non-Responsive Computers: An In-Depth Guide by YL Computing Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-how-to-transferring-and-booting-windows-11-to-your-new-hard-drive/"><u>Easy How-To: Transferring & Booting Windows 11 to Your New Hard Drive</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-support-nvidias-quadro-rtx-8000-driver-downloads-for-win7-win8-and-win10-users/"><u>Get the Latest Support: Nvidia's Quadro RTX 8000 Driver Downloads for Win7, Win8 & Win10 Users</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/impact-of-the-sino-japanese-conflict-on-contemporary-china-insights-from-yl-computing-and-yl-software/"><u>Impact of the Sino-Japanese Conflict on Contemporary China: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-hardware-troubleshooting-with-expert-diagnostic-solutions-for-optimal-system-performance/"><u>Mastering Hardware Troubleshooting with Expert Diagnostic Solutions for Optimal System Performance</u></a></li>
+<li><a href="https://fox-where.techidaily.com/selesai-dengan-reset-partisi-jadikan-refs-menjadi-solusi-untuk-kecacauan-disk/"><u>Selesai Dengan Reset Partisi: Jadikan ReFS Menjadi Solusi Untuk Kecacauan Disk!</u></a></li>
+<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-essentials-correcting-windows-program-errors-with-expert-tips-from-yl-computing/"><u>Troubleshooting Essentials: Correcting Windows Program Errors with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/u-yl/"><u>U兄解码万亿孤独之路：获取高回报的关键策略 - 由YL计算提供</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1732518883237-uyl-computing/"><u>U兄领路：从明道御术到跨越万亿孤独之旅—YL Computing专栏文章解密</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-disparities-youtube-versus-dailymotion-for-2024/"><u>Understanding the Disparities YouTube Versus Dailymotion for 2024</u></a></li>
 </ul></div>
 
