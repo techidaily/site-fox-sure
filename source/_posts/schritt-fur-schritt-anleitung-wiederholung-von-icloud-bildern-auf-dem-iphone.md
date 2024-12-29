@@ -1,7 +1,7 @@
 ---
 title: "Schritt-Für-Schritt-Anleitung: Wiederholung Von iCloud-Bildern Auf Dem iPhone"
-date: 2024-12-07T21:54:34.366Z
-updated: 2024-12-14T18:43:36.602Z
+date: 2024-12-26T18:49:01.691Z
+updated: 2024-12-29T18:54:54.675Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cdaf45a12a73275ef22646d781.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
@@ -43,7 +43,7 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
@@ -94,6 +94,10 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
 Nachdem Sie erfahren haben, wie Sie den Papierkorb vom Desktop entfernen und leeren, ist es wichtig zu wissen, wie Sie [gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen](https://tools.techidaily.com/ubackup/products/) können.
@@ -114,24 +118,20 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -157,17 +157,21 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -204,12 +208,16 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -243,15 +251,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,21 +268,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-exclusive-android-3d-video-enthusiasts-choice/"><u>[New] 2024 Approved Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-non-sport-spectacles-in-the-top-ten-front-rows/"><u>[New] In 2024, Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-complete-guide-to-assembling-youtube-music-collections-onlineapp-wise/"><u>[New] The Complete Guide to Assembling YouTube Music Collections Online/App-Wise</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-budget-friendly-tactics-to-increase-your-youtube-video-impact/"><u>[Updated] In 2024, Budget-Friendly Tactics to Increase Your YouTube Video Impact</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/movavi-aacmov/"><u>「Movaviで簡単! オンライン無料AAC形式へのMOVファイル変換」</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/adjusting-your-computers-display-text-size-a-step-by-step-guide-tech-solutions-by-yl/"><u>Adjusting Your Computer's Display Text Size: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-computers-power-and-response-time-with-these-essential-hardware-improvements-guided-by-yl-computing-experts/"><u>Boost Your Computer's Power and Response Time with These Essential Hardware Improvements – Guided by YL Computing Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/can-you-detect-a-cpu-running-hot-expert-guide-on-identifying-processor-overheat-yl-tech-insights/"><u>Can You Detect a CPU Running Hot? Expert Guide on Identifying Processor Overheat - YL Tech Insights</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/diagnosing-mysterious-hard-drive-noises-expert-advice-from-yl-computing-team/"><u>Diagnosing Mysterious Hard Drive Noises - Expert Advice From YL Computing Team</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-troubleshoot-a-non-networked-scanner-issue-expert-tips-from-yl-computing/"><u>How Can I Troubleshoot a Non-Networked Scanner Issue? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-successfully-overcome-error-code-0xc00021a-during-windows-10-setup/"><u>How to Successfully Overcome Error Code 0xC00021A During Windows 10 Setup</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/migrating-from-spotify-to-a-personalized-youtube-music-list-for-2024/"><u>Migrating From Spotify to a Personalized YouTube Music List for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/outstanding-value-in-fossil-watches-a-comprehensive-product-analysis/"><u>Outstanding Value in Fossil Watches - A Comprehensive Product Analysis</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/the-ultimate-guide-to-replicating-your-nvme-ssd-on-one-motherboard-full-instructions-inside/"><u>The Ultimate Guide to Replicating Your NVMe SSD on One Motherboard - Full Instructions Inside!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/unexpected-system-hiccups-steps-to-take-when-your-computer-acts-up-tips-from-yl-computing-experts/"><u>Unexpected System Hiccups: Steps to Take When Your Computer Acts Up - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/updating-windows-defender-a-step-by-step-guide-expert-advice-by-yl-computing/"><u>Updating Windows Defender: A Step-by-Step Guide - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-precision-editing-made-simple-with-youtube-studio-tools/"><u>[Updated] 2024 Approved Precision Editing Made Simple with YouTube Studio Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>[Updated] In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-smooth-video-playback-for-televisions-with-youtube-for-2024/"><u>[Updated] Smooth Video Playback for Televisions with YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-time-keeper-learning-to-rewind-for-2024/"><u>[Updated] The Instagram Time Keeper Learning to Rewind for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-troubleshooting-guide-to-revive-your-pictures-with-standard-stellar-photo-repair-on-windows/"><u>Comprehensive Troubleshooting Guide to Revive Your Pictures with Standard Stellar Photo Repair on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/detecting-defective-hardware-parts-a-guide-by-yl-computing/"><u>Detecting Defective Hardware Parts: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/drone-showdown-dji-vs-gopro-hero-for-2024/"><u>Drone Showdown DJI vs GoPro Hero for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-fixes-for-pc-sound-glitches-explained-with-yl-software-expertise/"><u>Easy Fixes for PC Sound Glitches Explained with YL Software Expertise</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-do-you-know-when-to-refresh-your-wi-fi-driver-insights-from-yl-software-experts/"><u>How Do You Know When to Refresh Your Wi-Fi Driver? Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-crypto-evaluation-strategies-for-calculating-intrinsic-value-with-expertise-from-yl-software/"><u>Mastering Crypto Evaluation: Strategies for Calculating Intrinsic Value with Expertise From YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/maximizing-storage-efficient-hard-drive-management-strategies-insights-from-yl-computing/"><u>Maximizing Storage: Efficient Hard Drive Management Strategies - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/media-monkey-mastery-enhance-and-refresh-your-audiovisual-tagging-with-dj-expertise/"><u>Media Monkey Mastery: Enhance & Refresh Your Audiovisual Tagging with DJ Expertise</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-windows-identifying-common-problems-affecting-audio-volume-yl-tech-solutions/"><u>Troubleshooting Windows: Identifying Common Problems Affecting Audio Volume - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-causes-of-poor-broadband-speed-expert-insights-from-yl-computing/"><u>Understanding the Causes of Poor Broadband Speed: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/upgrade-your-setup-with-the-behringer-cmd-studio-4a-the-latest-pcdj-supported-dj-controller/"><u>Upgrade Your Setup with the Behringer CMD STUDIO #4A - The Latest PCDJ Supported DJ Controller</u></a></li>
+<li><a href="https://facebook.techidaily.com/withheld-implementation-date-for-whatsapps-new-privacy-agreement/"><u>Withheld Implementation Date for WhatsApp's New Privacy Agreement</u></a></li>
 </ul></div>
 

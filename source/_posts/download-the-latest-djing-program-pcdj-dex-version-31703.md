@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2024-12-21T06:03:34.341Z
-updated: 2024-12-23T23:03:20.242Z
+date: 2024-12-26T19:30:20.602Z
+updated: 2024-12-29T20:34:36.841Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-color-grading-strategies-using-luts-for-professional-videos-in-obs/"><u>[Updated] Advanced Color Grading Strategies Using LUTs for Professional Videos in OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-process-of-streaming-on-facebook-live/"><u>[Updated] In 2024, Seamless Process of Streaming on Facebook Live</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-leveraging-visuals-for-profile-dominance/"><u>2024 Approved Leveraging Visuals for Profile Dominance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-electronics-the-ultimate-guide-from-toms-hardware-experts/"><u>Deciphering Electronics: The Ultimate Guide From Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/diagnosing-non-responsive-computers-an-in-depth-guide-by-yl-computing-solutions/"><u>Diagnosing Non-Responsive Computers: An In-Depth Guide by YL Computing Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-how-to-transferring-and-booting-windows-11-to-your-new-hard-drive/"><u>Easy How-To: Transferring & Booting Windows 11 to Your New Hard Drive</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-support-nvidias-quadro-rtx-8000-driver-downloads-for-win7-win8-and-win10-users/"><u>Get the Latest Support: Nvidia's Quadro RTX 8000 Driver Downloads for Win7, Win8 & Win10 Users</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/impact-of-the-sino-japanese-conflict-on-contemporary-china-insights-from-yl-computing-and-yl-software/"><u>Impact of the Sino-Japanese Conflict on Contemporary China: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-hardware-troubleshooting-with-expert-diagnostic-solutions-for-optimal-system-performance/"><u>Mastering Hardware Troubleshooting with Expert Diagnostic Solutions for Optimal System Performance</u></a></li>
-<li><a href="https://fox-where.techidaily.com/selesai-dengan-reset-partisi-jadikan-refs-menjadi-solusi-untuk-kecacauan-disk/"><u>Selesai Dengan Reset Partisi: Jadikan ReFS Menjadi Solusi Untuk Kecacauan Disk!</u></a></li>
-<li><a href="https://facebook.techidaily.com/terrifying-realities-in-metas-media-empire/"><u>Terrifying Realities in Meta’s Media Empire</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-essentials-correcting-windows-program-errors-with-expert-tips-from-yl-computing/"><u>Troubleshooting Essentials: Correcting Windows Program Errors with Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/u-yl/"><u>U兄解码万亿孤独之路：获取高回报的关键策略 - 由YL计算提供</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1732518883237-uyl-computing/"><u>U兄领路：从明道御术到跨越万亿孤独之旅—YL Computing专栏文章解密</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-disparities-youtube-versus-dailymotion-for-2024/"><u>Understanding the Disparities YouTube Versus Dailymotion for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-visualization-top-story-filter-guide/"><u>[Updated] Viral Visualization Top Story Filter Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/a-step-by-step-approach-to-verify-your-pcs-health-and-stability-on-windows-platform-advice-from-yl-software-experts/"><u>A Step-by-Step Approach to Verify Your PC's Health and Stability on Windows Platform – Advice From YL Software Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/achieve-ultimate-computer-speed-tips-and-tricks-from-yl-computings-expert-team/"><u>Achieve Ultimate Computer Speed: Tips and Tricks From YL Computing's Expert Team</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rinting-engaging-content-layouts-on-youtube/"><u>Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153853041-connect-with-melodies-enjoy-spotifys-mini-panel-on-facebook/"><u>Connect with Melodies: Enjoy Spotify's Mini-Panel on Facebook!</u></a></li>
+<li><a href="https://techidaily.com/create-stunning-ai-illustrations-at-no-cost-a-5-step-guide/"><u>Create Stunning AI Illustrations at No Cost: A 5 Step Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/detecting-and-upgrading-obsolete-programs-a-guide-by-yl-computing-modernize-your-tech/"><u>Detecting & Upgrading Obsolete Programs: A Guide by YL Computing - Modernize Your Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-chrome-freezing-windows-11-easily/"><u>Fix Chrome Freezing Windows 11 Easily</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/hd-wallpaper-and-desktop-backgrounds-featuring-bentley-motor-cars-premium-graphics-for-enthusiasts-yl-computing/"><u>HD Wallpaper and Desktop Backgrounds Featuring Bentley Motor Cars: Premium Graphics for Enthusiasts - YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-fix-a-non-booting-computer-expert-tips-from-yl-computing-and-yl-software/"><u>How to Fix a Non-Booting Computer: Expert Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/is-technical-expertise-needed-to-utilize-crypto-address-balance-tools-insights-from-yl-computings-innovations/"><u>Is Technical Expertise Needed to Utilize Crypto Address Balance Tools? Insights From YL Computing's Innovations</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/karaoke-file-naming-solution-v1-is-here-get-your-updated-file-renamer-for-seamless-djing-experience-pcdj-ready/"><u>Karaoke File Naming Solution v1 Is Here! Get Your Updated File Renamer for Seamless DJing Experience | PCDJ Ready</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-shorts-effective-income-strategies/"><u>Mastering YouTube Shorts Effective Income Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-there-was-an-error-when-trying-to-reset-your-windows-10-pc-tips-and-solutions/"><u>Resolving There Was an Error When Trying to Reset Your Windows 10 PC – Tips & Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-access-and-monitor-network-settings-via-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Access and Monitor Network Settings via Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-vloggers-selection-premium-camera-lenses-compared-for-2024/"><u>The Vlogger's Selection Premium Camera Lenses Compared for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Promotion in 2011: Optimal Scheduling & Distribution with MassMail Suite"
-date: 2024-12-09T02:04:35.573Z
-updated: 2024-12-14T18:42:39.258Z
+date: 2024-12-26T20:02:48.743Z
+updated: 2024-12-29T17:35:30.117Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,10 +36,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -51,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,6 +74,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -81,6 +85,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -90,10 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -102,16 +106,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-adventurers-anthology-the-finest-10-affordable-mmos-for-2024/"><u>[Updated] Adventurers' Anthology The Finest 10 Affordable MMOs for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-sleepy-tales-in-visual-format-analysis-for-2024/"><u>[Updated] Sleepy Tales in Visual Format Analysis for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-sluggish-pcs-speed-expert-tips-from-yl-computing/"><u>Boost Your Sluggish PC's Speed: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/can-microsofts-built-in-security-tool-windows-defender-independently-tackle-malware-infections-an-insight-by-yl-computing/"><u>Can Microsoft's Built-In Security Tool, Windows Defender, Independently Tackle Malware Infections? - An Insight by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/discover-your-windows-11-model-and-edition-a-step-by-step-guide/"><u>Discover Your Windows 11 Model & Edition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/efficiently-handling-user-management-via-control-panel-a-guide-by-yl-computing/"><u>Efficiently Handling User Management via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-detect-issues-with-my-graphics-card-remotely-uncover-solutions-with-yl-computings-expertise/"><u>How Can I Detect Issues with My Graphics Card Remotely? Uncover Solutions with YL Computing's Expertise</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-broadcast-vlogs-on-twitter-using-mobile-devices/"><u>How to Broadcast Vlogs on Twitter Using Mobile Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-icloud-not-syncing-issues-today/"><u>How to Fix Your iCloud Not Syncing Issues Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-celestial-high-definition-images-online-guide/"><u>In 2024, Celestial High Definition Images Online Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone X</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-multi-address-management-a-comprehensive-guide-to-monitoring-your-bitcoin-wallet-insights-from-yl-computing/"><u>Mastering Multi-Address Management: A Comprehensive Guide to Monitoring Your Bitcoin Wallet - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/navigating-tax-obligations-a-guide-to-efficiently-handling-your-crypto-portfolio-with-yl-computings-solutions/"><u>Navigating Tax Obligations: A Guide to Efficiently Handling Your Crypto Portfolio with YL Computing's Solutions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevate-video-audio-dynamics-increase-surround-impact-for-2024/"><u>New Elevate Video Audio Dynamics Increase Surround Impact for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/solving-the-issue-unsuccessful-launch-of-windows-programs-expert-tips-from-yl-computing/"><u>Solving the Issue: Unsuccessful Launch of Windows Programs - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-sharing-files-on-your-pc-with-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Sharing Files on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-iphone-secrets-forced-reboot-methods-and-diving-into-recovery-settings/"><u>Unlocking iPhone Secrets: Forced Reboot Methods & Diving Into Recovery Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/"><u>[New] Choosing Livestream Software The OBS Vs. Streamlabs Dilemma for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-art-of-zooming-in-a-videoleap-approach-for-2024/"><u>[New] The Art of Zooming In A Videoleap Approach for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-path-to-painting-perfect-colors/"><u>2024 Approved Photoshop Path to Painting-Perfect Colors</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-discretion-dictate-evade-this-privacy-poachers-group/"><u>Digital Discretion Dictate: Evade This Privacy Poacher's Group</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effective-strategies-to-avoid-computer-overheating-insights-from-yl-computing-and-yl-software/"><u>Effective Strategies to Avoid Computer Overheating - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fixing-the-issue-when-your-scanner-doesnt-detect-pc-solutions-from-yl-computing/"><u>Fixing the Issue When Your Scanner Doesn't Detect PC: Solutions From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-improve-a-feeble-wi-fi-connection-insights-from-yl-computing/"><u>How Can I Improve a Feeble Wi-Fi Connection? - Insights From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-magic-6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor Magic 6 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-identifying-instagram-leavers/"><u>In 2024, Cutting Edge Identifying Instagram Leavers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Before the Plan Expires</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/repair-techniques-for-broken-hard-drives-insights-from-yl-computing/"><u>Repair Techniques for Broken Hard Drives: Insights From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-f54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy F54 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-a-non-booting-hard-drive-steps-from-yl-computings-guide/"><u>Troubleshooting a Non-Booting Hard Drive: Steps From YL Computing's Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-steps-overcoming-issues-with-file-accessibility-on-your-computers-hdd-insights-from-yl-computing/"><u>Troubleshooting Steps: Overcoming Issues with File Accessibility on Your Computer's HDD - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-your-hard-disk-issues-expert-tips-by-yl-software/"><u>Troubleshooting Your Hard Disk Issues: Expert Tips by YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-yl-computings-innovative-software-a-comprehensive-guide/"><u>Understanding YL Computing's Innovative Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/uninstall-obsolete-drivers-on-your-pc-with-ease-expert-advice-by-yl-computing/"><u>Uninstall Obsolete Drivers on Your PC with Ease - Expert Advice by YL Computing</u></a></li>
 </ul></div>
 
