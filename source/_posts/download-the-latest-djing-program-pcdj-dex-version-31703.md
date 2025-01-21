@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2025-01-07T20:44:14.390Z
-updated: 2025-01-14T21:56:56.320Z
+date: 2025-01-14T02:25:06.874Z
+updated: 2025-01-20T16:39:55.184Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-novice-to-vlogger-professional-video-making-on-mobile-devices-for-2024/"><u>[New] From Novice to Vlogger Professional Video Making on Mobile Devices for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-best-free-video-translation-youtubes-extractors-and-downloader-list/"><u>[New] In 2024, The Best-Free Video Translation YouTube's Extractors & Downloader List</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-apex-thrill-racers-our-favorites-5-for-2024/"><u>[Updated] Apex Thrill Racers Our Favorites (5) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-aspiring-youtubers-guide-to-affiliate-allies/"><u>[Updated] In 2024, Aspiring YouTubers' Guide to Affiliate Allies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-clearer-sound-with-these-ipad-tips/"><u>2024 Approved Clearer Sound with These iPad Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-novice-to-pro-the-ultimate-instagram-story-journey-for-2024/"><u>From Novice to Pro The Ultimate Instagram Story Journey for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-a60-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel A60 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-request-a-purchase-invoice-on-flipbuildercom/"><u>How to Request a Purchase Invoice on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-transfer-your-custom-designed-templates-to-flipbuilder/"><u>How to Transfer Your Custom-Designed Templates to FlipBuilder</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone X to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/introducing-interactive-e-books-with-page-turn-animation-discover-how-with-flipbuildercom/"><u>Introducing Interactive E-Books with Page-Turn Animation - Discover How with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/launching-flipbook-links-into-separate-windows-with-ease-a-step-by-step-guide/"><u>Launching Flipbook Links Into Separate Windows with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-based-photo-albums-and-swiftly-flipping-images-made-easy-with-flipimage-visit-flipbuildercom/"><u>Mac-Based Photo Albums & Swiftly Flipping Images Made Easy with FlipImage - Visit flipbuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/make-your-mac-pdfs-into-ebooks-using-flip-builder-a-comprehensive-tutorial/"><u>Make Your Mac PDFs Into eBooks Using Flip Builder – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/preserve-and-restore-your-flipbook-configuration-saved-states-with-ease-on-flipbuildercom/"><u>Preserve and Restore Your Flipbook Configuration Saved States with Ease on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simplify-your-digital-presentations-mastering-output-control-in-flipbooks-using-customizable-buttons-at-flipbuildercom/"><u>Simplify Your Digital Presentations: Mastering Output Control in Flipbooks Using Customizable Buttons at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-to-modifying-page-elements-for-optimal-flipbook-conversion-experience/"><u>Step-by-Step Guide to Modifying Page Elements for Optimal Flipbook Conversion Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rack-the-code-of-content-top-6-youtuber-personality-tests-revealed/"><u>[New] Crack the Code of Content Top 6 YouTuber Personality Tests Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-video-transformation-a-complete-guide-to-rotating-in-vlc-for-2024/"><u>[New] Master Video Transformation A Complete Guide to Rotating in VLC for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-audio-recording-tools-11-edition/"><u>[Updated] In 2024, Premier Audio Recording Tools - #11 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovate-your-farming-journey-with-these-stardews-top-7-mods-for-2024/"><u>[Updated] Innovate Your Farming Journey with These Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-pcs-speed-a-step-by-step-guide-on-upgrading-hardware-yl-tech-solutions/"><u>Boost Your PC's Speed: A Step-by-Step Guide on Upgrading Hardware - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boost-your-systems-efficiency-masterful-techniques-for-enhancing-performance-powered-by-yl-software/"><u>Boost Your System's Efficiency: Masterful Techniques for Enhancing Performance - Powered by YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boosting-laptop-speed-and-stability-essential-advice-by-yl-tech-experts/"><u>Boosting Laptop Speed and Stability: Essential Advice by YL Tech Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/data-recovery-essentials-how-to-find-and-access-your-backups-with-guidance-from-yl-software-solutions/"><u>Data Recovery Essentials: How to Find & Access Your Backups with Guidance From YL Software Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-tips-for-adjusting-your-pcs-network-configuration-in-the-control-panel-by-yl-computing-expertise/"><u>Easy Tips for Adjusting Your PC's Network Configuration in the Control Panel by YL Computing Expertise</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-apple-watch-se-analysis-and-overview/"><u>Economical Apple Watch SE Analysis and Overview</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fix-game-screen-flickering-with-vrr-technology-the-ultimate-guide/"><u>Fix Game Screen Flickering with VRR Technology: The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/going-from-end-to-start-the-instagram-video-technique-for-2024/"><u>Going From End to Start The Instagram Video Technique for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/identifying-and-troubleshooting-pc-network-adapter-problems-on-windows-expert-guidance-from-yl-computing/"><u>Identifying and Troubleshooting PC Network Adapter Problems on Windows - Expert Guidance From YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-f5-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-your-pc-key-adjustments-in-windows-network-and-sharing-center/"><u>Optimizing Your PC: Key Adjustments in Windows Network & Sharing Center</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-utorrent-writes-and-reads-errors-on-windows-os/"><u>Resolving uTorrent' Writes & Reads Errors on Windows OS</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-the-legality-of-digital-assets-a-guide-on-cryptocurrency-laws-by-region-yl-computing/"><u>Understanding the Legality of Digital Assets: A Guide on Cryptocurrency Laws by Region - YL Computing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-revolutionize-your-edits-top-premiere-pro-transition-tools/"><u>Updated In 2024, Revolutionize Your Edits Top Premiere Pro Transition Tools</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-software-presents-installuninstall-applications-in-windows-11-explained/"><u>YL Software Presents: Install/Uninstall Applications in Windows 11 Explained</u></a></li>
 </ul></div>
 
