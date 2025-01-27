@@ -1,7 +1,7 @@
 ---
 title: "Impact of the Sino-Japanese Conflict on Contemporary China: Insights From YL Computing & YL Software"
-date: 2025-01-18T01:24:31.023Z
-updated: 2025-01-20T16:51:01.496Z
+date: 2025-01-19T22:22:14.592Z
+updated: 2025-01-26T17:32:47.226Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-record-gameplay-on-windows-10/"><u>[New] 2024 Approved How to Record Gameplay on Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hannel-gain-traction-comprehensive-guide-to-youtubes-featured-placement/"><u>[New] Channel Gain Traction Comprehensive Guide to YouTube's Featured Placement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-future-of-storage-cutting-edge-cost-effective-solutions/"><u>[New] Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-seamless-imovie-files-to-vimeo-integration-tips/"><u>[New] In 2024, Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instastorysaver-free-storage-beyond-counts/"><u>[Updated] InstaStorySaver Free Storage Beyond Counts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-pcmaclaptop-easy-obs-setup-for-fb-livestreaming/"><u>[Updated] PC/Mac/Laptop Easy OBS Setup for FB Livestreaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fastsetup-step-by-step-guide-to-acquiring-and-installing-validity-sensor-drivers-swiftly/"><u>[FAST_SETUP]: Step-by-Step Guide to Acquiring and Installing Validity Sensor Drivers Swiftly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-periscope-utilization-complete-manual/"><u>[Updated] Step-by-Step Periscope Utilization Complete Manual</u></a></li>
 <li><a href="https://fox-sure.techidaily.com/1728510298900-pc/"><u>「ブルースクリーンが頻発してPCのリセットが必要な場合、解決策とその手順」</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps/"><u>2024 Approved NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Play 7T | Dr.fone</u></a></li>
 <li><a href="https://fox-sure.techidaily.com/office-n365/"><u>高效储存Office N365共用邮箱中已送达邮件: 一步到位解决方案</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5aac5l2v5zue5asn5lin5bcp5bplusd5yig6zmk55qe5b6u5lplush576k6igk5asp6k6w5b2v77yf/"><u>如何回复不小心删除的微信群聊天记录？</u></a></li>
 <li><a href="https://fox-sure.techidaily.com/automatisches-backup-mit-microsoft-outlook-201n-eine-schritt-fur-schritt-anleitung/"><u>Automatisches Backup Mit Microsoft Outlook 201N: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
 <li><a href="https://fox-sure.techidaily.com/effective-strategies-for-safeguarding-your-applications-a-tutorial-on-protecting-installations-in-various-versions-of-windows/"><u>Effective Strategies for Safeguarding Your Applications: A Tutorial on Protecting Installations in Various Versions of Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/empower-your-slide-shows-a-guide-to-adding-speech-to-text-functionality-for-2024/"><u>Empower Your Slide Shows A Guide to Adding Speech-to-Text Functionality for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seagate-ext-hdd6/"><u>Seagate EXT HDDにあるデータを取り戻すための6コツ:ステップバイステップガイド</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transferir-datos-de-un-clonico-hd-de-1-tb-a-una-velocizadora-ssd-de-500-gb-con-seguridad-un-proceso-sencillo-en-4-pasos/"><u>Transferir Datos De Un Clónico HD De 1 TB a Una Velocizadora SSD De 500 GB Con Seguridad: Un Proceso Sencillo en 4 Pasos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutto-su-ripristino-universale-passaggi-essenziali-per-unoperazione-senza-errori/"><u>Tutto Su Ripristino Universale: Passaggi Essenziali per Un'operazione Senza Errori</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728465893363-windows-114/"><u>Windows 11で消失した画像や写真を4つの手段で回復するコツ</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-14-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 14? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guida-pratica-come-spostare-i-file-fotografici-da-un-mac-a-un-disco-rigido-senza-problemi-in-2-modi-efficaci/"><u>Guida Pratica: Come Spostare I File Fotografici Da Un Mac a Un Disco Rigido Senza Problemi in 2 Modi Efficaci</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-color-depth-from-rgb-to-srgb/"><u>In 2024, Color Depth From Rgb to Srgb</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>In 2024, Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-the-moment-how-to-post-on-twitter/"><u>Share the Moment How To Post on Twitter</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-5-ersatzprodukte-fur-syncplicity-die-sichersten-und-zuverlassigsten-optionen/"><u>Top 5 Ersatzprodukte Für Syncplicity: Die Sichersten Und Zuverlässigsten Optionen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-wearables-showdown-why-i-choose-apple-watch-ultra-2-as-my-go-to-gadget-labor-day-sale-alert-save-an-extra-100-zdnet-insights/"><u>Top Wearables Showdown: Why I Choose Apple Watch Ultra 2 as My Go-To Gadget (Labor Day Sale Alert: Save an Extra $100!) | ZDNET Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Promotion in 2011: Optimal Scheduling & Distribution with MassMail Suite"
-date: 2024-12-26T20:02:48.743Z
-updated: 2024-12-29T17:35:30.117Z
+date: 2025-01-22T22:20:57.262Z
+updated: 2025-01-27T01:15:34.473Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -48,10 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -74,25 +70,29 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -110,16 +110,12 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-choosing-livestream-software-the-obs-vs-streamlabs-dilemma-for-2024/"><u>[New] Choosing Livestream Software The OBS Vs. Streamlabs Dilemma for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-zooming-in-a-videoleap-approach-for-2024/"><u>[New] The Art of Zooming In A Videoleap Approach for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photoshop-path-to-painting-perfect-colors/"><u>2024 Approved Photoshop Path to Painting-Perfect Colors</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-discretion-dictate-evade-this-privacy-poachers-group/"><u>Digital Discretion Dictate: Evade This Privacy Poacher's Group</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-strategies-to-avoid-computer-overheating-insights-from-yl-computing-and-yl-software/"><u>Effective Strategies to Avoid Computer Overheating - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/fixing-the-issue-when-your-scanner-doesnt-detect-pc-solutions-from-yl-computing/"><u>Fixing the Issue When Your Scanner Doesn't Detect PC: Solutions From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-can-i-improve-a-feeble-wi-fi-connection-insights-from-yl-computing/"><u>How Can I Improve a Feeble Wi-Fi Connection? - Insights From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-magic-6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor Magic 6 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-identifying-instagram-leavers/"><u>In 2024, Cutting Edge Identifying Instagram Leavers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Before the Plan Expires</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/repair-techniques-for-broken-hard-drives-insights-from-yl-computing/"><u>Repair Techniques for Broken Hard Drives: Insights From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-f54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy F54 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-a-non-booting-hard-drive-steps-from-yl-computings-guide/"><u>Troubleshooting a Non-Booting Hard Drive: Steps From YL Computing's Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-steps-overcoming-issues-with-file-accessibility-on-your-computers-hdd-insights-from-yl-computing/"><u>Troubleshooting Steps: Overcoming Issues with File Accessibility on Your Computer's HDD - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-your-hard-disk-issues-expert-tips-by-yl-software/"><u>Troubleshooting Your Hard Disk Issues: Expert Tips by YL Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-yl-computings-innovative-software-a-comprehensive-guide/"><u>Understanding YL Computing's Innovative Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/uninstall-obsolete-drivers-on-your-pc-with-ease-expert-advice-by-yl-computing/"><u>Uninstall Obsolete Drivers on Your PC with Ease - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-deciphering-instagram-highlights-the-stories-guide/"><u>[Updated] Deciphering Instagram Highlights The Stories Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-vivid-visuals-selecting-the-best-11-tutorials/"><u>2024 Approved Crafting Vivid Visuals Selecting the Best 11 Tutorials</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/decouvrez-le-secret-pour-recuperer-vos-fichiers-locaux-perdus-un-guide-facile-a-suivre/"><u>Découvrez Le Secret Pour Récupérer Vos Fichiers Locaux Perdus : Un Guide Facile À Suivre</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guru-guru-pemulihan-hdd-cara-mudah-menyimpan-data-dari-harddrive-acer-aspire/"><u>Guru-Guru Pemulihan Hdd | Cara Mudah Menyimpan Data Dari Harddrive Acer Aspire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-microsoft-office-suite-opens-the-door-to-cybersecurity-threats/"><u>How Microsoft Office Suite Opens the Door to Cybersecurity Threats</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 8 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-untangling-box-mystery-ideas-to-boost-joy/"><u>In 2024, Untangling Box Mystery Ideas to Boost Joy</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-issues-with-the-windows-migration-assistant-top-5-strategies/"><u>Resolving Issues with the Windows Migration Assistant: Top 5 Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-process-to-enhance-obs-with-effective-lut-filters/"><u>Step-by-Step Process to Enhance OBS with Effective LUT Filters</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-strategies-for-preserving-past-correspondence-in-microsoft-outlook-the-definitive-walkthrough/"><u>Ultimate Strategies for Preserving Past Correspondence in Microsoft Outlook - The Definitive Walkthrough</u></a></li>
 </ul></div>
 
