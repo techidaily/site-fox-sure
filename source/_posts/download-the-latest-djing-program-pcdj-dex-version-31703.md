@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2025-01-25T20:40:11.231Z
-updated: 2025-01-27T01:30:37.068Z
+date: 2025-02-07T22:02:15.393Z
+updated: 2025-02-08T17:53:47.993Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-of-excellence-how-zoom-can-transform-your-podcast-recordings/"><u>[New] Secrets of Excellence How Zoom Can Transform Your Podcast Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-whats-captivating-twitter-users-the-most/"><u>[Updated] 2024 Approved What's Captivating Twitter Users the Most?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-adding-background-melodies-to-vimeo-filmography/"><u>[Updated] Adding Background Melodies to Vimeo Filmography</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-complete-guide-twitter-reaction-videos-for-2024/"><u>[Updated] Complete Guide | Twitter Reaction Videos for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-pcs-speed-a-step-by-step-guide-on-upgrading-hardware-yl-tech-solutions/"><u>Boost Your PC's Speed: A Step-by-Step Guide on Upgrading Hardware - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-systems-efficiency-masterful-techniques-for-enhancing-performance-powered-by-yl-software/"><u>Boost Your System's Efficiency: Masterful Techniques for Enhancing Performance - Powered by YL Software</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boosting-laptop-speed-and-stability-essential-advice-by-yl-tech-experts/"><u>Boosting Laptop Speed and Stability: Essential Advice by YL Tech Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/data-recovery-essentials-how-to-find-and-access-your-backups-with-guidance-from-yl-software-solutions/"><u>Data Recovery Essentials: How to Find & Access Your Backups with Guidance From YL Software Solutions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-tips-for-adjusting-your-pcs-network-configuration-in-the-control-panel-by-yl-computing-expertise/"><u>Easy Tips for Adjusting Your PC's Network Configuration in the Control Panel by YL Computing Expertise</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-selection-of-mobile-guardians-discover-the-best-iphone-malware-defenders/"><u>Elite Selection of Mobile Guardians: Discover the Best iPhone Malware Defenders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/identifying-and-troubleshooting-pc-network-adapter-problems-on-windows-expert-guidance-from-yl-computing/"><u>Identifying and Troubleshooting PC Network Adapter Problems on Windows - Expert Guidance From YL Computing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-deciphering-snss-hdr-capabilities-and-comparisons/"><u>In 2024, Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-note-30-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Note 30 5G FRP?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimizing-your-pc-key-adjustments-in-windows-network-and-sharing-center/"><u>Optimizing Your PC: Key Adjustments in Windows Network & Sharing Center</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/yl-software-presents-installuninstall-applications-in-windows-11-explained/"><u>YL Software Presents: Install/Uninstall Applications in Windows 11 Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-pixel-mastery-over-aspect-ratios-and-dimensions-on-facebook-for-2024/"><u>[New] Unlocking the Power of Pixel Mastery over Aspect Ratios & Dimensions on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-content-creation-premier-android-editors/"><u>[Updated] Cutting-Edge Content Creation Premier Android Editors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-m14-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy M14 4G without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oad-youtube-responsibly-legal-mp4-conversion-methods/"><u>Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-conversion-top-rated-free-and-premium-tools-to-crop-pdfs-without-using-adobe/"><u>Effortless Conversion: Top Rated Free and Premium Tools to Crop PDFs without Using Adobe</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-vevo-to-mp3-conversion-for-mac-and-windows-users/"><u>Effortless Vevo-to-MP3 Conversion for Mac and Windows Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gamer-wealth-wave-the-year-ahead-for-2024/"><u>Gamer Wealth Wave The Year Ahead for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/get-instant-access-best-free-screen-recorders-and-gaming-playback-apps/"><u>Get Instant Access: Best Free Screen Recorders & Gaming Playback Apps!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-calmed-flickers-no-longer-an-issue/"><u>Laptop Display Calmed: Flickers No Longer an Issue</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/retro-beats-visual-archive-download-iconic-80s-music-videos-as-high-quality-mp4-avi-or-mp3-files/"><u>Retro Beats Visual Archive: Download Iconic '80S Music Videos as High-Quality MP4, AVI or MP3 Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/saving-every-word-a-guide-to-fb-messenger-call-logs-for-2024/"><u>Saving Every Word A Guide to FB Messenger Call Logs for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/splash-20-comprehensive-guide-step-by-step-user-manual/"><u>Splash 2.0 Comprehensive Guide: Step-by-Step User Manual</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-window-how-to-quick-and-simple-guide-to-taking-screenshots-on-pc/"><u>Step-by-Step Window How To: Quick & Simple Guide to Taking Screenshots on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tune-up-your-social-media-videos-for-maximum-impact-for-2024/"><u>Tune Up Your Social Media Videos for Maximum Impact for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-tutorial-secure-your-videos-with-smotri-downloader-on-smotricom/"><u>Ultimate Tutorial: Secure Your Videos with Smotri Downloader on smotri.com</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/understanding-pre-launch-system-conditions-and-checks/"><u>Understanding Pre-Launch System Conditions and Checks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
 </ul></div>
 
