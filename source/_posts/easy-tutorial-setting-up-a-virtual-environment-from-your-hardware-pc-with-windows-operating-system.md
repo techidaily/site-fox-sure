@@ -1,7 +1,7 @@
 ---
 title: "Easy Tutorial: Setting Up a Virtual Environment From Your Hardware PC with Windows Operating System"
-date: 2025-02-04T19:09:47.581Z
-updated: 2025-02-08T22:03:33.511Z
+date: 2025-03-03T02:34:44.759Z
+updated: 2025-03-07T01:32:15.180Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1d3282d729e920baf2edbea8.jpg
@@ -27,10 +27,6 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -90,10 +86,6 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
@@ -101,10 +93,6 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
@@ -124,10 +112,6 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
@@ -144,10 +128,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -155,10 +135,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -234,15 +210,7 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -288,15 +256,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,19 +273,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-tactics-for-viral-fb-video-marketing/"><u>[New] 2024 Approved Essential Tactics for Viral FB Video Marketing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-20-instagram-video-exporters-online-windows-mac-edition/"><u>[New] 2024 Approved Top 20 Instagram Video Exporters Online, Windows, Mac Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-tech-insight-saving-meetings-on-devices/"><u>[New] In 2024, Tech Insight Saving Meetings on Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-curb-instagrams-auto-suggest-feature/"><u>[Updated] In 2024, Curb Instagram's Auto-Suggest Feature</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetizing-your-content-deciphering-the-minimum-views-needed/"><u>2024 Approved Monetizing Your Content Deciphering the Minimum Views Needed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-perfect-converter-max-resolution/"><u>2024 Approved Pixel Perfect Converter Max Resolution</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/demystifying-black-lore-wukongs-guarded-secrets-on-steam-and-playstation-5-platforms/"><u>Demystifying Black Lore: Wukong's Guarded Secrets on Steam & PlayStation 5 Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138597273-9781452534220-from-loss-to-enlightenment/"><u>From Loss to Enlightenment | Free Book</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-se-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone SE without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-touchpad-from-interfering-with-the-mouse-in-windows-11-settings/"><u>How to Stop Your Touchpad From Interfering with the Mouse in Windows 11 Settings</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/optimieren-sie-ihr-betriebssystem-drei-moglichkeiten-windows-11-auf-werkseinstellung-zuruckzusetzen-start-mit-dem-bootmenu/"><u>Optimieren Sie Ihr Betriebssystem: Drei Möglichkeiten, Windows 11 Auf Werkseinstellung Zurückzusetzen – Start Mit Dem Bootmenü</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/seagate-ext-hdd6/"><u>Seagate EXT HDDにあるデータを取り戻すための6コツ:ステップバイステップガイド</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wie-wechselst-du-deine-apple-id-fur-die-meldungsubertragung-zwischen-geraten/"><u>Wie Wechselst Du Deine Apple-ID Für Die Meldungsübertragung Zwischen Geräten?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiederherstellungsmethode-fur-partitionierte-datentrager-mit-windows-cmd/"><u>Wiederherstellungsmethode Für Partitionierte Datenträger Mit Windows CMD</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-collabcanvas-pro-instagram-video-mosaics-unite/"><u>[New] CollabCanvas Pro Instagram Video Mosaics Unite</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-converging-music-and-imagery-online/"><u>[New] Converging Music and Imagery Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-stunning-hdr-photography/"><u>[Updated] Innovative Techniques for Stunning HDR Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/android-sound-logging-without-rooting-need/"><u>Android Sound Logging - Without Rooting Need</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demarche-elegante-etapes-faciles-pour-mettre-a-jour-le-micrologiciel-hp-bios/"><u>Démarche Élégante : Étapes Faciles Pour Mettre À Jour Le Micrologiciel HP BIOS</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/demarrer-sans-probleme-un-dell-sur-windows-11-guide-dinstallation-simple/"><u>Demarrer Sans Problème Un Dell Sur Windows 11 - Guide D'Installation Simple</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/efficient-strategies-for-archiving-your-sql-server-data-on-a-network-attached-storage-device/"><u>Efficient Strategies for Archiving Your SQL Server Data on a Network Attached Storage Device</u></a></li>
+<li><a href="https://techidaily.com/effortless-setup-linking-wireless-headphones-to-your-desktop-computer-on-windows-10/"><u>Effortless Setup: Linking Wireless Headphones to Your Desktop Computer on Windows 10</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/get-started-with-aomei-centralized-backupper-free-guide-on-downloading-windows-platform-enabler-pe-software/"><u>Get Started with AOMEI Centralized Backupper: Free Guide on Downloading Windows Platform Enabler (PE) Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-convert-fast-videos-on-iphone-into-slow-motion-magic-for-2024/"><u>How to Convert Fast Videos on iPhone Into Slow Motion Magic for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/repairing-partition-mistakes-made-on-windows-11-1nstead-8-or-7-a-simple-guide/"><u>Repairing Partition Mistakes Made on Windows 11, 1Nstead, 8, or 7 - A Simple Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/iuodhplusodvoocvpluswbnuwplusqtog44kz44k544oi44gq44gx44gn44ov44kh44kk44or44go44ov44kp44or44oa44ks5yan55sf44gz44kl5pa55rovig/"><u>データ回復: コストなしでファイルとフォルダを再生する方法</u></a></li>
 </ul></div>
 

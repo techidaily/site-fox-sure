@@ -1,7 +1,7 @@
 ---
 title: USBデバイス認定失敗に対処するWindows 11 PC - 解決策ベスト6
-date: 2025-01-23T01:46:15.890Z
-updated: 2025-01-27T03:00:54.477Z
+date: 2025-03-04T13:47:41.759Z
+updated: 2025-03-07T12:57:04.864Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45b0aad772e33e1d818e77a97.jpg
@@ -27,10 +27,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
 
@@ -70,17 +66,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -93,10 +81,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 1**. Öffnen Sie eine erhöhte Eingabeaufforderung, indem Sie „cmd“ in die Suchleiste eingeben und auf „**Als Administrator ausführen**“ klicken.
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
@@ -153,17 +137,9 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
@@ -207,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -235,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -248,10 +216,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,22 +232,17 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-elite-no-price-facebook-visual-storytelling-suite/"><u>[New] Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfect-your-pitch-with-android-the-ultimate-list-of-voice-alteration-apps/"><u>[New] In 2024, Perfect Your Pitch with Android The Ultimate List of Voice Alteration Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-youtubers-picks-on-anti-shake-gear-for-professional-videos-for-2024/"><u>[New] YouTubers’ Picks on Anti-Shake Gear for Professional Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-gopro-accessories-for-beginners-for-2024/"><u>[Updated] Best GoPro Accessories for Beginners for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-professionelle-dvd-ripper-and-video-konvertierungssoftware-winxdvd-mit-funktionen-zum-verbessern-von-videos-und-transfer-auf-iphone/"><u>1. Professionelle DVD Ripper & Video-Konvertierungssoftware - WinXDVD Mit Funktionen Zum Verbessern Von Videos Und Transfer Auf iPhone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>2024 Approved FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/bespoke-operations-checklist-craft-your-unique-process-flow/"><u>Bespoke Operations Checklist – Craft Your Unique Process Flow</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-the-top-3-free-substitutes-for-itunes-on-ios-devices/"><u>Discover the Top 3 Free Substitutes for iTunes on iOS Devices</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-file-editing-with-iniexpert-streamline-your-configurations/"><u>Effortless File Editing with INIExpert - Streamline Your Configurations</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/flac-audio-streaming-a-comprehensive-guide-for-android-users/"><u>FLAC Audio Streaming: A Comprehensive Guide for Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-windows-spotlight-issues-on-windows-11-a-step-by-step-guide/"><u>How to Fix Windows Spotlight Issues on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/identifying-hacked-mobile-devices-essential-tips-and-tools-for-security-including-the-malwarefox-guide/"><u>Identifying Hacked Mobile Devices: Essential Tips & Tools for Security, Including the MalwareFox Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-ace-2-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Ace 2 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-teamwork-advanced-options-for-joint-file-storage-and-exchange/"><u>Secure Teamwork: Advanced Options for Joint File Storage and Exchange</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-jigsaw-ransomware-identification-and-prevention-tips-cyberguardian/"><u>Understanding Jigsaw Ransomware: Identification & Prevention Tips - CyberGuardian</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-environment-settings-panel/"><u>Understanding the Environment Settings Panel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-guide-to-saving-instagram-videos-with-maximum-convenience/"><u>[New] 2024 Approved Guide to Saving Instagram Videos with Maximum Convenience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-visual-memories-an-insiders-look-at-video-recorders/"><u>[New] 2024 Approved Visual Memories An Insider's Look at Video Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-outsmart-youtube-sanctions/"><u>[Updated] How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>2024 Approved Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/como-hacer-mas-de-una-copia-de-seguridad-con-exito-en-windows-10-metodos-practicos-y-eficientes/"><u>Cómo Hacer Más De Una Copia De Seguridad Con Éxito en Windows 10 – Métodos Prácticos Y Eficientes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/einfache-methode-zum-exakten-kopieren-von-sd-karten-in-windows-10-eine-bit-fur-bit-losung/"><u>Einfache Methode Zum Exakten Kopieren Von SD-Karten in Windows 10: Eine Bit-Für-Bit-Lösung</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/groundbre-folio-of-gaming-loggers-alternatives-to-fbx/"><u>Groundbre Folio of Gaming Loggers Alternatives to FBX</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-predictive-ai-anticipate-future-events-unveiling-the-processes/"><u>How Does Predictive AI Anticipate Future Events? Unveiling the Processes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reviving-lost-data-a-guide-to-restoring-files-based-on-naming-convention/"><u>Reviving Lost Data: A Guide to Restoring Files Based on Naming Convention</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-problems-with-these-easy-to-follow-steps/"><u>Solve Razer Microphone Problems with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-refreshing-your-pcs-core-updating-the-motherboard-drivers-in-windows/"><u>Ultimate Guide: Refreshing Your PC's Core - Updating the Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellung-verlorener-microsoft-office-dateien-unter-windows-10-und-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Verlorener Microsoft Office Dateien Unter Windows 10 Und 11: Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

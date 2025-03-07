@@ -1,7 +1,7 @@
 ---
 title: Windows 7 DISMコマンドの使い方に関する包括的ガイド
-date: 2025-01-24T21:00:19.726Z
-updated: 2025-01-26T18:54:10.213Z
+date: 2025-03-06T03:50:48.919Z
+updated: 2025-03-07T05:30:22.562Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4b58484c2ecd065884a25aa3.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
@@ -52,10 +48,6 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 ## About winload.efi file
@@ -63,10 +55,6 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 **Winload.efi**, an EFI (Extensible Firmware Interface) file, plays a crucial role in booting, restarting, and installing Windows. It serves as a vital component in the core of the boot process. When missing or corrupted, Windows faces difficulties in normal booting, leading to a stuck state on a blue or black screen with error codes like "Winload.efi Missing" or "winload.efi error code 0xc00000e.
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What caused winload.efi missing error?
 
@@ -90,10 +78,6 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -105,10 +89,6 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
@@ -132,17 +112,9 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -185,10 +157,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -256,10 +224,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
@@ -283,10 +247,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -313,18 +273,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-basics-to-expert-a-complete-guide-to-youtube-chapter-addition/"><u>[New] From Basics to Expert A Complete Guide to YouTube Chapter Addition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-simplify-media-handling-with-top-18-free-converters-for-windowsmacos-users/"><u>[New] In 2024, Simplify Media Handling With Top 18 Free Converters For Windows/macOS Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-effortless-mpeg-creation-from-youtube-content/"><u>[Updated] 2024 Approved Effortless MPEG Creation From YouTube Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-idea-inception-using-google-trends-to-fuel-videography/"><u>[Updated] 2024 Approved Idea Inception Using Google Trends to Fuel Videography</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504001881-aomei-backupper/"><u>實現升級 AOMEI Backupper 語言選擇: 詳盡指南</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effiziente-datenwiedergewinnung-aus-defekten-hdds-expertenrat-und-strategien-zur-rettung-ihrer-informationen/"><u>Effiziente Datenwiedergewinnung Aus Defekten HDDs - Expertenrat Und Strategien Zur Rettung Ihrer Informationen</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elevating-virtual-reality-comfort-and-convenience-in-depth-look-at-the-essential-oculus-quest-2-elite-strap-with-extra-battery-life-and-secure-carry-case/"><u>Elevating Virtual Reality Comfort and Convenience: In-Depth Look at the Essential Oculus Quest 2 Elite Strap with Extra Battery Life and Secure Carry Case</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-resolve-a-system-crash-caused-by-your-gpu-insights-from-yls-tech-gurus/"><u>How to Resolve a System Crash Caused by Your GPU: Insights From YL's Tech Gurus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/no-account-necessary-a-guide-to-watching-instagram-stories/"><u>No-Account Necessary: A Guide to Watching Instagram Stories</u></a></li>
-<li><a href="https://discover-help.techidaily.com/schritt-fur-schritt-leitfaden-zum-sicherung-von-gmail-postfachern-als-pst-dateien/"><u>Schritt-Für-Schritt-Leitfaden Zum Sicherung Von Gmail-Postfächern Als PST-Dateien</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/the-best-top-10-sd-card-repair-programs-of-the-year/"><u>The Best Top 10 SD Card Repair Programs of the Year</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/warum-synchronisieren-sie-goodnotes-nicht-auf-ihrem-mac-hier-sind-drei-schnelle-fix-methoden/"><u>Warum Synchronisieren Sie GoodNotes Nicht Auf Ihrem Mac? Hier Sind Drei Schnelle Fix-Methoden</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-server-2012-r2-ein-spiegelbild-der-leistung-effiziente-implementierungstechniken-erklart/"><u>Windows Server 2012 (R2): Ein Spiegelbild Der Leistung - Effiziente Implementierungstechniken Erklärt</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>[New] In 2024, Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-recording-playbook-your-roblox-adventures-transformed-for-2024/"><u>[New] The Ultimate Recording Playbook Your Roblox Adventures, Transformed for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-easy-guide-recover-your-lost-windows-login-credentials-with-yl-software/"><u>1. Easy Guide: Recover Your Lost Windows Login Credentials with YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evolved-suite-of-windows-media-editors/"><u>2024 Approved Evolved Suite of Windows Media Editors</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/detecting-and-resolving-windows-memory-leak-problems-a-comprehensive-tutorial/"><u>Detecting and Resolving Windows Memory Leak Problems: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-guide-playing-audio-files-in-windows-tips-from-yl-computing/"><u>Easy Guide: Playing Audio Files in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-the-official-samsung-m2020-printing-software-here/"><u>Find and Download the Official Samsung M2020 Printing Software Here</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/fortnite-chapter-3-season-4-masterpieces-unveiled-by-yl-software-get-your-wallpaper-collection-now/"><u>Fortnite Chapter 3 Season 4 Masterpieces Unveiled by YL Software – Get Your Wallpaper Collection Now!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/identifying-graphics-card-issues-a-comprehensive-guide-expertise-from-yl-computing/"><u>Identifying Graphics Card Issues: A Comprehensive Guide - Expertise From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x50i-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X50i FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/languages-of-croatia/"><u>Languages of Croatia</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/optimizing-application-performance-how-to-customize-memory-usage-in-windows-expert-tips-from-yl-computing/"><u>Optimizing Application Performance: How to Customize Memory Usage in Windows - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-issues-with-missing-or-malfunctional-graphics-cards-in-windows-tips-from-yl-computing/"><u>Resolving Issues with Missing or Malfunctional Graphics Cards in Windows - Tips From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide Détaillé : Clonage D'un Disque PC Portable Vers HDD Ou SSD"
-date: 2025-01-21T17:32:37.659Z
-updated: 2025-01-26T21:42:06.581Z
+date: 2025-02-28T08:27:07.619Z
+updated: 2025-03-07T05:19:35.921Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
@@ -61,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -101,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -145,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,22 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bridging-platforms-the-instagram-and-tiktok-guide/"><u>[New] Bridging Platforms The Instagram & TikTok Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-10-mock-musicals-that-bring-smiles/"><u>[Updated] 2024 Approved 10 Mock Musicals That Bring Smiles</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5asx6lmk5pu457gk5zwp6agm55qe56ul5y2z6kej5rg65pa55rov/"><u>失蹤書籤問題的立即解決方法</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/explorez-les-solutions-de-sauvegarde-parlantes-pour-ssd-samsung-t7-les-options-superieures-et-performantes/"><u>Explorez Les Solutions De Sauvegarde Parlantes Pour SSD Samsung T7 : Les Options Supérieures Et Performantes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/first-impressions-diving-into-the-usability-of-mods-latest-sidecar-bike/"><u>First Impressions: Diving Into the Usability of Mod's Latest Sidecar Bike</u></a></li>
-<li><a href="https://win-dash.techidaily.com/freshly-released-nvidia-rtx-2060-drivers-install-for-windows-users-today/"><u>Freshly Released NVIDIA RTX 2060 Drivers: Install for Windows Users Today</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/optimal-hd-video-memory-creators/"><u>Optimal HD Video Memory Creators</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728473971886-outlook/"><u>Outlookデスクトップ上で安全なフォルダーバックアップを実現するための重要方法</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/problematische-datentragerwiederherstellung-kein-punkt-moglich-entdecken-sie-hier-die-drei-effektivsten-losungen/"><u>Problematische Datenträgerwiederherstellung: Kein Punkt Möglich! Entdecken Sie Hier Die Drei Effektivsten Lösungen!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-simple-guide-erasing-the-recovery-partition-on-windows-11-using-two-methods/"><u>Quick and Simple Guide: Erasing the Recovery Partition on Windows 11 Using Two Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-purchasing-bitcoin-via-the-strike-app-on-your-phone/"><u>Step-by-Step Guide: Purchasing Bitcoin via the Strike App on Your Phone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ricks-to-triumph-youtube-gamers-edition/"><u>Tag Tricks to Triumph YouTube Gamers Edition</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transform-your-email-ctas-in-4-easy-steps-unlock-successful-strategies-and-tricks-using-massmail/"><u>Transform Your Email CTAs in 4 Easy Steps - Unlock Successful Strategies & Tricks Using Massmail!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/vanguard-alta-pro-263ab-tripod-review/"><u>Vanguard Alta Pro 263AB Tripod Review</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728507030401-windows-server-3/"><u>Windows Server 減少舊保存的技巧：3 道方法指引</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/asusf9/"><u>アサスノートパソコンが始動しない? 簡単なAsus回復キーF9の使用ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-visual-wonders-home-made-effects-demystified/"><u>[Updated] 2024 Approved Crafting Visual Wonders Home-Made Effects Demystified</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet/"><u>[Updated] 2024 Approved Seamless PPT Showcase Across Tablets & Laptops for GMeet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-nuances-of-professional-voice-over-workflow/"><u>[Updated] Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-decoding-vimeos-variety-of-subscription-plans-and-their-advantages/"><u>2024 Approved Decoding Vimeo's Variety of Subscription Plans and Their Advantages</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-guide-to-enable-pdf-download-on-your-site-with-flipbuilder/"><u>Easy Guide to Enable PDF Download on Your Site with FlipBuilder</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/efficient-steps-for-instantly-exporting-live-settings-into-a-theme-in-flipbuilder/"><u>Efficient Steps for Instantly Exporting Live Settings Into a Theme in FlipBuilder</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortlessly-transform-several-pdf-documents-into-individual-flipbooks-using-custom-naming-schemes-flipbuildercom/"><u>Effortlessly Transform Several PDF Documents Into Individual Flipbooks Using Custom Naming Schemes [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/enhance-your-ebooks-by-adding-photos-a-guide-on-crafting-pixel-perfect-page-turners-with-flipbuilder-technology/"><u>Enhance Your eBooks by Adding Photos: A Guide on Crafting Pixel-Perfect Page Turners with FlipBuilder Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-asus-atk0110-acpi-driver-downloads-get-them-now/"><u>Free ASUS ATK0110 ACPI Driver Downloads - Get Them Now</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/future-proofing-development-the-art-of-saving-and-recycling-flipprojects-on-flipbuildercom/"><u>Future-Proofing Development: The Art of Saving and Recycling FlipProjects on FlipBuilder.com</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-does-flipbuilder-facilitate-easy-file-uploads-for-your-web-projects/"><u>How Does FlipBuilder Facilitate Easy File Uploads for Your Web Projects?</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-f5-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco F5 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/1726226518477-asf-mp4-movavi/"><u>ビデオ変換器のスイッチ：有料なし、ASF MP4へ - Movaviプラス</u></a></li>
 </ul></div>
 

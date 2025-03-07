@@ -1,7 +1,7 @@
 ---
 title: "Guide Détaillé : Restaurer Une Corbeille Endommagée Sur Windows 11 – Solutions Fiables."
-date: 2025-01-19T17:23:22.947Z
-updated: 2025-01-26T23:08:17.615Z
+date: 2025-03-03T23:42:29.979Z
+updated: 2025-03-07T07:10:41.475Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94f81e88dbd632b404f3b4368.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -85,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -117,14 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,17 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>[New] 2024 Approved Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-ranked-techniques-for-capturing-online-sport-spectacles/"><u>[New] In 2024, Top-Ranked Techniques for Capturing Online Sport Spectacles</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728474454219-windows-10/"><u>如何在 Windows 10 中以不转换为基本磁盘的方式实现镜像卷 - 详解文章</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/demarche-elegante-etapes-faciles-pour-mettre-a-jour-le-micrologiciel-hp-bios/"><u>Démarche Élégante : Étapes Faciles Pour Mettre À Jour Le Micrologiciel HP BIOS</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/demarrer-sans-probleme-un-dell-sur-windows-11-guide-dinstallation-simple/"><u>Demarrer Sans Problème Un Dell Sur Windows 11 - Guide D'Installation Simple</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/der-computer-startet-selbststandig-verstehen-sie-die-ursachen-und-ergreifen-sie-geeignete-massnahmen-zur-behebung-des-problems/"><u>Der Computer Startet Selbstständig: Verstehen Sie Die Ursachen Und Ergreifen Sie Geeignete Maßnahmen Zur Behebung Des Problems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pinnacle-of-hd-recording-expertly-curated-list/"><u>Pinnacle of HD Recording Expertly Curated List</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209865877-9781732463141-the-oneironauts/"><u>The Oneironauts | Free Book</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiedergutmachung-auf-ios-vollstandiges-loschen-von-inhalten-und-einstellungen/"><u>Wiedergutmachung Auf iOS: Vollständiges Löschen Von Inhalten Und Einstellungen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/winwordexe-gone-wrong-heres-5-simple-repairs/"><u>WINWORD.EXE Gone Wrong? Here's 5 Simple Repairs!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/iuodhplusodvoocvpluswbnuwplusqtog44kz44k544oi44gq44gx44gn44ov44kh44kk44or44go44ov44kp44or44oa44ks5yan55sf44gz44kl5pa55rovig/"><u>データ回復: コストなしでファイルとフォルダを再生する方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-2-directors-cut-downloads/"><u>[New] In 2024, Top 2 Director's Cut Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-advanced-gaming-monitoring-tools-for-a-better-experience-for-2024/"><u>[New] Innovative, Advanced Gaming Monitoring Tools for a Better Experience for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>[Updated] 2024 Approved Effortlessly Enhanced Images Learn the Insider Snapchat Tactics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-taking-charge-stop-instagram-suggested-posts/"><u>[Updated] 2024 Approved Taking Charge Stop Instagram Suggested Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-best-steadicam-options-for-high-end-dslr-video-production/"><u>[Updated] The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-apple-settles-lawsuit-issues-compensation-for-selected-macbook-users-insights-and-updates-on-zdnet/"><u>Breaking: Apple Settles Lawsuit, Issues Compensation for Selected MacBook Users | Insights and Updates on ZDNET</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/high-resolution-star-wars-desktop-backgrounds-1080p-ultimate-collection-by-yl-computing/"><u>High-Resolution Star Wars Desktop Backgrounds (1080P) - Ultimate Collection by YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/is-it-possible-to-install-alternative-scanning-device-drivers-on-your-pc-instead-of-the-default-windows-version-expert-insights-from-yl-computing/"><u>Is It Possible to Install Alternative Scanning Device Drivers on Your PC Instead of the Default Windows Version? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/realistic-orange-hexagon-with-sunlight-glow-hd-wallpaper-by-yl-computing/"><u>Realistic Orange Hexagon with Sunlight Glow HD Wallpaper by YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolve-the-issue-of-error-code-0x8004016c-with-easy-fixes-included/"><u>Resolve the Issue of Error Code 0X8004016C with Easy Fixes Included</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/solving-windows-registry-problems-expert-tips-from-yl-computing/"><u>Solving Windows Registry Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-unexpected-system-shutdowns-expert-advice-from-yl-computing/"><u>Troubleshooting Unexpected System Shutdowns: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/uncovering-typical-reasons-behind-gpu-malfunctions-insights-from-yl-computings-experts/"><u>Uncovering Typical Reasons Behind GPU Malfunctions: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/yl-computing-tutorial-diagnosing-and-repairing-external-hdd-recognition-problems/"><u>YL Computing Tutorial: Diagnosing and Repairing External HDD Recognition Problems</u></a></li>
 </ul></div>
 

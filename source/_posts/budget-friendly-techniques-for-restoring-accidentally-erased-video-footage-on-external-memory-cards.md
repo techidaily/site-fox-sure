@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Techniques for Restoring Accidentally Erased Video Footage on External Memory Cards
-date: 2025-02-03T16:27:55.323Z
-updated: 2025-02-08T23:02:25.430Z
+date: 2025-03-01T21:25:28.799Z
+updated: 2025-03-07T07:05:28.029Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4f70f650b6f9e154154b14a23a923935cddb729dccba03ae23bb5479d56f059d.jpg
@@ -24,17 +24,9 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -45,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -63,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -100,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -117,10 +93,6 @@ The how to recover ransomware encrypted files guide is instructed as follows. Yo
 Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit **Backup and Restore (Windows 7)**.
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
@@ -145,10 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -203,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,24 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-broadcasting-best-practices-twitch-facebook-integration/"><u>[New] Broadcasting Best Practices Twitch-Facebook Integration</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-professionals-almanac-to-efficient-voice-recording/"><u>[New] Professional's Almanac to Efficient Voice Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-screen-record-on-windows-10-devices/"><u>[Updated] 2024 Approved Mastering Screen Record on Windows 10 Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-virtual-expansion-top-7-gear-choices-for-metavisionaries/"><u>[Updated] Virtual Expansion Top 7 Gear Choices for Metavisionaries</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728510298900-pc/"><u>「ブルースクリーンが頻発してPCのリセットが必要な場合、解決策とその手順」</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/office-n365/"><u>高效储存Office N365共用邮箱中已送达邮件: 一步到位解决方案</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/aomei-backupper-schritt-fur-schritt-anleitung-zur-befehlszeilensicherungserstellung/"><u>AOMEI Backupper: Schritt-Für-Schritt Anleitung Zur Befehlszeilensicherungserstellung</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/automatisches-backup-mit-microsoft-outlook-201n-eine-schritt-fur-schritt-anleitung/"><u>Automatisches Backup Mit Microsoft Outlook 201N: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-strategies-for-safeguarding-your-applications-a-tutorial-on-protecting-installations-in-various-versions-of-windows/"><u>Effective Strategies for Safeguarding Your Applications: A Tutorial on Protecting Installations in Various Versions of Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-nvidia-1080-drivers-for-optimal-performance-on-windows-n/"><u>Effortless Installation of NVIDIA 1080 Drivers for Optimal Performance on Windows N</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortlessly-transferring-images-from-your-iphone-to-ipad-using-the-easy-pinch-technique-and-other-top-strategies/"><u>Effortlessly Transferring Images From Your iPhone to iPad Using the Easy Pinch Technique and Other Top Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-fixes-for-when-your-dell-usb-port-stops-working-step-by-step/"><u>Expert Fixes for When Your Dell USB Port Stops Working - Step by Step</u></a></li>
-<li><a href="https://win-blog.techidaily.com/genshin-impact-troubleshooting-overcoming-error-4201-for-a-seamless-play-experience/"><u>Genshin Impact Troubleshooting: Overcoming Error 4201 for a Seamless Play Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-como-hacer-que-una-carpeta-de-red-se-mueva-automaticamente-a-google-drive-gratuito/"><u>Guía Paso a Paso: Cómo Hacer Que Una Carpeta De Red Se Mueva Automáticamente a Google Drive Gratuito</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guida-pratica-come-spostare-i-file-fotografici-da-un-mac-a-un-disco-rigido-senza-problemi-in-2-modi-efficaci/"><u>Guida Pratica: Come Spostare I File Fotografici Da Un Mac a Un Disco Rigido Senza Problemi in 2 Modi Efficaci</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-top-software-manycam-and-more/"><u>Live Streaming Mastery: Top Software - ManyCam and More</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-5-ersatzprodukte-fur-syncplicity-die-sichersten-und-zuverlassigsten-optionen/"><u>Top 5 Ersatzprodukte Für Syncplicity: Die Sichersten Und Zuverlässigsten Optionen</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-to-refresh-your-online-persona-icon/"><u>When to Refresh Your Online Persona Icon</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>[New] From Amateur to Artist Top 8 Beginner Camera Selections</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>[New] Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-advice-on-rl-gameplay-screen-sharing/"><u>[Updated] 2024 Approved Expert Advice on RL Gameplay Screen Sharing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-aiseesoft-screen-recorder-review/"><u>[Updated] In 2024, Aiseesoft Screen Recorder Review</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-114/"><u>複数セーブ策となるWindows 11バックアップ手法、4コツ探求</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728488171762-minecraft/"><u>如何在Minecraft中恢复丢失的游戏画面? - 最全面指南</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728504001881-aomei-backupper/"><u>實現升級 AOMEI Backupper 語言選擇: 詳盡指南</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambiar-de-mpeg4-a-avi-online-sin-coste-guia-del-siglo-xxi-con-movavi/"><u>Cambiar De MPEG4 a AVI Online Sin Coste: Guía Del Siglo XXI Con Movavi</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effiziente-datenwiedergewinnung-aus-defekten-hdds-expertenrat-und-strategien-zur-rettung-ihrer-informationen/"><u>Effiziente Datenwiedergewinnung Aus Defekten HDDs - Expertenrat Und Strategien Zur Rettung Ihrer Informationen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/hassle-free-hard-drive-transitioning-top-pick-for-effortless-data-movement/"><u>Hassle-Free Hard Drive Transitioning: Top Pick for Effortless Data Movement</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-making-videos-from-photos-and-soundtracks/"><u>In 2024, Unleash Your Creativity Making Videos From Photos and Soundtracks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-best-top-10-sd-card-repair-programs-of-the-year/"><u>The Best Top 10 SD Card Repair Programs of the Year</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-great-debate-should-you-go-for-obs-or-bandicam-in-2024/"><u>The Great Debate Should You Go for OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-20-hits-must-watch-tiktok-rappers-and-their-tracks-for-2024/"><u>Top 20 Hits Must-Watch TikTok Rappers & Their Tracks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ips-how-to-avoid-the-8-deadliest-youtube-dos-and-donts-for-newbies-for-2024/"><u>Top Tips How to Avoid the 8 Deadliest YouTube Dos and Don'ts for Newbies for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-10-dvd-drive-recognition-issue-completed-solution/"><u>Windows 10 DVD Drive Recognition Issue - Completed Solution</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-server-2012-r2-ein-spiegelbild-der-leistung-effiziente-implementierungstechniken-erklart/"><u>Windows Server 2012 (R2): Ein Spiegelbild Der Leistung - Effiziente Implementierungstechniken Erklärt</u></a></li>
 </ul></div>
 

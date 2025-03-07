@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJing Program: PCDJ DEX Version 3.17.0.3"
-date: 2025-02-16T22:17:11.996Z
-updated: 2025-02-18T17:34:34.584Z
+date: 2025-03-04T06:47:30.532Z
+updated: 2025-03-06T23:43:09.055Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
 
 * New DJ controllers supported: Numark PartyMix Live, Numark PartyMix MKII
@@ -48,10 +44,6 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.17.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,18 +64,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-treasure-trove-of-premium-youtube-images-from-6-websites-for-2024/"><u>[New] A Treasure Trove of Premium YouTube Images From 6 Websites for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-evaluating-max-360-and-hero-11-the-ultimate-gopro-video-battle-for-2024/"><u>[New] Evaluating Max 360 & Hero 11 The Ultimate GoPro Video Battle for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unshakeable-video-quality-best-stabilizers/"><u>[New] In 2024, Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-5-apps-combining-photography-and-soundscape/"><u>[Updated] Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721926130457-access-openais-newest-innovation-the-exclusive-gpt-custom-store-start-using-today/"><u>Access OpenAI's Newest Innovation: The Exclusive GPT Custom Store - Start Using Today!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/discovering-linuxs-top-screenshots-tools-for-2024/"><u>Discovering Linux's Top Screenshots Tools for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-identify-and-manage-installed-programs-on-your-computer/"><u>How to Identify and Manage Installed Programs on Your Computer</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-implement-subtitles-in-mp4-files-successfully-best-practices-and-tips/"><u>How to Implement Subtitles in MP4 Files Successfully: Best Practices and Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/simple-steps-quick-and-effective-techniques-for-mov-to-mp4-video-conversion/"><u>Simple Steps: Quick & Effective Techniques for MOV to MP4 Video Conversion</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/understanding-the-basics-comprehensive-guide-to-the-3gp-video-file-format/"><u>Understanding the Basics: Comprehensive Guide to the 3GP Video File Format</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-scaling-up-instagram-videos-mobile-and-desktop-approaches/"><u>[Updated] Scaling Up Instagram Videos Mobile & Desktop Approaches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users-for-2024/"><u>[Updated] The Complete Hulu Recording Manual for PC, Mac & Mobile Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-pathway-to-a-clutter-free-device-with-video-deletion-tips/"><u>[Updated] Your Pathway to a Clutter-Free Device with Video Deletion Tips</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-customizing-ixml-file-attributes/"><u>Comprehensive Guide to Customizing iXML File Attributes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comprehensive-guide-to-managing-media-files-through-app-vs-options-and-properties-interface/"><u>Comprehensive Guide to Managing MEDIA Files Through App-V's Options & Properties Interface</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/custom-interactive-actions-for-enhanced-user-experience/"><u>Custom Interactive Actions for Enhanced User Experience</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-protect-my-photographs-a-comprehnensive-guide-on-copyrighting-imagery/"><u>How Can I Protect My Photographs? A Comprehnensive Guide on Copyrighting Imagery</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/leading-2x2-photo-editor-apps-enhance-images-with-easy-crop-options-and-background-color-adjustments/"><u>Leading 2X2 Photo Editor Apps : Enhance Images with Easy Crop Options and Background Color Adjustments</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-paperless-workflow-with-the-fujitsu-scansnap-ix1400-insights-for-home-office-and-smes/"><u>Mastering Paperless Workflow with the Fujitsu ScanSnap iX1400: Insights for Home Office & SMEs</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-the-windows-registry-easy-entry-methods-for-tech-enthusiasts-yl-software-insights/"><u>Mastering the Windows Registry: Easy Entry Methods for Tech Enthusiasts - YL Software Insights</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/module-selection-and-integration-wizard-dialogue-box/"><u>Module Selection & Integration Wizard Dialogue Box</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-honor-70-lite-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Honor 70 Lite 5G</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/the-ultimate-guide-to-reflecting-your-ipad-on-your-iphone-with-easy-steps/"><u>The Ultimate Guide to Reflecting Your iPad on Your iPhone with Easy Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/k-6-figure-videos-top-hashtag-trends-for-2024/"><u>Unlock 6-Figure Videos Top Hashtag Trends for 2024</u></a></li>
 </ul></div>
 

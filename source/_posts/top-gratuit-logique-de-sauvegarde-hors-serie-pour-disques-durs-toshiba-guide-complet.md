@@ -1,7 +1,7 @@
 ---
 title: "Top Gratuit Logique De Sauvegarde Hors-Serie Pour Disques Durs Toshiba: Guide Complet"
-date: 2025-01-23T19:18:45.199Z
-updated: 2025-01-27T00:35:56.751Z
+date: 2025-03-06T04:45:14.853Z
+updated: 2025-03-07T08:34:50.857Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0e7972cc64ae0b415a19b02f.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -105,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -116,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,24 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sure.techidaily.com/c-windows-ssdhdd/"><u>[易行] 利用 C 槽複製功能進行 Windows 移動到 SSD/HDD，啟動教程</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-artisans-guide-to-unique-photographic-assemblages-for-2024/"><u>[New] The Artisan's Guide to Unique Photographic Assemblages for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/m4rmovfreemovavi/"><u>便利!モビリティーに適したM4R、MOV形式をFREEオンラインで簡単変換:Movaviツクールガイド</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-ebsx1/"><u>詳解從容保存Windows Ebsx1使用者配置歸案</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/como-borrar-con-seguridad-el-archivo-windowsold-en-windows-11-sin-problemas-tres-estrategias-recomendadas/"><u>Cómo Borrar Con Seguridad El Archivo 'Windows.old' En Windows 11 Sin Problemas: Tres Estrategias Recomendadas</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-securely-backup-your-laptop-data-to-an-external-hdd-on-windows-windows-1187/"><u>How to Securely Backup Your Laptop Data to an External HDD on Windows [Windows 11/8/7]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-20-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 20 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-of-making-music-video-on-iphone/"><u>In 2024, Tips of Making Music Video on iPhone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/setting-up-automated-data-transfer-using-aomei-backupper-on-macos/"><u>Setting Up Automated Data Transfer: Using AOMEI Backupper on macOS</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/setting-up-email-alerts-with-vmware-vcenter-a-step-by-step-guide/"><u>Setting up Email Alerts with VMware vCenter: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/sicherung-und-wiederherstellung-verlorener-dateien-auf-externen-datentragern-ohne-verwendung-des-papierkorbs/"><u>Sicherung Und Wiederherstellung Verlorener Dateien Auf Externen Datenträgern Ohne Verwendung Des Papierkorbs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-elden-rings-cooperative-mode-fails/"><u>Troubleshooting Guide: When Elden Ring's Cooperative Mode Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-media-connectivity-problems/"><u>Troubleshooting Tips for Windows Media Connectivity Problems</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-passo-passo-su-come-ritrovare-e-recuperare-i-tuoi-file-scomparsi-da-memory-stick-della-playstation-portable-psp/"><u>Tutorial Passo-Passo Su Come Ritrovare E Recuperare I Tuoi File Scomparsi Da Memory Stick Della PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-formulate-your-balanced-meal-strategy/"><u>Utilizing ChatGPT to Formulate Your Balanced Meal Strategy</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-server-202n/"><u>Windows Server 202N：無需努力，三種自動備份選項的詳解</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[New] 2024 Approved Compiling Leading Short-Form Video Editors IOS/Android Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtubers-advanced-toolkit-studio-selection-over-beta/"><u>[New] 2024 Approved YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960499017-get-your-windows-compatible-epson-et-2750-printing-drivers-instantly/"><u>Get Your Windows Compatible Epson ET-2750 Printing Drivers Instantly</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-have-deng-xiaopings-economic-policies-transformed-china-since-1978-insights-from-yl-computing-and-software/"><u>How Have Deng Xiaoping's Economic Policies Transformed China Since 1978: Insights From YL Computing & Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-well-does-windows-defender-shield-against-online-threats-including-malware-expert-analysis-by-yl-computing-yl-software/"><u>How Well Does Windows Defender Shield Against Online Threats, Including Malware? – Expert Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-30i-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 30i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-narzo-n55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme Narzo N55 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/modifying-display-preferences-in-windows-control-panel-methods-explained-by-experts-at-yl-computing-innovations/"><u>Modifying Display Preferences in Windows: Control Panel Methods Explained by Experts at YL Computing Innovations</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-adjusting-audio-preferences-through-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Audio Preferences Through the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-insight-the-moto-g-power-shines-with-impressive-battery-life-and-performance/"><u>Tech Insight: The Moto G Power Shines with Impressive Battery Life & Performance</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unexpected-pc-freezes-and-restarts-diagnosis-and-solutions-with-yl-software-guidance/"><u>Unexpected PC Freezes and Restarts: Diagnosis & Solutions with YL Software Guidance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Schritt-Für-Schritt Anleitung: Beenden Der Dropbox-Synchronisation Mit Datenschutz Ohne Dateilöschung"
-date: 2025-02-14T02:45:37.631Z
-updated: 2025-02-18T20:59:09.921Z
+date: 2025-03-04T09:43:56.546Z
+updated: 2025-03-07T12:24:02.066Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059cedf35b9a34d45f9a041c8543.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -88,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -114,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -129,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -148,35 +128,19 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -202,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -256,19 +216,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reclaiming-snaps-secret-images/"><u>[New] 2024 Approved Reclaiming Snap's Secret Images</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-triumph-over-ten-common-vlogging-worries/"><u>[New] 2024 Approved Triumph Over Ten Common Vlogging Worries</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-free2x-recording-tech/"><u>[Updated] 2024 Approved Unveiling the Secrets of Free2X Recording Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/anweisungen-fur-die-verwendung-von-win3n-disk-imager-mit-windows-10-x64-schritt-fur-schritt-leitfaden/"><u>Anweisungen Für Die Verwendung Von Win3n Disk Imager Mit Windows 10 (X64) - Schritt-Für-Schritt-Leitfaden</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-effectively-purge-personal-data-from-your-iphone-with-reliable-erasing-applications/"><u>How to Effectively Purge Personal Data From Your iPhone with Reliable Erasing Applications</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y78plus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y78+ to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-c22-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia C22 to iPod | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/operate-srt-audio-on-windowsmacos/"><u>Operate SRT Audio on Windows/macOS</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/recover-deleted-files-on-a-lenovo-pc-professional-data-restoration-with-myrecover/"><u>Recover Deleted Files on a Lenovo PC - Professional Data Restoration with MyRecover</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-uploading-camera-roll-images-from-iphone-to-snapchat/"><u>Step-by-Step Tutorial: Uploading Camera Roll Images From iPhone to Snapchat</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/troubleshooting-tips-how-to-successfully-complete-an-iphone-restore-when-itunes-gets-stuck/"><u>Troubleshooting Tips: How to Successfully Complete an iPhone Restore when iTunes Gets Stuck</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/two-effective-methods-for-creating-a-backup-of-your-c-drive-in-windows-11/"><u>Two Effective Methods for Creating a Backup of Your C Drive in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-secret-story-spotters-top-5-app-recommendations/"><u>[New] 2024 Approved Secret Story Spotters Top 5 App Recommendations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-precise-shadows-with-adobe-curves/"><u>[Updated] Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-macbook-air-pairing-simplified-instructions-for-easy-connection/"><u>AirPods-MacBook Air Pairing: Simplified Instructions for Easy Connection</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/all-in-one-user-friendly-laptop-data-protection-program-perfect-for-any-device/"><u>All-in-One User-Friendly Laptop Data Protection Program - Perfect for Any Device</u></a></li>
+<li><a href="https://win-best.techidaily.com/como-instalar-windows-7-en-un-disco-de-estado-solido-nvme-tres-metodos-efectivos/"><u>Cómo Instalar Windows 7 en Un Disco De Estado Sólido NVMe: Tres Métodos Efectivos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/den-grund-fur-das-wiederholte-verschwinden-ihres-usb-sticks-erkennen/"><u>Den Grund Für Das Wiederholte Verschwinden Ihres USB-Sticks Erkennen</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-steps-for-expanding-storage-on-windows-without-a-full-os-install/"><u>Easy Steps for Expanding Storage on Windows without a Full OS Install</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visual-content-consumption-via-edges-pip/"><u>Enhancing Visual Content Consumption via Edge’s PIP</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-securely-wiping-data-and-factory-reinitializing-your-windows-11-tablet-by-skipping-passcode/"><u>Guide: Securely Wiping Data and Factory Reinitializing Your Windows 11 Tablet by Skipping Passcode</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-windows-computer/"><u>How to Stop StarCraft 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-an-expert-in-lut-technology/"><u>In 2024, Becoming an Expert in LUT Technology</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reinitialisation-vraie-du-demarrage-pour-windows-server-2016-2-techniques-efficaces-testees/"><u>Réinitialisation Vraie Du Démarrage Pour Windows Server 2016 | 2 Techniques Efficaces Testées</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-win11-screensaver-exceptions-easily/"><u>Sidestep WIN11 Screensaver Exceptions Easily</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/sql-server-2012-express-simple-guide-to-automating-database-backups/"><u>SQL Server 2012 Express: Simple Guide to Automating Database Backups</u></a></li>
 </ul></div>
 

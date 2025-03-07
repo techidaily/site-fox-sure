@@ -1,7 +1,7 @@
 ---
 title: "高效储存Office N365共用邮箱中已送达邮件: 一步到位解决方案"
-date: 2025-01-24T00:46:55.525Z
-updated: 2025-01-27T02:03:05.838Z
+date: 2025-03-06T03:50:37.640Z
+updated: 2025-03-07T00:25:10.805Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30fcfa28225c01631f4b2e459e.jpg
@@ -73,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -85,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -108,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-from-bland-to-breatited-the-ultimate-video-title-guide-for-2024/"><u>[New] From Bland to Breatited The Ultimate Video Title Guide for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-your-screen-essential-wins11-apps-and-games/"><u>[Updated] 2024 Approved Master Your Screen Essential Wins11 Apps & Games</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>[Updated] In 2024, From Novice to Viral Video Top 30 Anime Inspiration Ideas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pin-to-playlist-the-ultimate-guide-to-downloading-videos/"><u>[Updated] Pin-to-Playlist The Ultimate Guide to Downloading Videos</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/compressing-content-area-in-flipbuilder-flipbooks-for-enhanced-viewability/"><u>Compressing Content Area in FlipBuilder Flipbooks for Enhanced Viewability</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/creating-accessible-content-adding-tables-of-contents-to-flipbooks-on-flipbuilder/"><u>Creating Accessible Content: Adding Tables of Contents to Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/customizing-your-flipbar-step-by-step-guide-to-changing-the-menu-bar-color/"><u>Customizing Your FlipBar: Step-by-Step Guide to Changing the Menu Bar Color</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/discover-flipbuildercoms-feature-adding-interactive-buttons-in-ebook-outputs/"><u>Discover FlipBuilder.com's Feature: Adding Interactive Buttons in eBook Outputs</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-offer-features-for-horizontal-image-flipping-services/"><u>Does FlipBuilder Offer Features for Horizontal Image Flipping Services?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/does-flipbuilder-support-integration-with-multimedia-content/"><u>Does FlipBuilder Support Integration with Multimedia Content?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-must-take-linkedin-learning-courses/"><u>Expert Picks: Must-Take LinkedIn Learning Courses</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-pro-tips-grab-your-chromebooks-screen-with-these-4-hacks/"><u>In 2024, Pro Tips Grab Your Chromebook's Screen with These 4 Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection/"><u>[New] In 2024, Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-for-the-first-timer-easy-to-follow-guidelines-for-2024/"><u>[Updated] Zoom for the First Timer Easy-to-Follow Guidelines for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dragon-ball-marathon-mastery-how-to-binge-the-series-correctly/"><u>Dragon Ball Marathon Mastery: How to Binge the Series Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-fixing-unreachable-remote-servers/"><u>Effective Techniques for Fixing Unreachable Remote Servers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/gestion-des-donnees-manquantes-due-a-la-panne-de-lelectricite-strategies-efficaces-pour-reduire-le-risque/"><u>Gestion Des Données Manquantes Due a La Panne De L’Électricité: Stratégies Efficaces Pour Réduire Le Risque</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frugal-cloud-loft-economical-space-for-huge-file-stashes/"><u>In 2024, Frugal Cloud Loft Economical Space for Huge File Stashes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/incremental-data-protection-with-windows-server-top-backup-solutions/"><u>Incremental Data Protection with Windows Server: Top Backup Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>Interlinking Giants A Comprehensible Guide for Instra & Tikto</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/schnelle-behebung-fur-fehlercode-0xc000021a-in-windows-10-expertenrat/"><u>Schnelle Behebung Für Fehlercode 0xC000021A in Windows 10 - Expertenrat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/standout-panzoid-design-kits/"><u>Standout Panzoid Design Kits</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-troubleshooting-tips-for-retrieving-lost-and-concealed-documents-in-windows-11/"><u>Ultimate Troubleshooting Tips for Retrieving Lost and Concealed Documents in Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728467667276-3/"><u>パナソニックのビデオカメラから削除されたファイルを取り戻す3つの方法</u></a></li>
 </ul></div>
 

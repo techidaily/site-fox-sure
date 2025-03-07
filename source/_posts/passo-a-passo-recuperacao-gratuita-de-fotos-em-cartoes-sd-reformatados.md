@@ -1,7 +1,7 @@
 ---
 title: "Passo a Passo: Recuperação Gratuita De Fotos Em Cartões SD Reformatados"
-date: 2025-02-15T23:48:48.710Z
-updated: 2025-02-18T16:20:46.233Z
+date: 2025-03-05T07:46:43.761Z
+updated: 2025-03-06T23:12:37.375Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f98fdaf89e4bdea6c294906b1ec441a8350731ced113bf3e78f52392f565d416.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -105,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -116,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,24 +170,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-exploring-the-eminent-on-niche-focused-instagram-groups/"><u>[New] Exploring the Eminent on Niche-Focused Instagram Groups</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-savvy-obs-arrangement-for-economical-pcs/"><u>[New] In 2024, Savvy OBS Arrangement for Economical PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-complete-guide-to-facebook-dominance-business-edition/"><u>[New] The Complete Guide to Facebook Dominance Business Edition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-heres-how-you-can-ace-the-tiktok-photo-editing-hacks/"><u>2024 Approved Here’s How You Can Ace the TikTok Photo Editing Hacks</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-10-hdd-ssd/"><u>步驟更改 Windows 10 系統啟動介面從 HDD 改至 SSD</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-hiccups-top-ios-solutions-for-swift-recovery/"><u>ChatGPT Hiccups: Top iOS Solutions for Swift Recovery</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easy-guide-implementing-regular-nightly-backup-routines-in-any-version-of-windows-from-vista-to-the-latest/"><u>Easy Guide: Implementing Regular Nightly Backup Routines in Any Version of Windows From Vista to the Latest</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-windows-1011-login-errors-caused-by-user-profile-service-glitches/"><u>Expert Advice: Fixing Windows 10/11 Login Errors Caused by User Profile Service Glitches</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guida-esaustiva-per-la-condivisione-di-file-su-windows-11-nel-web/"><u>Guida Esaustiva per La Condivisione Di File Su Windows 11 Nel Web</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-to-flawlessly-extracting-movies-from-dvds-without-any-compromise-in-video-integrity/"><u>Guide to Flawlessly Extracting Movies From DVDs Without Any Compromise in Video Integrity</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-overcome-limited-storage-issues-when-running-operations/"><u>How to Overcome Limited Storage Issues When Running Operations</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/il-migliore-strumento-di-backup-e-clonazione-ssd-integrato-garantisce-lintegrita-dei-tuoi-dati/"><u>Il Migliore Strumento Di Backup E Clonazione SSD Integrato, Garantisce L'integrità Dei Tuoi Dati!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/la-derniere-edition-de-la-clonage-ssd-utiliser-acronis-true-image-et-ses-solutions-comparables/"><u>La Dernière Édition De La Clonage SSD : Utiliser Acronis True Image Et Ses Solutions Comparables</u></a></li>
-<li><a href="https://facebook.techidaily.com/profile-phantoms-exposing-imposter-accounts/"><u>Profile Phantoms: Exposing Imposter Accounts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/real-time-media-streamers-app-overview-for-2024/"><u>Real-Time Media Streamer's App Overview for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/secure-boot-is-enabled-but-inactive-on-windows-11-troubleshooting-guide/"><u>Secure Boot Is Enabled but Inactive on Windows 11: Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ssd-migration-tutorial-transferring-hard-drive-data-to-an-ssd-on-windows-11/"><u>SSD Migration Tutorial: Transferring Hard Drive Data to an SSD on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/vsphere-essentials-a-detailed-tutorial-on-setting-up-enhanced-linked-mode-in-vmware-vcenter-7/"><u>VSphere Essentials: A Detailed Tutorial on Setting up Enhanced Linked Mode in VMware vCenter 7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-radio-dramas-peak-of-creative-scripting/"><u>[New] Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones-for-2024/"><u>[Updated] Hear the Difference Explore the Best Voice Changer Software for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-preparing-to-go-live/"><u>Behind the Scenes Preparing to Go Live</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-8t-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 8T 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-role-of-b-roll-in-polishing-video-projects/"><u>In 2024, The Role of B-Roll in Polishing Video Projects</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/lost-files-recovery-by-date-effective-strategies-for-data-restoration/"><u>Lost Files Recovery by Date: Effective Strategies for Data Restoration</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolved-issues-with-your-hardware-detected-by-windows-now-corrected/"><u>Resolved: Issues with Your Hardware Detected by Windows, Now Corrected</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/safe-software-removal-techniques-expert-guide-from-yl-computing/"><u>Safe Software Removal Techniques: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-strategy-for-overcoming-files-with-unreadable-contents-issues/"><u>Step-by-Step Strategy for Overcoming Files with Unreadable Contents Issues</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728464627797-windows-11/"><u>Windows 11 資料夾備份指南：使用外接硬碟的兩種方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Attach and Boot From ISO Files in VMWare ESXi Environment
-date: 2025-02-12T18:32:26.532Z
-updated: 2025-02-18T22:44:00.727Z
+date: 2025-03-06T06:38:04.261Z
+updated: 2025-03-07T13:49:50.540Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f331fa0eea08a7ad594a08d5e2.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -105,10 +93,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,15 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>[New] How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] 2024 Approved The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504965122-windows-11windows-10/"><u>轻松指南：两种方法将电脑从Windows 11升格为Windows 10。</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/beide-ansatze-zur-ubertragung-und-schutz-neuer-daten-auf-einen-externen-speicherplatz/"><u>Beide Ansätze Zur Übertragung Und Schutz Neuer Daten Auf Einen Externen Speicherplatz</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-pratique-pour-la-creation-dune-image-iso-de-windows-sur-mesure/"><u>Guide Pratique Pour La Création D'une Image ISO De Windows Sur Mesure</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-effortlessly-recover-deleted-data-from-your-hard-disk-using-windows-versions-11-10-8-and-7-techniques/"><u>How to Effortlessly Recover Deleted Data From Your Hard Disk Using Windows Versions 11, 10, 8, and 7 Techniques</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-the-envelope-in-color-correction-top-10-luts-for-lightroom-experts/"><u>In 2024, Pushing the Envelope in Color Correction Top 10 LUTs For Lightroom Experts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wave-goodbye-to-frustration-fixes-for-a-smooth-run-with-halo-infinite-on-pc-7-tips/"><u>Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-usb-tethering-is-not-working/"><u>What to Do If Your USB Tethering Is Not Working</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-audio-visual-blend-in-online-photography/"><u>[New] 2024 Approved Audio-Visual Blend in Online Photography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-new-tech-horizon-with-microsofts-hololens-review/"><u>[New] In 2024, The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>[New] Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-writing-powerful-endings-techniques-and-real-world-examples/"><u>[New] Writing Powerful Endings Techniques & Real-World Examples</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/6-effektive-wege-um-automatische-windows-11-updates-zu-deaktivieren-schritt-fur-schritt-anleitung/"><u>6 Effektive Wege, Um Automatische Windows 11-Updates Zu Deaktivieren: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/rsyncwindows-11/"><u>最新バージョンのRsyncでWindows 11ファイルをスムーズに移動する - 実践ガイド</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/achieve-business-excellence-collaborate-with-aomei-backup-experts/"><u>Achieve Business Excellence: Collaborate with AOMEI Backup Experts!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/affordable-synchronization-tools-excellent-substitutes-to-chronosync-for-windows-os-versions-11-10-8/"><u>Affordable Synchronization Tools: Excellent Substitutes to ChronoSync for Windows OS Versions (11, 10, 8,</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embrace-enhanced-viewing-picture-in-picture-on-ms-edge/"><u>Embrace Enhanced Viewing Picture-in-Picture on MS Edge</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-zero-5g-2023-turbo-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Zero 5G 2023 Turbo 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guide-complet-pour-faire-une-copie-de-sauvegarde-en-windows-11/"><u>Guide Complet Pour Faire Une Copie De Sauvegarde en Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functional-mic-on-turtle-beach-audio-devices-easily/"><u>How to Fix a Non-Functional Mic on Turtle Beach Audio Devices Easily</u></a></li>
+<li><a href="https://win-web.techidaily.com/protect-your-vision-earth-night-in-stunning-4k-uhd-premium-full-screen-backgrounds-by-yl-computing/"><u>Protect Your Vision: Earth Night in Stunning 4K UHD - Premium Full-Screen Backgrounds by YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/recuperacion-de-particiones-borradas-o-extintas-en-windows-11-una-guia-definitiva/"><u>Recuperación De Particiones Borradas O Extintas en Windows 11: Una Guía Definitiva</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/reviving-asus-devices-overcoming-asus-lactation-problems-for-a-smooth-restart/"><u>Reviving Asus Devices: Overcoming ASUS Lactation Problems for a Smooth Restart</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728500708831-windows/"><u>Windows環境における安全なシステム保護: リカバリゾーン構築と回復手順</u></a></li>
 </ul></div>
 

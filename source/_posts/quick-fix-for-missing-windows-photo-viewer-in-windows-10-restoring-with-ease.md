@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Missing Windows Photo Viewer in Windows 10: Restoring with Ease."
-date: 2025-01-21T02:28:33.499Z
-updated: 2025-01-26T23:56:04.337Z
+date: 2025-03-04T22:01:53.831Z
+updated: 2025-03-06T19:53:08.804Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fbf846963d325dce5a6f79e5f.jpg
@@ -28,10 +28,6 @@ Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Inhaltsverzeichnis** 
 
 1. [Ist es sicher, den Papierkorb zu löschen?](https://tools.techidaily.com/ubackup/products/)
@@ -41,10 +37,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -74,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -85,10 +73,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -98,17 +82,9 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -161,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -172,10 +144,6 @@ Sicherer Download
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -239,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -268,18 +232,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[New] 2024 Approved Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pro-vs-pop-analyzing-gopro-and-polaroids-video-capabilities/"><u>[New] 2024 Approved Pro Vs. Pop Analyzing GoPro and Polaroid's Video Capabilities</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-screenwriting-circle-for-2024/"><u>[Updated] Elite Screenwriting Circle for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highlighting-key-developments-in-windows-movie-maker-releases/"><u>[Updated] Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/cmdwindows-hdd/"><u>「CMDスクリプトでWindows HDD上のデータを容易く無料で回復方法」</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/come-eseguire-il-backup-dei-file-salvataggio-su-pc-mac-ps4-and-xbox-per-the-sims-4/"><u>Come Eseguire Il Backup Dei File Salvataggio Su PC, Mac, PS4 & Xbox per The Sims 4</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/expande-tu-experiencia-de-juego-con-una-nueva-tarjeta-de-nintendo-switch/"><u>Expande Tu Experiencia De Juego Con Una Nueva Tarjeta De Nintendo Switch</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/find-what-youve-lost-with-ease-leading-key-trackers-of-2024-revealed/"><u>Find What You’ve Lost with Ease: Leading Key Trackers of 2024 Revealed!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/markets-best-gpus-for-uhd-video-processing-for-2024/"><u>Market's Best GPUs for UHD Video Processing for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/naviguez-a-travers-limpossible-techniques-doptimisation-seo-pour-conquerir-les-mots-bloques/"><u>Naviguez À Travers L'impossible: Techniques D'optimisation SEO Pour Conquérir Les Mots Bloqués</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/transfer-files-fast-from-one-drive-to-another-on-windows-10/"><u>Transfer Files Fast From One Drive to Another on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-the-not-installed-error-in-eac-launch-sequence/"><u>Troubleshooting Guide: Addressing the Not Installed Error in EAC Launch Sequence</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ustanovka-windows-11-neposredstvenno-na-ssd-metody-bez-ispolzovaniya-nositelya-dlya-vosproizvedeniya/"><u>Установка Windows 11 Непосредственно На SSD: Методы Без Использования Носителя Для Воспроизведения</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>[Updated] Calculating Earnings Ad Revenues in the World of YouTube, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-locating-live-broadcasts-and-shared-films-on-fb/"><u>[Updated] Locating Live Broadcasts and Shared Films on FB</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/comment-desactiver-onedrive-sur-windows-11-une-solution-simple-et-efficace/"><u>Comment Désactiver OneDrive Sur Windows 11 : Une Solution Simple Et Efficace</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-guide-for-downloading-iphone-footage-onto-a-windows-11-system/"><u>Effortless Guide for Downloading iPhone Footage Onto a Windows 11 System</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/effortless-windows-11-system-restore-save-your-files-and-bounce-back/"><u>Effortless Windows 11 System Restore: Save Your Files and Bounce Back</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-indicator-of-a-block-no-snapshots-received/"><u>In 2024, The Indicator of a Block No Snapshots Received</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/revolutionizing-your-campaigns-the-updated-foundations-of-email-marketing-in-2010-part-two-featuring-massmail-insights/"><u>Revolutionizing Your Campaigns: The Updated Foundations of Email Marketing in 2010 | Part Two, Featuring Massmail Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-great-ai-debate-chatgpt-and-google-bard-on-showdown-day/"><u>The Great AI Debate: ChatGPT & Google Bard on Showdown Day</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-mouse-for-your-mac/"><u>The Ultimate Guide to Choosing the Perfect Mouse for Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-turing-test-concepts-and-competitors/"><u>Unraveling Turing Test Concepts and Competitors</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/why-choose-a-dedicated-responsive-mailing-system-unveiling-the-top-3-superiorities-to-web-services-massmail-expertise/"><u>Why Choose a Dedicated Responsive Mailing System? Unveiling the Top 3 Superiorities to Web Services | MassMail Expertise</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728495309078-windows-10ssd/"><u>Windows 10をSSDに転送する - 手っ取り早いクローンレス方法</u></a></li>
 </ul></div>
 

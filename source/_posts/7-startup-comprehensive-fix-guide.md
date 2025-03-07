@@ -1,7 +1,7 @@
 ---
 title: 7 Startup - Comprehensive Fix Guide
-date: 2025-02-12T20:00:21.137Z
-updated: 2025-02-19T02:27:40.598Z
+date: 2025-02-28T10:41:17.308Z
+updated: 2025-03-07T06:41:31.633Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f080f0e1330c1b328f3cf15bd0.jpg
@@ -50,10 +50,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
@@ -66,10 +62,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -77,10 +69,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -97,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -122,25 +106,13 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -175,10 +147,6 @@ Sicherer Download
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Zusammenfassung
 
 Wie kann man den Papierkorb vom Desktop entfernen in Windows 10/11? Sie können sich auf den ersten Teil beziehen.
@@ -188,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -268,20 +232,16 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-directly-upload-videos-from-twitter-to-tumblr/"><u>[New] 2024 Approved Directly Upload Videos From Twitter to Tumblr</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[New] 2024 Approved Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>2024 Approved Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/auf-das-ipad-kopierende-videos-von-einem-laptop-einfuhrungs-und-nutzungshinweise/"><u>Auf Das iPad Kopierende Videos Von Einem Laptop: Einführungs- Und Nutzungshinweise</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/conversion-gratuita-online-da-rmvb-a-mkv-con-movie-converter/"><u>Conversion Gratuita Online: Da RMVB a MKV Con Movie Converter</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-trick-how-to-quickly-save-google-drive-videos-on-your-iphone/"><u>Effortless Trick: How to Quickly Save Google Drive Videos on Your iPhone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-persistent-bluescreen-glitch-in-windows-10-updates/"><u>Fixing the Persistent BlueScreen Glitch in Windows 10 Updates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-access-to-the-latest-ios-181-pre-release-version-featuring-enhanced-ai-capabilities-on-your-device-join-the-testing-program-today/"><u>Get Access to the Latest IOS 18.1 Pre-Release Version Featuring Enhanced AI Capabilities on Your Device - Join The Testing Program Today!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/notice-unable-to-retrieve-content-404-error-occurred/"><u>Notice: Unable to Retrieve Content - 404 Error Occurred</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/practical-alternatives-for-installing-apps-bypassing-the-official-app-store/"><u>Practical Alternatives for Installing Apps Bypassing the Official App Store</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/problem-mit-dem-sharepoint-sync-knopf-entschlussele-3-wirksame-reparaturmethoden/"><u>Problem Mit Dem SharePoint-Sync-Knopf? Entschlüssele 3 Wirksame Reparaturmethoden!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/protecting-windows-1110-files-a-comprehensive-tutorial-on-pc-backup-to-external-drives/"><u>Protecting Windows 11/10 Files: A Comprehensive Tutorial on PC Backup to External Drives</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schutz-ihres-iphone-14-lose-abhangigkeit-von-itunes-und-icloud/"><u>Schutz Ihres iPhone 14: Lose Abhängigkeit Von iTunes Und iCloud!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones-for-2024/"><u>Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-10sd/"><u>Windows 10上でSDカードから消えたファイルを回復する簡単な手順</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-inexpensive-screenshot-and-record-software-guide/"><u>[New] Inexpensive Screenshot & Record Software Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/5aac5l2v5zyo5lin5zcm6k6plus5ash5lik5ogi5asn5yig6zmk55qe5lqa6ams6yck55u457c54wn54mh/"><u>如何在不同设备上恢复删除的亚马逊相簿照片</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-with-multiple-zip-archives-in-one-go/"><u>Boosting Productivity with Multiple ZIP Archives in One Go</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-creativity-android-photography-guide-for-2024/"><u>Capturing Creativity Android Photography Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-a2-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Redmi A2 support MKV video files?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/guia-paso-a-paso-restauracion-de-archivos-antiguos-desde-windowsold/"><u>Guía Paso a Paso: Restauración De Archivos Antiguos Desde 'Windows.old'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premiere-toolkit-for-app-introduction-edits/"><u>In 2024, Premiere Toolkit for App Introduction Edits</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211124901-9789198209273-pilgrim-puzzle-of-symbols/"><u>PILGRIM; Puzzle of Symbols | Free Book</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-steps-creating-a-quick-and-easy-system-backup-on-windows-11-8-or-7-using-free-software/"><u>Simple Steps: Creating a Quick & Easy System Backup on Windows 11, 8 or 7 Using Free Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-tutorial-on-fixing-boot-issues-in-windows-tenth-via-the-power-of-command-prompt/"><u>Step-by-Step Tutorial on Fixing Boot Issues in Windows Tenth via the Power of Command Prompt</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wie-importiere-ich-bilder-und-videos-vom-iphone-14-auf-einen-windows-pc/"><u>Wie Importiere Ich Bilder Und Videos Vom iPhone 14 Auf Einen Windows-PC?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Windows 11 System Restore: Save Your Files and Bounce Back"
-date: 2025-02-17T19:36:21.557Z
-updated: 2025-02-18T18:50:00.225Z
+date: 2025-03-03T06:20:48.056Z
+updated: 2025-03-07T02:34:07.925Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b385169c77c7289604800839b.jpg
@@ -27,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -60,17 +56,9 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -87,10 +75,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -105,10 +89,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -118,10 +98,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -169,10 +145,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -273,15 +241,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,22 +258,14 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[Updated] 2024 Approved Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-bringing-text-to-life-3d-techniques-in-illustrator/"><u>[Updated] In 2024, Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-invisible-watch-top-5-stealthy-story-apps/"><u>2024 Approved Invisible Watch Top 5 Stealthy Story Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-leveraging-picture-in-progressive-mode-on-chrome-across-platforms/"><u>2024 Approved Leveraging Picture in Progressive Mode on Chrome Across Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>2024 Approved Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728479485434-windows-10/"><u>解決方法: Windows 10 桌面上缺少文件的迷思</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/como-hacer-mas-de-una-copia-de-seguridad-con-exito-en-windows-10-metodos-practicos-y-eficientes/"><u>Cómo Hacer Más De Una Copia De Seguridad Con Éxito en Windows 10 – Métodos Prácticos Y Eficientes</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effortless-troubleshooting-guide-revive-your-iphone-out-of-recovery-mode-instantly/"><u>Effortless Troubleshooting Guide - Revive Your iPhone Out of Recovery Mode Instantly!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/facile-transition-vers-windows-11-sans-perdre-vos-donnees-guide-complet/"><u>Facile Transition Vers Windows 11 Sans Perdre Vos Données: Guide Complet</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/fehlerfreier-datenaustausch-in-windows-10-entschlusselte-schritte-zur-problemlosung/"><u>Fehlerfreier Datenaustausch in Windows 10 - Entschlüsselte Schritte Zur Problemlösung</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/little-wheels-whirlwind-games-for-2024/"><u>Little Wheels Whirlwind Games for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728503727570-missing-page-alert-content-cannot-be-displayed/"><u>Missing Page Alert: Content Cannot Be Displayed</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-fixes-restoring-missing-sticky-notes-on-your-windows-11-pc/"><u>Quick Fixes: Restoring Missing Sticky Notes on Your Windows 11 PC</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/reviving-lost-data-a-guide-to-restoring-files-based-on-naming-convention/"><u>Reviving Lost Data: A Guide to Restoring Files Based on Naming Convention</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/skyrocket-engagement-optimizing-videos-for-peak-views-for-2024/"><u>Skyrocket Engagement Optimizing Videos for Peak Views for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-adventure-recorder-garmin-virb-ultra-30-tests-for-2024/"><u>The Ultimate Adventure Recorder - Garmin VIRB Ultra 30 Tests for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/wiederherstellung-verlorener-microsoft-office-dateien-unter-windows-10-und-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Verlorener Microsoft Office Dateien Unter Windows 10 Und 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-razr-40-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Razr 40 Ultra Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/come-passare-da-uno-schermo-al-controparte-altro-clonare-o-reimpostare-il-sistema-modalita-provvisoria/"><u>Come Passare Da Uno Schermo Al Controparte Altro, Clonare O Reimpostare Il Sistema (Modalità Provvisoria)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a38-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A38 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/praktische-anleitung-zum-wiederauffinden-ihrer-ps4-daten-auf-einem-pc-erfolg-garantiert-mit-myrecover/"><u>Praktische Anleitung Zum Wiederauffinden Ihrer PS4 Daten Auf Einem PC - Erfolg Garantiert Mit MyRecover</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-sony-xperia-10-v-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Sony Xperia 10 V Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-recommended-kingston-ssdclone-applications-a-comprehensive-guide/"><u>Top Recommended Kingston SSDClone Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728485184384-windows-112/"><u>Windows 11に最適化された2種類のバックアップ手法:作成ガイド</u></a></li>
 </ul></div>
 

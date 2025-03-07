@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Cloning Windows 10/11 on a USB Drive – Step-by-Step Tutorial
-date: 2025-01-26T01:32:56.829Z
-updated: 2025-01-26T17:00:48.811Z
+date: 2025-03-03T22:30:27.397Z
+updated: 2025-03-07T06:34:41.382Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/60c674fe13d2acd35556279ca564158ce88f6acfb541643cb5f48b7273c16f81.jpg
@@ -50,10 +50,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -63,10 +59,6 @@ In a word, if you want to make an image back for your computer or want to clone 
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -83,15 +75,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -162,10 +146,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
@@ -184,19 +164,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -273,15 +241,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,22 +258,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>[Updated] 2024 Approved APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-blueprint-for-boosting-business-results-with-better-offices/"><u>[Updated] A Blueprint for Boosting Business Results with Better Offices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-edit-youtube-videos-ultimate-guide-for-2024/"><u>[Updated] How To Edit YouTube Videos [Ultimate Guide] for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/5-simple-steps-to-recover-accidentally-deleted-files-from-eclipse/"><u>5 Simple Steps to Recover Accidentally Deleted Files From Eclipse</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728507317598-nas/"><u>三种转移NAS台贴雲存储中文档案至外置硬盘的最佳方式</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/avoiding-common-pitfalls-in-your-search-for-spectacular-pexels-photos-for-2024/"><u>Avoiding Common Pitfalls in Your Search for Spectacular Pexels Photos for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-installer-windows-11-sur-des-ordinateurs-multiples-en-un-coup-guide-facile/"><u>Comment Installer Windows 11 Sur Des Ordinateurs Multiples en Un Coup - Guide Facile</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/guide-simple-comment-transferer-des-fichiers-a-un-disque-dur-exterieur-sans-duplication/"><u>Guide Simple: Comment Transférer Des Fichiers À Un Disque Dur Extérieur Sans Duplication</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-restore-information-on-an-xqd-card-after-re-formatting-the-leading-solutions/"><u>How to Restore Information on an XQD Card After Re-Formatting: The Leading Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-eliminating-exposure-how-to-conceal-private-video-sections/"><u>In 2024, Eliminating Exposure How to Conceal Private Video Sections</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-genius-widecam-f100-camera-confronting-visual-distortion-and-acoustic-feedback/"><u>In-Depth Evaluation of the Genius WideCam F100 Camera - Confronting Visual Distortion and Acoustic Feedback</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728482563319-ipaditunes/"><u>IPad音乐传输到电脑:使用ITunes与其他方法</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mac-data-sync-made-easy-the-ultimate-step-by-step-guide/"><u>Mac Data Sync Made Easy: The Ultimate Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/seamlessly-stream-or-play-dvds-on-apples-latest-tablets-mini-pro-and-air-tips/"><u>Seamlessly Stream or Play DVDs on Apple's Latest Tablets: Mini, Pro & Air Tips</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728504960706-windows-11-plus/"><u>Windows 11處理停用或開啟最近使用過的文件 - 兩種有效解決方式+一項建議</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treaming-google-meet-a-step-by-step-youtube-tutorial-for-2024/"><u>[New] Streaming Google Meet A Step-By-Step YouTube Tutorial for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-10-indispensable-instagram-video-editing-apps-for-marketers/"><u>[Updated] 2024 Approved 10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games/"><u>[Updated] 2024 Approved 2023'S Ultimate Selection of iOS Devices for Classic PSP Games</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/can-you-tailor-your-own-windows-defender-configurations-expert-insights-from-yl-computing/"><u>Can You Tailor Your Own Windows Defender Configurations? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/coordinating-devices-in-power-save-windows-states/"><u>Coordinating Devices in Power-Save Windows States</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/defending-your-pc-against-cyber-threats-a-step-by-step-guide-by-yl-software/"><u>Defending Your PC Against Cyber Threats: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-perfect-work-travel-companion-a-stylish-13-laptop-alternative-to-macbook-and-dell-xps-recommendations/"><u>Discover the Perfect Work-Travel Companion: A Stylish 13 Laptop Alternative to MacBook & Dell XPS Recommendations</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/easy-methods-to-print-word-files-docx-on-a-windows-machine-expert-advice-by-yl-software/"><u>Easy Methods to Print Word Files (DOCX) on a Windows Machine - Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-common-reasons-for-slow-pc-functionality-with-tips-from-yl-software-experts/"><u>Exploring Common Reasons for Slow PC Functionality with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/high-definition-galactic-themes-premium-space-wallpaper-collection-by-yl-computing/"><u>High-Definition Galactic Themes: Premium Space Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/high-resolution-emma-watson-hd-wallpaper-collection-premium-quality-images-and-graphics/"><u>High-Resolution Emma Watson HD Wallpaper Collection - Premium Quality Images & Graphics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/incognito-observer-of-online-chronicles/"><u>Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-network-connectivity-problems-a-step-by-step-guide-from-yl-computings-experts/"><u>Resolving Network Connectivity Problems: A Step-by-Step Guide From YL Computing's Experts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-accounting-solutions-of-2022-find-your-ideal-match-today/"><u>Top Rated Accounting Solutions of 2022: Find Your Ideal Match Today!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-your-gpu-solutions-when-your-video-card-fails-yl-computings-guide/"><u>Troubleshooting Your GPU: Solutions When Your Video Card Fails - YL Computing's Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-xs-max-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone XS Max using icloud website</u></a></li>
+<li><a href="https://win-hot.techidaily.com/who-authored-the-classic-analects-discover-the-renowned-chinese-thinker-behind-it-insights-by-yl-tech/"><u>Who Authored the Classic 'Analects'? Discover The Renowned Chinese Thinker Behind It - Insights by YL Tech</u></a></li>
 </ul></div>
 
